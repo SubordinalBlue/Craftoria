@@ -1,0 +1,256 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "hexagon"
+	filename: "goo_goo_gachoo"
+	group: ""
+	id: "74AB828BB8D10AFC"
+	images: [{
+		height: 3.0d
+		image: "ftbquests:textures/shapes/hexagon/background.png"
+		rotation: 0.0d
+		width: 3.0d
+		x: 0.0d
+		y: 0.0d
+	}]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			hide_dependent_lines: true
+			icon_scale: 1.25d
+			id: "14F4DB11D2300B17"
+			shape: "hexagon"
+			size: 1.0d
+			tasks: [{
+				id: "1D971DA22416CBEC"
+				item: { components: { "ftbfiltersystem:filter": "or(item(justdirethings:gooblock_tier1)item(justdirethings:gooblock_tier2)item(justdirethings:gooblock_tier3)item(justdirethings:gooblock_tier4))", "minecraft:custom_name": "\"Any Goo\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -0.25d
+		}
+		{
+			id: "5F006A7FC2AA0742"
+			tasks: [{
+				id: "15958F0EE0E33B98"
+				item: { count: 1, id: "minecraft:iron_block" }
+				type: "item"
+			}]
+			x: -0.7d
+			y: 2.1d
+		}
+		{
+			dependencies: [
+				"14F4DB11D2300B17"
+				"5F006A7FC2AA0742"
+			]
+			id: "280F5BB4DB9D58E5"
+			tasks: [{
+				id: "11985E0B2C992E8B"
+				item: { count: 1, id: "justdirethings:raw_ferricore_ore" }
+				type: "item"
+			}]
+			x: 3.4999999999999996d
+			y: -4.1d
+		}
+		{
+			id: "0A329111CFCBEB45"
+			tasks: [{
+				id: "09493EBDA91DD972"
+				item: { count: 1, id: "justdirethings:raw_ferricore" }
+				type: "item"
+			}]
+			x: -3.9d
+			y: -3.5d
+		}
+		{
+			id: "6B70ED607D173DC7"
+			tasks: [{
+				id: "58423EE8EE93E9D5"
+				item: { count: 1, id: "justdirethings:ferricore_ingot" }
+				type: "item"
+			}]
+			x: -4.8d
+			y: -3.3d
+		}
+		{
+			id: "038EC89C68ADF517"
+			tasks: [{
+				id: "6E2D31958FEB5AD4"
+				item: { count: 1, id: "minecraft:gold_block" }
+				type: "item"
+			}]
+			x: -1.4d
+			y: 2.6d
+		}
+		{
+			dependencies: ["038EC89C68ADF517"]
+			id: "22588FF5E154F4D9"
+			tasks: [{
+				id: "11D5A33145F0E40D"
+				item: { count: 1, id: "justdirethings:raw_blazegold_ore" }
+				type: "item"
+			}]
+			x: 2.8d
+			y: -3.6999999999999997d
+		}
+		{
+			id: "713F665464E79725"
+			tasks: [{
+				id: "2CCE079BBCFF0320"
+				item: { count: 1, id: "minecraft:diamond_block" }
+				type: "item"
+			}]
+			x: -2.1d
+			y: 3.0d
+		}
+		{
+			id: "40C6190CD13A99F2"
+			tasks: [{
+				id: "5FBDD8C5010C7190"
+				item: { count: 1, id: "minecraft:netherite_block" }
+				type: "item"
+			}]
+			x: -2.8d
+			y: 3.4d
+		}
+		{
+			dependencies: ["713F665464E79725"]
+			id: "5C49B8E92261034C"
+			tasks: [{
+				id: "4C61D6656ADEEA57"
+				item: { count: 1, id: "justdirethings:raw_celestigem_ore" }
+				type: "item"
+			}]
+			x: 2.0999999999999996d
+			y: -3.3d
+		}
+		{
+			dependencies: ["40C6190CD13A99F2"]
+			id: "5D97839CBC29C0DB"
+			tasks: [{
+				id: "6F75ADCCE58A0937"
+				item: { count: 1, id: "justdirethings:raw_eclipsealloy_ore" }
+				type: "item"
+			}]
+			x: 1.4d
+			y: -2.8999999999999995d
+		}
+		{
+			icon_scale: 1.25d
+			id: "5B7A2528E95559EF"
+			size: 1.25d
+			tasks: [{
+				id: "48AEA84EE66F299A"
+				item: { components: { "ftbfiltersystem:filter": "or(item(justdirethings:gooblock_tier2)item(justdirethings:gooblock_tier3)item(justdirethings:gooblock_tier4))", "minecraft:custom_name": "\"Blazebloom or Better\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 6.375d
+			y: -2.0d
+		}
+		{
+			icon_scale: 1.25d
+			id: "7845047A75BF8374"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "3EF511486E163990"
+				item: { components: { "ftbfiltersystem:filter": "or(item(justdirethings:gooblock_tier3)item(justdirethings:gooblock_tier4))", "minecraft:custom_name": "\"VoidShimmer or Better\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 6.6000000000000005d
+			y: -3.7500000000000004d
+		}
+		{
+			hide_dependent_lines: true
+			id: "59633DBD129BC39F"
+			shape: "circle"
+			size: 0.75d
+			tasks: [{
+				id: "7E6C4A3B4B95A3E2"
+				item: { count: 1, id: "justdirethings:gooblock_tier1" }
+				type: "item"
+			}]
+			x: 2.7750000000000004d
+			y: -2.85d
+		}
+		{
+			id: "5439E460D2E4768B"
+			shape: "circle"
+			size: 1.0d
+			tasks: [{
+				id: "6A9EE76454757634"
+				item: { count: 1, id: "justdirethings:gooblock_tier2" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.2d
+		}
+		{
+			hide_details_until_startable: false
+			id: "5394F4220D5E0967"
+			shape: "circle"
+			size: 1.25d
+			tasks: [{
+				id: "2030FEC9FAE851AE"
+				item: { count: 1, id: "justdirethings:gooblock_tier3" }
+				type: "item"
+			}]
+			x: 1.25d
+			y: -1.375d
+		}
+		{
+			icon_scale: 2.0d
+			id: "79A94A090C517B18"
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [{
+				id: "7F4ED742CF05D0BC"
+				item: { count: 1, id: "justdirethings:gooblock_tier4" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "4B8DA23F71CA008A"
+			tasks: [{
+				id: "6649C025846F19CC"
+				item: { count: 1, id: "minecraft:coal_block" }
+				type: "item"
+			}]
+			x: 2.2d
+			y: 0.6d
+		}
+		{
+			id: "2117960DC37F0786"
+			tasks: [{
+				id: "6B56FC9DEE86495C"
+				item: { count: 1, id: "justdirethings:coalblock_t1" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 2.1d
+		}
+		{
+			id: "378DAB73FF89CCBB"
+			tasks: [{
+				id: "001BF4353FCCE59F"
+				item: { count: 1, id: "justdirethings:coalblock_t2" }
+				type: "item"
+			}]
+			x: 4.2d
+			y: 2.1d
+		}
+		{
+			id: "7D7C09A9715ED3EF"
+			tasks: [{
+				id: "40116024AEE06FD7"
+				item: { count: 1, id: "justdirethings:coalblock_t3" }
+				type: "item"
+			}]
+			x: 4.9d
+			y: 2.1d
+		}
+	]
+}
