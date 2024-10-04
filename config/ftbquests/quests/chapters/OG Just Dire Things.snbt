@@ -2,8 +2,8 @@
 	default_hide_dependency_lines: true
 	default_min_width: 192
 	default_quest_shape: "hexagon"
-	filename: "Just Dire Things"
-	group: "2185CC39A458F90D"
+	filename: "OG Just Dire Things"
+	group: "339B1A91ADDB30AC"
 	icon: {
 		id: "justdirethings:gooblock_tier4"
 	}
