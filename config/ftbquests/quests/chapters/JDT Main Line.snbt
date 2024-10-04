@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: "hexagon"
 	filename: "goo_goo_gachoo"
-	group: ""
+	group: "339B1A91ADDB30AC"
 	id: "74AB828BB8D10AFC"
 	images: [{
 		height: 3.0d
@@ -12,7 +12,7 @@
 		x: 0.0d
 		y: 0.0d
 	}]
-	order_index: 1
+	order_index: 0
 	quest_links: [ ]
 	quests: [
 		{

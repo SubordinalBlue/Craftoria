@@ -1,10 +1,10 @@
 {
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
-	filename: "tools__weaponry"
-	group: ""
-	id: "7D375F15C34ABA50"
-	order_index: 8
+	filename: "armor_upgrades"
+	group: "339B1A91ADDB30AC"
+	id: "1397FADB8589E9F0"
+	order_index: 1
 	quest_links: [ ]
 	quests: [ ]
 }
