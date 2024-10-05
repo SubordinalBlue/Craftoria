@@ -1,10 +1,161 @@
 {
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
-	filename: "armor_upgrades"
+	filename: "JDT Armor"
 	group: "339B1A91ADDB30AC"
 	id: "1397FADB8589E9F0"
-	order_index: 1
+	order_index: 2
 	quest_links: [ ]
-	quests: [ ]
+	quests: [
+		{
+			id: "49D4AA08C141550C"
+			tasks: [{
+				id: "4CFB760CBA07BC07"
+				item: { count: 1, id: "justdirethings:ferricore_helmet" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -9.5d
+		}
+		{
+			id: "05E2511264A22A2E"
+			tasks: [{
+				id: "688C5F1347805C66"
+				item: { count: 1, id: "justdirethings:ferricore_sword" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -9.5d
+		}
+		{
+			id: "35FD65E721E8C0D2"
+			tasks: [{
+				id: "2F6D5D87F9813B23"
+				item: { count: 1, id: "justdirethings:blazegold_helmet" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -9.5d
+		}
+		{
+			id: "7770F68501C9BF4F"
+			tasks: [{
+				id: "72EC462A126A9267"
+				item: { count: 1, id: "justdirethings:celestigem_helmet" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -9.5d
+		}
+		{
+			id: "22E9424133C11B39"
+			tasks: [{
+				id: "79616BDF30028E44"
+				item: { count: 1, id: "justdirethings:eclipsealloy_helmet" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: -9.5d
+		}
+		{
+			id: "058420AF3A29D4D9"
+			tasks: [{
+				id: "21D643206F33529E"
+				item: { count: 1, id: "justdirethings:upgrade_mindfog" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -9.5d
+		}
+		{
+			id: "58384B247F1D5A7C"
+			tasks: [{
+				id: "775ED4BAFD34039C"
+				item: { count: 1, id: "justdirethings:upgrade_stupefy" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -9.5d
+		}
+		{
+			id: "38F0D70BBECC9D9E"
+			tasks: [{
+				id: "78BB2AAD70192EB3"
+				item: { count: 1, id: "justdirethings:upgrade_nightvision" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -9.5d
+		}
+		{
+			id: "309EB8F6C0E34309"
+			tasks: [{
+				id: "3C76A5CD8A6CF50D"
+				item: { count: 1, id: "justdirethings:upgrade_debuffremover" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: -9.5d
+		}
+		{
+			id: "40E134AC271A6E68"
+			tasks: [{
+				id: "6078C7FA4DAC942F"
+				item: { count: 1, id: "justdirethings:upgrade_noai" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: -9.5d
+		}
+		{
+			id: "1458D32A7A2B0E1A"
+			tasks: [{
+				id: "692B1B82C092FAFC"
+				item: { count: 1, id: "justdirethings:ferricore_axe" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -7.5d
+		}
+		{
+			id: "54F0C05AA5947936"
+			tasks: [{
+				id: "75B54F9789C9EBAB"
+				item: { count: 1, id: "justdirethings:ferricore_pickaxe" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -8.5d
+		}
+		{
+			id: "5EBDC790BEE73624"
+			tasks: [{
+				id: "62E8D08D13663E77"
+				item: { count: 1, id: "justdirethings:ferricore_shovel" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -6.5d
+		}
+		{
+			id: "3B5B0960E35836B3"
+			tasks: [{
+				id: "50D49FB9D4B9A98C"
+				item: { count: 1, id: "justdirethings:ferricore_hoe" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -5.5d
+		}
+		{
+			id: "71CD4FECDEE30CD3"
+			tasks: [{
+				id: "62E091E29DB34413"
+				item: { count: 1, id: "justdirethings:bow_ferricore" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -10.5d
+		}
+	]
 }
