@@ -7,7 +7,180 @@
 		id: "ars_elemental:earth_focus"
 	}
 	id: "75719C45F41E8B00"
+	images: [
+		{
+			height: 3.0d
+			image: "eternal_starlight:block/oxidized_golem_steel_pillar_end"
+			rotation: 0.0d
+			width: 3.0d
+			x: 17.0d
+			y: -2.25d
+		}
+		{
+			height: 20.0d
+			image: "minecraft:textures/colormap/grass.png"
+			rotation: 0.0d
+			width: 20.0d
+			x: 31.25d
+			y: 3.25d
+		}
+		{
+			height: 4.0d
+			image: "minecraft:textures/gui/sprites/boss_bar/pink_progress.png"
+			rotation: 36.0d
+			width: 20.0d
+			x: 27.0d
+			y: -5.0d
+		}
+		{
+			height: 4.0d
+			image: "the_bumblezone:block/honey_fluid/still"
+			rotation: 36.0d
+			width: 20.0d
+			x: 3.75d
+			y: 0.25d
+		}
+		{
+			height: 8.0d
+			image: "ftbchunks:textures/topography_palette.png"
+			rotation: 36.0d
+			width: 20.0d
+			x: -10.0d
+			y: 6.5d
+		}
+		{
+			height: 4.0d
+			image: "minecraft:block/nether_portal"
+			rotation: 36.0d
+			width: 20.0d
+			x: -4.0d
+			y: 4.0d
+		}
+		{
+			height: 4.0d
+			image: "minecraft:textures/entity/end_portal.png"
+			rotation: 36.0d
+			width: 20.0d
+			x: 13.5d
+			y: -9.25d
+		}
+		{
+			height: 4.0d
+			image: "eternal_starlight:block/starlight_portal"
+			rotation: 36.0d
+			width: 20.0d
+			x: 26.0d
+			y: 9.25d
+		}
+		{
+			height: 4.0d
+			image: "minecraft:item/ender_eye"
+			rotation: 36.0d
+			width: 20.0d
+			x: -1.75d
+			y: 0.75d
+		}
+		{
+			height: 20.0d
+			image: "eternal_starlight:block/oxidized_golem_steel_pillar_side"
+			rotation: -36.0d
+			width: 8.0d
+			x: 8.5d
+			y: -2.25d
+		}
+	]
 	order_index: 2
 	quest_links: [ ]
-	quests: [ ]
+	quests: [
+		{
+			id: "16247499A2CD2819"
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [{
+				dimension: "minecraft:overworld"
+				icon: {
+					id: "minecraft:grass_block"
+				}
+				id: "2C0D456A2F04C55B"
+				type: "dimension"
+			}]
+			x: -9.5d
+			y: 5.0d
+		}
+		{
+			id: "46C398BB09FB1B93"
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				icon: {
+					id: "minecraft:netherrack"
+				}
+				id: "7254BC444499F796"
+				type: "dimension"
+			}]
+			x: -5.5d
+			y: 2.5d
+		}
+		{
+			id: "3B976305A59105C9"
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [{
+				dimension: "minecraft:the_end"
+				icon: {
+					id: "minecraft:end_stone"
+				}
+				id: "40673A47CA2C6393"
+				type: "dimension"
+			}]
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			id: "7871418BD7DDFC44"
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [{
+				dimension: "the_bumblezone:the_bumblezone"
+				icon: {
+					id: "the_bumblezone:glistering_honey_crystal"
+				}
+				id: "61447CAC2B74F1B8"
+				type: "dimension"
+			}]
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			id: "3AC5593C2CAF8F41"
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [{
+				dimension: "eternal_starlight:starlight"
+				icon: {
+					id: "eternal_starlight:nightfall_grass_block"
+				}
+				id: "4D9FFB43C1BC3AAC"
+				type: "dimension"
+			}]
+			x: 6.5d
+			y: -3.0d
+		}
+		{
+			id: "00F663BE7C691BB3"
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [{
+				dimension: "javd:void"
+				icon: {
+					id: "javd:portal_block"
+				}
+				id: "381320094301F4DF"
+				type: "dimension"
+			}]
+			x: 9.5d
+			y: -5.0d
+		}
+	]
 }
