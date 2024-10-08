@@ -17,76 +17,128 @@
 			y: -2.25d
 		}
 		{
-			height: 20.0d
+			height: 10.0d
 			image: "minecraft:textures/colormap/grass.png"
 			rotation: 0.0d
-			width: 20.0d
-			x: 31.25d
-			y: 3.25d
-		}
-		{
-			height: 4.0d
-			image: "minecraft:textures/gui/sprites/boss_bar/pink_progress.png"
-			rotation: 36.0d
-			width: 20.0d
-			x: 27.0d
-			y: -5.0d
+			width: 10.0d
+			x: -14.5d
+			y: 7.5d
 		}
 		{
 			height: 4.0d
 			image: "the_bumblezone:block/honey_fluid/still"
 			rotation: 36.0d
-			width: 20.0d
-			x: 3.75d
-			y: 0.25d
+			width: 4.0d
+			x: 2.5d
+			y: -1.0d
 		}
 		{
-			height: 8.0d
-			image: "ftbchunks:textures/topography_palette.png"
-			rotation: 36.0d
-			width: 20.0d
-			x: -10.0d
-			y: 6.5d
-		}
-		{
-			height: 4.0d
+			height: 3.0d
 			image: "minecraft:block/nether_portal"
-			rotation: 36.0d
-			width: 20.0d
-			x: -4.0d
-			y: 4.0d
+			rotation: 45.0d
+			width: 3.0d
+			x: -5.5d
+			y: 2.5d
 		}
 		{
 			height: 4.0d
 			image: "minecraft:textures/entity/end_portal.png"
 			rotation: 36.0d
-			width: 20.0d
-			x: 13.5d
-			y: -9.25d
+			width: 4.0d
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			alpha: 128
+			height: 4.0d
+			image: "eternal_starlight:block/starlight_portal"
+			order: 2
+			rotation: 36.0d
+			width: 4.0d
+			x: 6.5d
+			y: -3.0d
+		}
+		{
+			height: 4.0d
+			image: "minecraft:item/ender_eye"
+			order: 2
+			rotation: 36.0d
+			width: 4.0d
+			x: 14.0d
+			y: 5.5d
+		}
+		{
+			height: 4.0d
+			image: "minecraft:block/purpur_block3"
+			rotation: 36.0d
+			width: 4.0d
+			x: 15.25d
+			y: 17.5d
+		}
+		{
+			alpha: 128
+			height: 4.0d
+			image: "the_bumblezone:block/honey_fluid/still"
+			order: 2
+			rotation: 36.0d
+			width: 4.0d
+			x: 2.5d
+			y: -0.75d
+		}
+		{
+			alpha: 128
+			height: 3.0d
+			image: "minecraft:block/nether_portal"
+			order: 2
+			rotation: 0.0d
+			width: 3.0d
+			x: -5.5d
+			y: 2.5d
 		}
 		{
 			height: 4.0d
 			image: "eternal_starlight:block/starlight_portal"
 			rotation: 36.0d
-			width: 20.0d
-			x: 26.0d
-			y: 9.25d
+			width: 4.0d
+			x: 6.5d
+			y: -3.25d
 		}
 		{
+			alpha: 128
 			height: 4.0d
-			image: "minecraft:item/ender_eye"
+			image: "minecraft:textures/entity/end_portal.png"
+			order: 2
 			rotation: 36.0d
-			width: 20.0d
-			x: -1.75d
+			width: 4.0d
+			x: -1.5d
 			y: 0.75d
 		}
 		{
-			height: 20.0d
-			image: "eternal_starlight:block/oxidized_golem_steel_pillar_side"
-			rotation: -36.0d
-			width: 8.0d
-			x: 8.5d
-			y: -2.25d
+			height: 3.0d
+			image: "ftbquests:tasks/botania_mana_empty"
+			order: 4
+			rotation: 0.0d
+			width: 3.0d
+			x: -3.5d
+			y: -2.0d
+		}
+		{
+			height: 3.0d
+			image: "minecraft:block/nether_portal"
+			order: 4
+			rotation: 22.5d
+			width: 3.0d
+			x: -5.5d
+			y: 2.5d
+		}
+		{
+			height: 3.0d
+			image: "minecraft:block/nether_portal"
+			order: 6
+			rotation: -22.5d
+			width: 3.0d
+			x: -5.5d
+			y: 2.5d
 		}
 	]
 	order_index: 2
