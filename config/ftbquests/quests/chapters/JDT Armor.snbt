@@ -1,21 +1,117 @@
 {
 	default_hide_dependency_lines: false
-	default_quest_shape: ""
+	default_quest_shape: "rsquare"
 	filename: "JDT Armor"
 	group: "339B1A91ADDB30AC"
 	id: "1397FADB8589E9F0"
+	images: [
+		{
+			alpha: 192
+			color: 47527
+			height: 3.0d
+			image: "ftbquests:textures/shapes/square/shape.png"
+			order: 2
+			rotation: 0.0d
+			width: 25.0d
+			x: 0.0d
+			y: 7.0d
+		}
+		{
+			alpha: 128
+			color: 12124164
+			height: 3.0d
+			image: "ftbquests:textures/shapes/square/shape.png"
+			order: 2
+			rotation: 0.0d
+			width: 25.0d
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			height: 2.0d
+			image: "justdirethings:item/template_ferricore"
+			rotation: 0.0d
+			width: 2.0d
+			x: -21.0d
+			y: -16.5d
+		}
+		{
+			alpha: 128
+			color: 43167
+			height: 3.0d
+			image: "ftbquests:textures/shapes/square/shape.png"
+			order: 2
+			rotation: 0.0d
+			width: 25.0d
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			alpha: 128
+			color: 10319
+			height: 3.0d
+			image: "ftbquests:textures/shapes/square/shape.png"
+			order: 2
+			rotation: 0.0d
+			width: 25.0d
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:item/netherite_upgrade_smithing_template"
+			order: 4
+			rotation: 0.0d
+			width: 2.0d
+			x: -32.5d
+			y: -11.0d
+		}
+		{
+			height: 4.0d
+			image: "justdirethings:item/creaturecatcher_side_animation"
+			rotation: 0.0d
+			width: 28.0d
+			x: 8.0d
+			y: 17.0d
+		}
+		{
+			height: 4.0d
+			image: "justdirethings:item/creaturecatcher_side_animation"
+			rotation: 0.0d
+			width: 28.0d
+			x: 26.0d
+			y: 18.0d
+		}
+		{
+			height: 4.0d
+			image: "justdirethings:item/creaturecatcher_side_animation"
+			rotation: 0.0d
+			width: 28.0d
+			x: 14.5d
+			y: 12.0d
+		}
+		{
+			height: 4.0d
+			image: "justdirethings:item/creaturecatcher_side_animation"
+			rotation: 0.0d
+			width: 28.0d
+			x: 25.0d
+			y: -6.5d
+		}
+	]
 	order_index: 2
 	quest_links: [ ]
 	quests: [
 		{
 			id: "49D4AA08C141550C"
+			size: 1.0d
 			tasks: [{
 				id: "4CFB760CBA07BC07"
 				item: { count: 1, id: "justdirethings:ferricore_helmet" }
 				type: "item"
 			}]
-			x: 0.5d
-			y: -9.5d
+			x: -9.0d
+			y: 9.5d
 		}
 		{
 			id: "05E2511264A22A2E"
@@ -24,8 +120,8 @@
 				item: { count: 1, id: "justdirethings:ferricore_sword" }
 				type: "item"
 			}]
-			x: -0.5d
-			y: -9.5d
+			x: -1.0d
+			y: 9.5d
 		}
 		{
 			id: "35FD65E721E8C0D2"
@@ -34,8 +130,8 @@
 				item: { count: 1, id: "justdirethings:blazegold_helmet" }
 				type: "item"
 			}]
-			x: 2.5d
-			y: -9.5d
+			x: -18.0d
+			y: -13.5d
 		}
 		{
 			id: "7770F68501C9BF4F"
@@ -44,8 +140,8 @@
 				item: { count: 1, id: "justdirethings:celestigem_helmet" }
 				type: "item"
 			}]
-			x: 4.5d
-			y: -9.5d
+			x: -16.5d
+			y: -13.5d
 		}
 		{
 			id: "22E9424133C11B39"
@@ -54,58 +150,63 @@
 				item: { count: 1, id: "justdirethings:eclipsealloy_helmet" }
 				type: "item"
 			}]
-			x: 6.5d
-			y: -9.5d
+			x: -14.5d
+			y: -13.5d
 		}
 		{
 			id: "058420AF3A29D4D9"
+			shape: "circle"
 			tasks: [{
 				id: "21D643206F33529E"
 				item: { count: 1, id: "justdirethings:upgrade_mindfog" }
 				type: "item"
 			}]
-			x: 1.5d
-			y: -9.5d
+			x: -31.0d
+			y: -8.5d
 		}
 		{
 			id: "58384B247F1D5A7C"
+			shape: "circle"
 			tasks: [{
 				id: "775ED4BAFD34039C"
 				item: { count: 1, id: "justdirethings:upgrade_stupefy" }
 				type: "item"
 			}]
-			x: 3.5d
-			y: -9.5d
+			x: -28.0d
+			y: -11.0d
 		}
 		{
 			id: "38F0D70BBECC9D9E"
+			shape: "circle"
 			tasks: [{
 				id: "78BB2AAD70192EB3"
 				item: { count: 1, id: "justdirethings:upgrade_nightvision" }
 				type: "item"
 			}]
-			x: 5.5d
-			y: -9.5d
+			x: -28.0d
+			y: -13.5d
 		}
 		{
 			id: "309EB8F6C0E34309"
+			shape: "circle"
 			tasks: [{
 				id: "3C76A5CD8A6CF50D"
 				item: { count: 1, id: "justdirethings:upgrade_debuffremover" }
 				type: "item"
 			}]
-			x: 8.5d
-			y: -9.5d
+			x: -27.5d
+			y: -16.0d
 		}
 		{
 			id: "40E134AC271A6E68"
+			shape: "circle"
 			tasks: [{
 				id: "6078C7FA4DAC942F"
 				item: { count: 1, id: "justdirethings:upgrade_noai" }
 				type: "item"
 			}]
-			x: 7.5d
-			y: -9.5d
+			x: -28.5d
+			y: -16.0d
 		}
 		{
 			id: "1458D32A7A2B0E1A"
@@ -114,8 +215,8 @@
 				item: { count: 1, id: "justdirethings:ferricore_axe" }
 				type: "item"
 			}]
-			x: -0.5d
-			y: -7.5d
+			x: 3.0d
+			y: 9.5d
 		}
 		{
 			id: "54F0C05AA5947936"
@@ -124,8 +225,8 @@
 				item: { count: 1, id: "justdirethings:ferricore_pickaxe" }
 				type: "item"
 			}]
-			x: -0.5d
-			y: -8.5d
+			x: 1.0d
+			y: 9.5d
 		}
 		{
 			id: "5EBDC790BEE73624"
@@ -134,8 +235,8 @@
 				item: { count: 1, id: "justdirethings:ferricore_shovel" }
 				type: "item"
 			}]
-			x: -0.5d
-			y: -6.5d
+			x: 5.0d
+			y: 9.5d
 		}
 		{
 			id: "3B5B0960E35836B3"
@@ -144,8 +245,8 @@
 				item: { count: 1, id: "justdirethings:ferricore_hoe" }
 				type: "item"
 			}]
-			x: -0.5d
-			y: -5.5d
+			x: 7.0d
+			y: 9.5d
 		}
 		{
 			id: "71CD4FECDEE30CD3"
@@ -154,8 +255,101 @@
 				item: { count: 1, id: "justdirethings:bow_ferricore" }
 				type: "item"
 			}]
-			x: -0.5d
-			y: -10.5d
+			x: 9.0d
+			y: 9.5d
+		}
+		{
+			id: "7EA79302DAC2C630"
+			tasks: [{
+				id: "5C8A6A1B41CFAEAD"
+				item: { count: 1, id: "justdirethings:ferricore_chestplate" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 9.5d
+		}
+		{
+			id: "2BD1EDED96F0006D"
+			tasks: [{
+				id: "7A64472B61EBC9F4"
+				item: { count: 1, id: "justdirethings:ferricore_leggings" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 9.5d
+		}
+		{
+			id: "015141569D2AB89D"
+			tasks: [{
+				id: "007C4CE468A27D4D"
+				item: { count: 1, id: "justdirethings:ferricore_boots" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 9.5d
+		}
+		{
+			id: "4DF6D1A24B60E656"
+			tasks: [{
+				id: "5F6C59075B2677F5"
+				item: { count: 1, id: "justdirethings:blazegold_chestplate" }
+				type: "item"
+			}]
+			x: -17.0d
+			y: -12.5d
+		}
+		{
+			id: "5BCF5180EB305CC9"
+			tasks: [{
+				id: "13EBEFE904F892EC"
+				item: { count: 1, id: "justdirethings:blazegold_leggings" }
+				type: "item"
+			}]
+			x: -17.0d
+			y: -11.5d
+		}
+		{
+			id: "37DE36745574043B"
+			shape: "rsquare"
+			size: 1.0d
+			tasks: [{
+				id: "6FB974CDDCA96188"
+				item: { count: 1, id: "justdirethings:template_ferricore" }
+				type: "item"
+			}]
+			x: -32.5d
+			y: -8.5d
+		}
+		{
+			id: "70C37670C61A2152"
+			size: 1.0d
+			tasks: [{
+				id: "0E66D3A12F494360"
+				item: { count: 1, id: "justdirethings:template_blazegold" }
+				type: "item"
+			}]
+			x: -15.0d
+			y: -16.0d
+		}
+		{
+			id: "5DE38E22578D5DB1"
+			tasks: [{
+				id: "1A1BA4745F77D20D"
+				item: { count: 1, id: "justdirethings:template_celestigem" }
+				type: "item"
+			}]
+			x: -32.0d
+			y: -13.5d
+		}
+		{
+			id: "0034844B9E1B7574"
+			tasks: [{
+				id: "3732503178C78223"
+				item: { count: 1, id: "justdirethings:template_eclipsealloy" }
+				type: "item"
+			}]
+			x: -32.0d
+			y: -16.0d
 		}
 	]
 }
