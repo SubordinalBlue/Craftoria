@@ -8,63 +8,64 @@
 		{
 			alpha: 192
 			color: 47527
-			height: 3.0d
+			height: 2.0d
 			image: "ftbquests:textures/shapes/square/shape.png"
 			order: 2
-			rotation: 0.0d
+			rotation: 22.5d
 			width: 25.0d
-			x: 0.0d
-			y: 7.0d
+			x: 1.0d
+			y: 4.5d
 		}
 		{
 			alpha: 128
 			color: 12124164
-			height: 3.0d
+			height: 2.0d
 			image: "ftbquests:textures/shapes/square/shape.png"
 			order: 2
-			rotation: 0.0d
+			rotation: 22.5d
 			width: 25.0d
-			x: 0.0d
-			y: 4.5d
+			x: 0.5d
+			y: 6.0d
 		}
 		{
-			height: 2.0d
+			height: 1.0d
 			image: "justdirethings:item/template_ferricore"
+			order: 10
 			rotation: 0.0d
-			width: 2.0d
-			x: -21.0d
-			y: -16.5d
+			width: 1.0d
+			x: -10.5d
+			y: 7.5d
 		}
 		{
 			alpha: 128
 			color: 43167
-			height: 3.0d
+			height: 2.0d
 			image: "ftbquests:textures/shapes/square/shape.png"
 			order: 2
-			rotation: 0.0d
+			rotation: 22.5d
 			width: 25.0d
 			x: 0.0d
-			y: 2.0d
+			y: 7.5d
 		}
 		{
 			alpha: 128
 			color: 10319
-			height: 3.0d
+			height: 2.0d
 			image: "ftbquests:textures/shapes/square/shape.png"
 			order: 2
-			rotation: 0.0d
+			rotation: 22.5d
 			width: 25.0d
-			x: 0.0d
-			y: -0.5d
+			x: 1.5d
+			y: 3.0d
 		}
 		{
-			height: 2.0d
+			height: 1.0d
 			image: "minecraft:item/netherite_upgrade_smithing_template"
-			order: 4
+			order: 10
 			rotation: 0.0d
-			width: 2.0d
-			x: -32.5d
-			y: -11.0d
+			width: 1.0d
+			x: -10.5d
+			y: 5.5d
 		}
 		{
 			height: 4.0d
@@ -97,6 +98,22 @@
 			width: 28.0d
 			x: 25.0d
 			y: -6.5d
+		}
+		{
+			height: 1.0d
+			image: "mffs:fluid/fortron"
+			rotation: 0.0d
+			width: 0.020833333333333332d
+			x: 9.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "mffs:fluid/fortron"
+			rotation: 0.0d
+			width: 0.020833333333333332d
+			x: 9.5d
+			y: 1.5d
 		}
 	]
 	order_index: 2
@@ -161,8 +178,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_mindfog" }
 				type: "item"
 			}]
-			x: -31.0d
-			y: -8.5d
+			x: -9.0d
+			y: 7.5d
 		}
 		{
 			id: "58384B247F1D5A7C"
@@ -172,8 +189,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_stupefy" }
 				type: "item"
 			}]
-			x: -28.0d
-			y: -11.0d
+			x: -9.0d
+			y: 5.5d
 		}
 		{
 			id: "38F0D70BBECC9D9E"
@@ -183,8 +200,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_nightvision" }
 				type: "item"
 			}]
-			x: -28.0d
-			y: -13.5d
+			x: -9.0d
+			y: 3.5d
 		}
 		{
 			id: "309EB8F6C0E34309"
@@ -194,8 +211,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_debuffremover" }
 				type: "item"
 			}]
-			x: -27.5d
-			y: -16.0d
+			x: -9.0d
+			y: 2.0d
 		}
 		{
 			id: "40E134AC271A6E68"
@@ -205,8 +222,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_noai" }
 				type: "item"
 			}]
-			x: -28.5d
-			y: -16.0d
+			x: -9.0d
+			y: 1.0d
 		}
 		{
 			id: "1458D32A7A2B0E1A"
@@ -295,8 +312,8 @@
 				item: { count: 1, id: "justdirethings:blazegold_chestplate" }
 				type: "item"
 			}]
-			x: -17.0d
-			y: -12.5d
+			x: -12.5d
+			y: 5.0d
 		}
 		{
 			id: "5BCF5180EB305CC9"
@@ -317,8 +334,8 @@
 				item: { count: 1, id: "justdirethings:template_ferricore" }
 				type: "item"
 			}]
-			x: -32.5d
-			y: -8.5d
+			x: -14.5d
+			y: -9.0d
 		}
 		{
 			id: "70C37670C61A2152"
@@ -338,8 +355,8 @@
 				item: { count: 1, id: "justdirethings:template_celestigem" }
 				type: "item"
 			}]
-			x: -32.0d
-			y: -13.5d
+			x: -10.5d
+			y: 3.5d
 		}
 		{
 			id: "0034844B9E1B7574"
@@ -348,8 +365,138 @@
 				item: { count: 1, id: "justdirethings:template_eclipsealloy" }
 				type: "item"
 			}]
-			x: -32.0d
-			y: -16.0d
+			x: -10.5d
+			y: 1.5d
+		}
+		{
+			id: "5706CC605BC0B5F0"
+			tasks: [{
+				id: "77CB4AFCFCA0D528"
+				item: { count: 1, id: "justdirethings:upgrade_invulnerability" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 7.5d
+		}
+		{
+			id: "374F0299EE94748E"
+			tasks: [{
+				id: "317602D9BEF1F2B3"
+				item: { count: 1, id: "justdirethings:upgrade_extinguish" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 5.5d
+		}
+		{
+			id: "71855F5E232643E8"
+			tasks: [{
+				id: "01BB9FCC93431537"
+				item: { count: 1, id: "justdirethings:upgrade_elytra" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 3.5d
+		}
+		{
+			id: "6B6D192C3E4151B6"
+			tasks: [{
+				id: "16F33FAF4500CBC0"
+				item: { count: 1, id: "justdirethings:upgrade_deathprotection" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: 1.0d
+		}
+		{
+			id: "21BAE455A49103A5"
+			tasks: [{
+				id: "069548A6B7A92276"
+				item: { count: 1, id: "justdirethings:upgrade_flight" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: 1.0d
+		}
+		{
+			id: "592E17C84F46B61F"
+			tasks: [{
+				id: "49A67B87BF184F32"
+				item: { count: 1, id: "justdirethings:upgrade_lavaimmunity" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: 2.0d
+		}
+		{
+			id: "495EB3CACA59F199"
+			tasks: [{
+				id: "1F28B78899E4ECAD"
+				item: { count: 1, id: "justdirethings:upgrade_time_protection" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: 2.0d
+		}
+		{
+			id: "1EFC1875152ECD07"
+			tasks: [{
+				id: "5CCEB62EB31B192E"
+				item: { count: 1, id: "justdirethings:upgrade_walkspeed" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 7.5d
+		}
+		{
+			id: "4E24E65FAC70203C"
+			tasks: [{
+				id: "0C98F6B483AABF6C"
+				item: { count: 1, id: "justdirethings:upgrade_runspeed" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 7.5d
+		}
+		{
+			id: "661D6326B7F23154"
+			tasks: [{
+				id: "027873589DD88FFF"
+				item: { count: 1, id: "justdirethings:upgrade_stepheight" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 7.0d
+		}
+		{
+			id: "17F4CBC638535A83"
+			tasks: [{
+				id: "6B5F632C20994431"
+				item: { count: 1, id: "justdirethings:upgrade_jumpboost" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 8.0d
+		}
+		{
+			id: "31C53E138A1C2B5D"
+			tasks: [{
+				id: "7A58412A1F15C5D6"
+				item: { count: 1, id: "justdirethings:upgrade_swimspeed" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 6.0d
+		}
+		{
+			id: "4490ACA2EF9CF850"
+			tasks: [{
+				id: "45FE8CE8297815F1"
+				item: { count: 1, id: "justdirethings:upgrade_groundstomp" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 5.0d
 		}
 	]
 }
