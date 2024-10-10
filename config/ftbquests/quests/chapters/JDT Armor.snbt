@@ -11,8 +11,8 @@
 			order: 10
 			rotation: 0.0d
 			width: 1.0d
-			x: 4.6d
-			y: 2.9d
+			x: 4.1d
+			y: 3.200000000000001d
 		}
 		{
 			height: 1.0d
@@ -20,8 +20,8 @@
 			order: 10
 			rotation: 0.0d
 			width: 1.0d
-			x: 5.9d
-			y: 2.2d
+			x: 5.4d
+			y: 2.5000000000000018d
 		}
 		{
 			color: 5592405
@@ -30,8 +30,16 @@
 			order: 1
 			rotation: 62.0d
 			width: 14.0d
-			x: 2.3d
-			y: -1.200000000000001d
+			x: 1.8000000000000007d
+			y: -0.9000000000000004d
+		}
+		{
+			height: 1.0d
+			image: "mffs:fluid/fortron"
+			rotation: 0.0d
+			width: 0.020833333333333332d
+			x: 8.5d
+			y: -2.6999999999999993d
 		}
 		{
 			height: 1.0d
@@ -39,15 +47,7 @@
 			rotation: 0.0d
 			width: 0.020833333333333332d
 			x: 9.0d
-			y: -3.0d
-		}
-		{
-			height: 1.0d
-			image: "mffs:fluid/fortron"
-			rotation: 0.0d
-			width: 0.020833333333333332d
-			x: 9.5d
-			y: 1.5d
+			y: 1.8000000000000007d
 		}
 		{
 			alpha: 128
@@ -57,8 +57,8 @@
 			order: 9
 			rotation: 0.0d
 			width: 1.0d
-			x: 4.7d
-			y: 3.0d
+			x: 4.199999999999999d
+			y: 3.3000000000000007d
 		}
 		{
 			alpha: 128
@@ -68,8 +68,8 @@
 			order: 9
 			rotation: 0.0d
 			width: 1.0d
-			x: 6.0d
-			y: 2.3d
+			x: 5.5d
+			y: 2.5999999999999996d
 		}
 		{
 			alpha: 32
@@ -79,45 +79,9 @@
 			image: "ftbquests:textures/shapes/square/shape.png"
 			order: 2
 			rotation: -28.0d
-			width: 14.0d
-			x: -4.4d
-			y: 3.3d
-		}
-		{
-			alpha: 32
-			color: 12124164
-			dev: true
-			height: 2.0d
-			image: "ftbquests:textures/shapes/square/shape.png"
-			order: 2
-			rotation: -28.0d
-			width: 14.0d
-			x: -6.0d
-			y: 0.3d
-		}
-		{
-			alpha: 32
-			color: 12124164
-			dev: true
-			height: 2.0d
-			image: "ftbquests:textures/shapes/square/shape.png"
-			order: 2
-			rotation: -28.0d
-			width: 14.0d
-			x: -3.6d
-			y: 4.8d
-		}
-		{
-			alpha: 16
-			color: 12124164
-			dev: true
-			height: 2.0d
-			image: "ftbquests:textures/shapes/square/shape.png"
-			order: 2
-			rotation: -28.0d
-			width: 14.0d
-			x: -5.2d
-			y: 1.8d
+			width: 12.0d
+			x: -3.3d
+			y: 4.7d
 		}
 		{
 			color: 16711686
@@ -126,8 +90,8 @@
 			order: 1
 			rotation: 62.0d
 			width: 14.0d
-			x: 3.7d
-			y: -1.9d
+			x: 3.1999999999999993d
+			y: -1.5999999999999996d
 		}
 		{
 			color: 42403
@@ -136,8 +100,8 @@
 			order: 1
 			rotation: 62.0d
 			width: 14.0d
-			x: 5.1d
-			y: -2.700000000000001d
+			x: 4.6d
+			y: -2.4000000000000004d
 		}
 		{
 			color: 19091
@@ -146,8 +110,8 @@
 			order: 1
 			rotation: 62.0d
 			width: 14.0d
-			x: 7.099999999999999d
-			y: -3.8000000000000007d
+			x: 6.599999999999998d
+			y: -3.5d
 		}
 		{
 			height: 1.0d
@@ -155,8 +119,8 @@
 			order: 4
 			rotation: 0.0d
 			width: 1.0d
-			x: 7.3d
-			y: 1.4d
+			x: 6.800000000000001d
+			y: 1.700000000000001d
 		}
 		{
 			alpha: 128
@@ -166,8 +130,8 @@
 			order: 2
 			rotation: 0.0d
 			width: 1.0d
-			x: 7.4d
-			y: 1.5d
+			x: 6.9d
+			y: 1.8000000000000007d
 		}
 		{
 			height: 1.0d
@@ -175,8 +139,8 @@
 			order: 4
 			rotation: 0.0d
 			width: 1.0d
-			x: 8.5d
-			y: 0.7d
+			x: 8.0d
+			y: 1.0000000000000018d
 		}
 		{
 			alpha: 128
@@ -186,8 +150,8 @@
 			order: 2
 			rotation: 0.0d
 			width: 1.0d
-			x: 8.6d
-			y: 0.8d
+			x: 8.100000000000001d
+			y: 1.0999999999999996d
 		}
 		{
 			color: 16733695
@@ -196,8 +160,8 @@
 			order: 199
 			rotation: 0.0d
 			width: 1.0d
-			x: -1.2d
-			y: -6.1d
+			x: 0.0d
+			y: 0.0d
 		}
 		{
 			color: 5592405
@@ -206,8 +170,8 @@
 			order: 1
 			rotation: -118.0d
 			width: 14.0d
-			x: -1.3d
-			y: 0.7d
+			x: -1.8000000000000007d
+			y: 1.0000000000000018d
 		}
 		{
 			color: 16711686
@@ -216,8 +180,8 @@
 			order: 1
 			rotation: -118.0d
 			width: 14.0d
-			x: -2.7d
-			y: 1.4d
+			x: -3.1999999999999993d
+			y: 1.700000000000001d
 		}
 		{
 			color: 42403
@@ -226,8 +190,8 @@
 			order: 1
 			rotation: -118.0d
 			width: 14.0d
-			x: -4.1d
-			y: 2.1d
+			x: -4.599999999999998d
+			y: 2.4000000000000004d
 		}
 		{
 			color: 19091
@@ -236,8 +200,8 @@
 			order: 1
 			rotation: -118.0d
 			width: 14.0d
-			x: -6.1d
-			y: 3.2d
+			x: -6.599999999999998d
+			y: 3.5000000000000018d
 		}
 		{
 			alpha: 128
@@ -246,42 +210,18 @@
 			image: "ftbquests:textures/shapes/square/shape.png"
 			rotation: 0.0d
 			width: 28.0d
-			x: 25.7d
-			y: 0.5d
+			x: 26.6d
+			y: 0.7d
 		}
 		{
 			color: 16610125
 			height: 5.5d
 			image: "ftbquests:textures/gui/title_jdt2.png"
 			order: 14
-			rotation: -28.0d
+			rotation: 62.0d
 			width: 5.5d
-			x: 0.8d
-			y: -5.1d
-		}
-		{
-			alpha: 32
-			color: 12124164
-			dev: true
-			height: 2.0d
-			image: "ftbquests:textures/shapes/square/shape.png"
-			order: 2
-			rotation: -28.0d
-			width: 14.0d
-			x: -2.8d
-			y: 6.3d
-		}
-		{
-			alpha: 32
-			color: 12124164
-			dev: true
-			height: 2.0d
-			image: "ftbquests:textures/shapes/square/shape.png"
-			order: 2
-			rotation: -28.0d
-			width: 14.0d
-			x: -6.8d
-			y: -1.2d
+			x: 8.4d
+			y: -2.4d
 		}
 		{
 			color: 3158064
@@ -290,8 +230,8 @@
 			order: 1
 			rotation: 62.0d
 			width: 14.0d
-			x: 1.1d
-			y: -0.6d
+			x: 0.5999999999999996d
+			y: -0.29999999999999893d
 		}
 		{
 			color: 3158064
@@ -300,8 +240,148 @@
 			order: 1
 			rotation: -118.0d
 			width: 14.0d
-			x: -0.1d
-			y: 0.0d
+			x: -0.5999999999999996d
+			y: 0.3000000000000007d
+		}
+		{
+			alpha: 32
+			color: 12124164
+			dev: true
+			height: 2.0d
+			image: "ftbquests:textures/shapes/square/shape.png"
+			order: 2
+			rotation: -28.0d
+			width: 12.0d
+			x: -2.5d
+			y: 6.2d
+		}
+		{
+			alpha: 32
+			color: 12124164
+			dev: true
+			height: 2.0d
+			image: "ftbquests:textures/shapes/square/shape.png"
+			order: 2
+			rotation: -28.0d
+			width: 12.0d
+			x: -4.1d
+			y: 3.2d
+		}
+		{
+			alpha: 32
+			color: 12124164
+			dev: true
+			height: 2.0d
+			image: "ftbquests:textures/shapes/square/shape.png"
+			order: 2
+			rotation: -28.0d
+			width: 12.0d
+			x: -4.9d
+			y: 1.7d
+		}
+		{
+			alpha: 32
+			color: 12124164
+			dev: true
+			height: 2.0d
+			image: "ftbquests:textures/shapes/square/shape.png"
+			order: 2
+			rotation: -28.0d
+			width: 12.0d
+			x: -5.7d
+			y: 0.2d
+		}
+		{
+			alpha: 32
+			color: 12124164
+			dev: true
+			height: 2.0d
+			image: "ftbquests:textures/shapes/square/shape.png"
+			order: 2
+			rotation: -28.0d
+			width: 12.0d
+			x: -6.5d
+			y: -1.3d
+		}
+		{
+			height: 1.0d
+			image: "justdirethings:item/eclipsealloy_pickaxe_active"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 0.4d
+		}
+		{
+			alpha: 32
+			color: 12124164
+			dev: true
+			height: 2.5d
+			image: "ftbquests:textures/shapes/square/shape.png"
+			order: 2
+			rotation: -28.0d
+			width: 12.0d
+			x: 6.1d
+			y: 0.4d
+		}
+		{
+			alpha: 32
+			color: 12124164
+			dev: true
+			height: 1.0d
+			image: "ftbquests:textures/shapes/square/shape.png"
+			order: 2
+			rotation: -28.0d
+			width: 12.0d
+			x: 6.7d
+			y: 1.8d
+		}
+		{
+			alpha: 32
+			color: 12124164
+			dev: true
+			height: 2.5d
+			image: "ftbquests:textures/shapes/square/shape.png"
+			order: 2
+			rotation: -28.0d
+			width: 12.0d
+			x: 5.1d
+			y: -1.5d
+		}
+		{
+			alpha: 32
+			color: 12124164
+			dev: true
+			height: 2.5d
+			image: "ftbquests:textures/shapes/square/shape.png"
+			order: 2
+			rotation: -28.0d
+			width: 12.0d
+			x: 4.1d
+			y: -3.4d
+		}
+		{
+			alpha: 32
+			color: 12124164
+			dev: true
+			height: 2.5d
+			image: "ftbquests:textures/shapes/square/shape.png"
+			order: 2
+			rotation: -28.0d
+			width: 12.0d
+			x: 3.1d
+			y: -5.3d
+		}
+		{
+			alpha: 32
+			color: 12124164
+			dev: true
+			height: 1.0d
+			image: "ftbquests:textures/shapes/square/shape.png"
+			order: 2
+			rotation: -28.0d
+			width: 12.0d
+			x: 2.4d
+			y: -6.6d
 		}
 	]
 	order_index: 2
@@ -309,62 +389,62 @@
 		{
 			id: "60627FE9EA22F06E"
 			linked_quest: "12D18DE1B6D73080"
-			x: -1.5d
-			y: 3.7d
+			x: -1.1999999999999993d
+			y: 5.500000000000002d
 		}
 		{
 			id: "41A8718377841FA3"
 			linked_quest: "6978B89DAD9B2821"
-			x: -5.2d
-			y: 0.1d
+			x: -5.699999999999999d
+			y: 0.3000000000000007d
 		}
 		{
 			id: "5607F8CA41A10CDD"
 			linked_quest: "0D75CD81FDC9F1EE"
-			x: -3.1d
-			y: 0.7d
+			x: -2.6999999999999993d
+			y: 2.5000000000000018d
 		}
 		{
 			id: "3B9DAB0D3A048AA9"
 			linked_quest: "076B9EB36E4A4AA2"
-			x: -5.7d
-			y: 2.1d
+			x: -6.199999999999999d
+			y: 2.4000000000000004d
 		}
 		{
 			id: "00C36D5EC89DCB76"
 			linked_quest: "6978B89DAD9B2821"
-			x: -4.4d
-			y: 1.4d
+			x: -4.900000000000002d
+			y: 1.700000000000001d
 		}
 		{
 			id: "5DEBF8F5E9FF702E"
 			linked_quest: "076B9EB36E4A4AA2"
-			x: -4.9d
-			y: 3.6d
+			x: -5.400000000000002d
+			y: 3.9000000000000004d
 		}
 		{
 			id: "1417F93044FEA44F"
 			linked_quest: "6978B89DAD9B2821"
-			x: -3.7d
-			y: 2.9d
+			x: -4.199999999999999d
+			y: 3.200000000000001d
 		}
 		{
 			id: "0CC37B8FC114AC92"
 			linked_quest: "0D75CD81FDC9F1EE"
-			x: -2.0d
-			y: 2.0d
+			x: -1.6999999999999993d
+			y: 3.8000000000000007d
 		}
 		{
 			id: "1DE388FFE16EFC9B"
 			linked_quest: "12D18DE1B6D73080"
-			x: -2.7d
-			y: 2.3d
+			x: -2.4000000000000004d
+			y: 4.300000000000001d
 		}
 		{
 			id: "3BD787C02760674C"
 			linked_quest: "6978B89DAD9B2821"
-			x: -2.1d
-			y: 5.9d
+			x: -3.400000000000002d
+			y: 4.800000000000001d
 		}
 	]
 	quests: [
@@ -375,8 +455,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_mindfog" }
 				type: "item"
 			}]
-			x: 1.1999999999999993d
-			y: -3.500000000000001d
+			x: 0.4000000000000007d
+			y: -3.700000000000001d
 		}
 		{
 			id: "58384B247F1D5A7C"
@@ -386,8 +466,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_stupefy" }
 				type: "item"
 			}]
-			x: 2.499999999999999d
-			y: -4.200000000000001d
+			x: 1.7000000000000015d
+			y: -4.4d
 		}
 		{
 			id: "38F0D70BBECC9D9E"
@@ -397,8 +477,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_nightvision" }
 				type: "item"
 			}]
-			x: 3.8999999999999995d
-			y: -4.9d
+			x: 3.1d
+			y: -5.1d
 		}
 		{
 			dependencies: ["604C8D7A76E664DB"]
@@ -409,8 +489,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_debuffremover" }
 				type: "item"
 			}]
-			x: 5.8d
-			y: -5.9d
+			x: 5.000000000000002d
+			y: -6.1d
 		}
 		{
 			id: "40E134AC271A6E68"
@@ -420,8 +500,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_noai" }
 				type: "item"
 			}]
-			x: 5.1d
-			y: -5.500000000000001d
+			x: 4.300000000000001d
+			y: -5.700000000000001d
 		}
 		{
 			id: "5706CC605BC0B5F0"
@@ -430,8 +510,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_invulnerability" }
 				type: "item"
 			}]
-			x: 1.8999999999999995d
-			y: -2.0d
+			x: 1.2999999999999994d
+			y: -1.8999999999999995d
 		}
 		{
 			id: "374F0299EE94748E"
@@ -440,8 +520,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_extinguish" }
 				type: "item"
 			}]
-			x: 3.3d
-			y: -2.700000000000001d
+			x: 2.7000000000000015d
+			y: -2.6000000000000005d
 		}
 		{
 			id: "71855F5E232643E8"
@@ -450,8 +530,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_elytra" }
 				type: "item"
 			}]
-			x: 4.699999999999999d
-			y: -3.4000000000000004d
+			x: 4.1d
+			y: -3.3d
 		}
 		{
 			id: "6B6D192C3E4151B6"
@@ -460,8 +540,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_deathprotection" }
 				type: "item"
 			}]
-			x: 5.6d
-			y: -4.4d
+			x: 5.0d
+			y: -4.3d
 		}
 		{
 			id: "21BAE455A49103A5"
@@ -470,8 +550,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_flight" }
 				type: "item"
 			}]
-			x: 6.3d
-			y: -4.9d
+			x: 5.700000000000001d
+			y: -4.8d
 		}
 		{
 			id: "592E17C84F46B61F"
@@ -480,8 +560,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_lavaimmunity" }
 				type: "item"
 			}]
-			x: 6.1d
-			y: -3.7d
+			x: 5.5d
+			y: -3.6000000000000005d
 		}
 		{
 			dependencies: ["199090A3A61DC2FC"]
@@ -491,8 +571,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_time_protection" }
 				type: "item"
 			}]
-			x: 6.8d
-			y: -4.2d
+			x: 6.200000000000001d
+			y: -4.1000000000000005d
 		}
 		{
 			id: "1EFC1875152ECD07"
@@ -501,8 +581,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_walkspeed" }
 				type: "item"
 			}]
-			x: 3.3d
-			y: 1.1999999999999993d
+			x: 3.1d
+			y: 2.000000000000001d
 		}
 		{
 			id: "4E24E65FAC70203C"
@@ -511,8 +591,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_runspeed" }
 				type: "item"
 			}]
-			x: 3.999999999999999d
-			y: 0.7999999999999989d
+			x: 3.7999999999999994d
+			y: 1.6000000000000003d
 		}
 		{
 			id: "661D6326B7F23154"
@@ -521,8 +601,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_stepheight" }
 				type: "item"
 			}]
-			x: 2.499999999999999d
-			y: -0.3000000000000007d
+			x: 2.1d
+			y: 0.20000000000000107d
 		}
 		{
 			id: "17F4CBC638535A83"
@@ -531,8 +611,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_jumpboost" }
 				type: "item"
 			}]
-			x: 3.1999999999999993d
-			y: -0.7000000000000011d
+			x: 2.7999999999999994d
+			y: -0.19999999999999973d
 		}
 		{
 			id: "31C53E138A1C2B5D"
@@ -541,8 +621,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_swimspeed" }
 				type: "item"
 			}]
-			x: 4.199999999999999d
-			y: -1.200000000000001d
+			x: 3.7999999999999994d
+			y: -0.6999999999999997d
 		}
 		{
 			id: "4490ACA2EF9CF850"
@@ -551,56 +631,56 @@
 				item: { count: 1, id: "justdirethings:upgrade_groundstomp" }
 				type: "item"
 			}]
-			x: 4.999999999999999d
-			y: 0.29999999999999893d
+			x: 4.799999999999999d
+			y: 1.1000000000000003d
 		}
 		{
 			hide_dependent_lines: true
 			id: "604C8D7A76E664DB"
-			shape: "rsquare"
+			shape: "hexagon"
 			tasks: [{
 				id: "37CC2E54BC0F91A5"
 				item: { components: { "ftbfiltersystem:filter": "or(item(justdirethings:ferricore_helmet)item(justdirethings:blazegold_helmet)item(justdirethings:celestigem_helmet)item(justdirethings:eclipsealloy_helmet))", "minecraft:custom_name": "\"JDT Helmets\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -0.10000000000000053d
-			y: -2.8000000000000007d
+			x: -0.9d
+			y: -3.0d
 		}
 		{
 			hide_dependent_lines: true
 			id: "199090A3A61DC2FC"
-			shape: "rsquare"
+			shape: "hexagon"
 			tasks: [{
 				id: "2F294414C726DDFA"
 				item: { components: { "ftbfiltersystem:filter": "or(item(justdirethings:ferricore_chestplate)item(justdirethings:blazegold_chestplate)item(justdirethings:celestigem_chestplate)item(justdirethings:eclipsealloy_chestplate))", "minecraft:custom_name": "\"JDT Chestplate\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 0.6999999999999993d
-			y: -1.3000000000000007d
+			x: 0.1d
+			y: -1.2000000000000002d
 		}
 		{
 			hide_dependent_lines: true
 			id: "39090CE2C686D624"
-			shape: "rsquare"
+			shape: "hexagon"
 			tasks: [{
 				id: "1F2ED1E175CA3CEF"
 				item: { components: { "ftbfiltersystem:filter": "or(item(justdirethings:ferricore_leggings)item(justdirethings:blazegold_leggings)item(justdirethings:celestigem_leggings)item(justdirethings:eclipsealloy_leggings))", "minecraft:custom_name": "\"JDT Leggings\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 1.4999999999999991d
-			y: 0.1999999999999993d
+			x: 1.1d
+			y: 0.7000000000000011d
 		}
 		{
 			hide_dependent_lines: true
 			id: "2285E0D408D557C9"
-			shape: "rsquare"
+			shape: "hexagon"
 			tasks: [{
 				id: "1D1D0F8B759CC2A1"
 				item: { components: { "ftbfiltersystem:filter": "or(item(justdirethings:ferricore_boots)item(justdirethings:blazegold_boots)item(justdirethings:celestigem_boots)item(justdirethings:eclipsealloy_boots))", "minecraft:custom_name": "\"JDT Boots\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 2.3d
-			y: 1.6999999999999993d
+			x: 2.1d
+			y: 2.500000000000001d
 		}
 		{
 			id: "26B737BB17F463AD"
@@ -609,8 +689,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_decoy" }
 				type: "item"
 			}]
-			x: 5.6d
-			y: -2.0d
+			x: 5.199999999999999d
+			y: -1.4999999999999987d
 		}
 		{
 			dependencies: ["39090CE2C686D624"]
@@ -620,8 +700,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_phase" }
 				type: "item"
 			}]
-			x: 6.8999999999999995d
-			y: -2.6000000000000014d
+			x: 6.499999999999998d
+			y: -2.1d
 		}
 		{
 			id: "0F533E676FC638F7"
@@ -630,8 +710,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_negatefalldamage" }
 				type: "item"
 			}]
-			x: 6.3d
-			y: -0.40000000000000036d
+			x: 6.1d
+			y: 0.4000000000000011d
 		}
 		{
 			dependencies: ["2285E0D408D557C9"]
@@ -641,80 +721,81 @@
 				item: { count: 1, id: "justdirethings:upgrade_earthquake" }
 				type: "item"
 			}]
-			x: 7.7d
-			y: -1.1000000000000014d
+			x: 7.499999999999998d
+			y: -0.3d
 		}
 		{
 			hide_dependent_lines: true
 			id: "3B24ABC6EEA3CD82"
-			shape: "rsquare"
+			shape: "hexagon"
+			size: 1.0d
 			tasks: [{
 				id: "76CA6B41CB4BA9E5"
 				item: { components: { "ftbfiltersystem:filter": "or(item(justdirethings:ferricore_pickaxe)item(justdirethings:blazegold_pickaxe)item(justdirethings:celestigem_pickaxe)item(justdirethings:eclipsealloy_pickaxe))", "minecraft:custom_name": "\"JDT Pickaxes\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -1.2d
-			y: -2.2d
+			x: -0.9000000000000004d
+			y: -0.40000000000000036d
 		}
 		{
 			hide_dependent_lines: true
 			id: "60EB9F0EFC157E87"
-			shape: "rsquare"
+			shape: "hexagon"
 			tasks: [{
 				id: "7FA20C94CD971DDE"
 				item: { components: { "ftbfiltersystem:filter": "or(item(justdirethings:ferricore_axe)item(justdirethings:blazegold_axe)item(justdirethings:celestigem_axe)item(justdirethings:eclipsealloy_axe))", "minecraft:custom_name": "\"JDT Axes\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -0.4d
-			y: -0.8d
+			x: -0.09999999999999964d
+			y: 1.0999999999999996d
 		}
 		{
 			hide_dependent_lines: true
 			id: "06403F8579180809"
-			shape: "rsquare"
+			shape: "hexagon"
 			tasks: [{
 				id: "4CF55D810A2C5EB7"
 				item: { components: { "ftbfiltersystem:filter": "or(item(justdirethings:ferricore_shovel)item(justdirethings:blazegold_shovel)item(justdirethings:celestigem_shovel)item(justdirethings:eclipsealloy_shovel))", "minecraft:custom_name": "\"JDT Shovels\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 0.4d
-			y: 0.8d
+			x: 0.6999999999999993d
+			y: 2.5999999999999996d
 		}
 		{
 			hide_dependent_lines: true
 			id: "25FB79A35341E817"
-			shape: "rsquare"
+			shape: "hexagon"
 			tasks: [{
 				id: "32A4237AAFD95B47"
 				item: { components: { "ftbfiltersystem:filter": "or(item(justdirethings:ferricore_hoe)item(justdirethings:blazegold_hoe)item(justdirethings:celestigem_hoe)item(justdirethings:eclipsealloy_hoe))", "minecraft:custom_name": "\"JDT Hoes\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 1.1d
-			y: 2.3d
+			x: 1.5d
+			y: 4.1d
 		}
 		{
 			hide_dependent_lines: true
 			id: "7AA47B6C9E4BBCB5"
-			shape: "rsquare"
+			shape: "hexagon"
 			tasks: [{
 				id: "65E7FAE097342F1F"
 				item: { components: { "ftbfiltersystem:filter": "or(item(justdirethings:ferricore_sword)item(justdirethings:blazegold_sword)item(justdirethings:celestigem_sword)item(justdirethings:eclipsealloy_sword))", "minecraft:custom_name": "\"JDT Swords\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 1.9d
-			y: 3.8d
+			x: -1.6999999999999993d
+			y: -1.9000000000000004d
 		}
 		{
 			hide_dependent_lines: true
 			id: "1902598AF34D8ED2"
-			shape: "rsquare"
+			shape: "hexagon"
 			tasks: [{
 				id: "6A10F4D7A04F6BD4"
 				item: { components: { "ftbfiltersystem:filter": "or(item(justdirethings:bow_ferricore)item(justdirethings:bow_blazegold)item(justdirethings:bow_celestigem)item(justdirethings:bow_eclipsealloy))", "minecraft:custom_name": "\"JDT Bows\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -2.0d
-			y: -3.6d
+			x: -2.5d
+			y: -3.299999999999999d
 		}
 		{
 			id: "099D40BE4EE3209E"
@@ -723,8 +804,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_oreminer" }
 				type: "item"
 			}]
-			x: -2.8d
-			y: -1.2d
+			x: -2.5d
+			y: 0.5000000000000018d
 		}
 		{
 			id: "040718C1CDCA717B"
@@ -733,8 +814,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_orescanner" }
 				type: "item"
 			}]
-			x: -2.1d
-			y: -1.6d
+			x: -1.8000000000000007d
+			y: 0.09999999999999964d
 		}
 		{
 			id: "0D75CD81FDC9F1EE"
@@ -743,8 +824,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_smelter" }
 				type: "item"
 			}]
-			x: -3.5d
-			y: -0.8d
+			x: -3.1999999999999993d
+			y: 0.9000000000000004d
 		}
 		{
 			dependencies: [
@@ -759,8 +840,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_instabreak" }
 				type: "item"
 			}]
-			x: -7.1d
-			y: 1.1d
+			x: -4.599999999999998d
+			y: 5.4d
 		}
 		{
 			id: "0C2A82258A31086B"
@@ -769,8 +850,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_orexray" }
 				type: "item"
 			}]
-			x: -6.3d
-			y: 0.6d
+			x: -6.800000000000001d
+			y: 0.9000000000000004d
 		}
 		{
 			dependencies: ["25FB79A35341E817"]
@@ -780,8 +861,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_dropteleport" }
 				type: "item"
 			}]
-			x: -2.8d
-			y: 4.4d
+			x: -2.5d
+			y: 6.200000000000001d
 		}
 		{
 			id: "12D18DE1B6D73080"
@@ -790,8 +871,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_hammer" }
 				type: "item"
 			}]
-			x: -4.2d
-			y: -0.5d
+			x: -3.900000000000002d
+			y: 1.200000000000001d
 		}
 		{
 			id: "2BED3D1D9008805F"
@@ -800,8 +881,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_treefeller" }
 				type: "item"
 			}]
-			x: -1.3d
-			y: -0.2d
+			x: -1.0d
+			y: 1.5999999999999996d
 		}
 		{
 			id: "3281BFD1295EA3FB"
@@ -810,8 +891,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_leafbreaker" }
 				type: "item"
 			}]
-			x: -2.0d
-			y: 0.1d
+			x: -1.8000000000000007d
+			y: 2.0000000000000018d
 		}
 		{
 			id: "67B037AEF696B713"
@@ -820,8 +901,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_lawnmower" }
 				type: "item"
 			}]
-			x: -0.5d
-			y: 1.3d
+			x: -0.1999999999999993d
+			y: 3.0000000000000018d
 		}
 		{
 			id: "3057FCA6BE8C2FA6"
@@ -830,8 +911,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_skysweeper" }
 				type: "item"
 			}]
-			x: -1.2d
-			y: 1.6d
+			x: -0.9000000000000004d
+			y: 3.4000000000000004d
 		}
 		{
 			id: "17EFAE7D3D35AE0D"
@@ -840,8 +921,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_potionarrow" }
 				type: "item"
 			}]
-			x: -3.1d
-			y: -3.1d
+			x: -3.6999999999999993d
+			y: -2.6999999999999993d
 		}
 		{
 			id: "257C2AC2C497AD76"
@@ -850,8 +931,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_lingering" }
 				type: "item"
 			}]
-			x: -5.7d
-			y: -1.7d
+			x: -6.199999999999999d
+			y: -1.4000000000000004d
 		}
 		{
 			id: "600940D796EF2CB4"
@@ -860,8 +941,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_epicarrow" }
 				type: "item"
 			}]
-			x: -7.2d
-			y: -0.9d
+			x: -7.699999999999999d
+			y: -0.5999999999999996d
 		}
 		{
 			id: "36F39D5D5823B04D"
@@ -870,8 +951,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_homing" }
 				type: "item"
 			}]
-			x: -6.4d
-			y: -1.3d
+			x: -6.900000000000002d
+			y: -0.9999999999999982d
 		}
 		{
 			dependencies: ["7AA47B6C9E4BBCB5"]
@@ -881,8 +962,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_glowing" }
 				type: "item"
 			}]
-			x: -3.5d
-			y: 6.7d
+			x: -7.5d
+			y: 1.3000000000000007d
 		}
 		{
 			id: "2F2987DCC8C660F3"
@@ -891,8 +972,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_mobscanner" }
 				type: "item"
 			}]
-			x: 0.7d
-			y: 4.4d
+			x: -2.5999999999999996d
+			y: -1.4000000000000004d
 		}
 		{
 			id: "0F09FCBE8C7D408C"
@@ -901,8 +982,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_smoker" }
 				type: "item"
 			}]
-			x: -0.7d
-			y: 5.2d
+			x: -3.3000000000000007d
+			y: -0.9999999999999982d
 		}
 		{
 			id: "293C52D347BDB52A"
@@ -911,8 +992,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_splash" }
 				type: "item"
 			}]
-			x: -4.6d
-			y: -2.3d
+			x: -5.099999999999998d
+			y: -1.9999999999999982d
 		}
 		{
 			dependencies: ["1902598AF34D8ED2"]
@@ -922,8 +1003,18 @@
 				item: { count: 1, id: "justdirethings:upgrade_phase" }
 				type: "item"
 			}]
-			x: -8.0d
-			y: -0.5d
+			x: -8.5d
+			y: -0.1999999999999993d
+		}
+		{
+			id: "66E7A770DB12C995"
+			tasks: [{
+				id: "7D421BC921286F4B"
+				item: { count: 1, id: "justdirethings:upgrade_cauterizewounds" }
+				type: "item"
+			}]
+			x: -4.400000000000002d
+			y: -0.40000000000000036d
 		}
 	]
 }
