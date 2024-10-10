@@ -11,8 +11,8 @@
 			order: 10
 			rotation: 0.0d
 			width: 1.0d
-			x: -6.9d
-			y: 6.6d
+			x: 4.2d
+			y: 2.1d
 		}
 		{
 			height: 1.0d
@@ -20,17 +20,18 @@
 			order: 10
 			rotation: 0.0d
 			width: 1.0d
-			x: -5.6d
-			y: 5.9d
+			x: 5.5d
+			y: 1.4d
 		}
 		{
 			color: 5592405
 			height: 2.0d
 			image: "justdirethings:item/creaturecatcher_side_animation"
+			order: 1
 			rotation: 62.0d
 			width: 11.0d
-			x: -5.1d
-			y: 10.1d
+			x: 2.3d
+			y: -1.200000000000001d
 		}
 		{
 			height: 1.0d
@@ -56,8 +57,8 @@
 			order: 9
 			rotation: 0.0d
 			width: 1.0d
-			x: -6.8d
-			y: 6.7d
+			x: 4.3d
+			y: 2.2d
 		}
 		{
 			alpha: 128
@@ -67,8 +68,8 @@
 			order: 9
 			rotation: 0.0d
 			width: 1.0d
-			x: -5.5d
-			y: 6.0d
+			x: 5.6d
+			y: 1.5d
 		}
 		{
 			alpha: 32
@@ -79,8 +80,8 @@
 			order: 2
 			rotation: -28.0d
 			width: 14.0d
-			x: -1.2d
-			y: 9.0d
+			x: -4.4d
+			y: 3.3d
 		}
 		{
 			alpha: 32
@@ -91,8 +92,8 @@
 			order: 2
 			rotation: -28.0d
 			width: 14.0d
-			x: -2.8d
-			y: 6.0d
+			x: -6.0d
+			y: 0.3d
 		}
 		{
 			alpha: 32
@@ -103,8 +104,8 @@
 			order: 2
 			rotation: -28.0d
 			width: 14.0d
-			x: -0.4d
-			y: 10.5d
+			x: -3.6d
+			y: 4.8d
 		}
 		{
 			alpha: 16
@@ -115,35 +116,38 @@
 			order: 2
 			rotation: -28.0d
 			width: 14.0d
-			x: -2.0d
-			y: 7.5d
+			x: -5.2d
+			y: 1.8d
 		}
 		{
 			color: 16711686
 			height: 2.0d
 			image: "justdirethings:item/creaturecatcher_side_animation"
+			order: 1
 			rotation: 62.0d
 			width: 11.0d
-			x: -3.7d
-			y: 9.4d
+			x: 3.7d
+			y: -1.9d
 		}
 		{
 			color: 42403
 			height: 2.0d
 			image: "justdirethings:item/creaturecatcher_side_animation"
+			order: 1
 			rotation: 62.0d
 			width: 11.0d
-			x: -2.3d
-			y: 8.6d
+			x: 5.1d
+			y: -2.700000000000001d
 		}
 		{
 			color: 19091
 			height: 4.0d
 			image: "justdirethings:item/creaturecatcher_side_animation"
+			order: 1
 			rotation: 62.0d
 			width: 11.0d
-			x: -0.3d
-			y: 7.5d
+			x: 7.099999999999999d
+			y: -3.8000000000000007d
 		}
 		{
 			height: 1.0d
@@ -151,8 +155,8 @@
 			order: 4
 			rotation: 0.0d
 			width: 1.0d
-			x: -4.2d
-			y: 5.1d
+			x: 6.9d
+			y: 0.6d
 		}
 		{
 			alpha: 128
@@ -162,44 +166,158 @@
 			order: 2
 			rotation: 0.0d
 			width: 1.0d
+			x: 7.0d
+			y: 0.7d
+		}
+		{
+			height: 1.0d
+			image: "justdirethings:item/template_eclipsealloy"
+			order: 4
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.1d
+			y: -0.1d
+		}
+		{
+			alpha: 128
+			color: 0
+			height: 1.0d
+			image: "justdirethings:item/template_eclipsealloy"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.2d
+			y: 0.0d
+		}
+		{
+			color: 16733695
+			height: 1.0d
+			image: "ftbquests:textures/shapes/circle/shape.png"
+			order: 199
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -16.4d
+		}
+		{
+			color: 5592405
+			height: 2.0d
+			image: "justdirethings:item/creaturecatcher_side_animation"
+			order: 1
+			rotation: -118.0d
+			width: 11.0d
+			x: -1.3d
+			y: 0.7d
+		}
+		{
+			color: 16711686
+			height: 2.0d
+			image: "justdirethings:item/creaturecatcher_side_animation"
+			order: 1
+			rotation: -118.0d
+			width: 11.0d
+			x: -2.7d
+			y: 1.4d
+		}
+		{
+			color: 42403
+			height: 2.0d
+			image: "justdirethings:item/creaturecatcher_side_animation"
+			order: 1
+			rotation: -118.0d
+			width: 11.0d
 			x: -4.1d
-			y: 5.2d
+			y: 2.1d
 		}
 		{
-			height: 1.0d
-			image: "justdirethings:item/template_eclipsealloy"
-			order: 4
-			rotation: 0.0d
-			width: 1.0d
-			x: -2.9d
-			y: 4.4d
+			color: 19091
+			height: 4.0d
+			image: "justdirethings:item/creaturecatcher_side_animation"
+			order: 1
+			rotation: -118.0d
+			width: 11.0d
+			x: -6.1d
+			y: 3.2d
 		}
 		{
 			alpha: 128
 			color: 0
-			height: 1.0d
-			image: "justdirethings:item/template_eclipsealloy"
-			order: 2
+			height: 16.0d
+			image: "ftbquests:textures/shapes/square/shape.png"
 			rotation: 0.0d
-			width: 1.0d
-			x: -2.8d
-			y: 4.5d
+			width: 28.0d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			color: 16610125
+			height: 4.0d
+			image: "ftbquests:textures/gui/title_jdt2.png"
+			order: 14
+			rotation: -28.0d
+			width: 4.0d
+			x: 2.2d
+			y: -5.4d
 		}
 	]
 	order_index: 2
-	quest_links: [ ]
-	quests: [
+	quest_links: [
 		{
-			id: "05E2511264A22A2E"
-			shape: "rsquare"
-			tasks: [{
-				id: "688C5F1347805C66"
-				item: { count: 1, id: "justdirethings:ferricore_sword" }
-				type: "item"
-			}]
-			x: -9.7d
-			y: 7.5d
+			id: "60627FE9EA22F06E"
+			linked_quest: "12D18DE1B6D73080"
+			x: -1.5d
+			y: 3.7d
 		}
+		{
+			id: "41A8718377841FA3"
+			linked_quest: "6978B89DAD9B2821"
+			x: -5.2d
+			y: 0.1d
+		}
+		{
+			id: "5607F8CA41A10CDD"
+			linked_quest: "0D75CD81FDC9F1EE"
+			x: -3.1d
+			y: 0.7d
+		}
+		{
+			id: "3B9DAB0D3A048AA9"
+			linked_quest: "076B9EB36E4A4AA2"
+			x: -5.7d
+			y: 2.1d
+		}
+		{
+			id: "00C36D5EC89DCB76"
+			linked_quest: "6978B89DAD9B2821"
+			x: -4.4d
+			y: 1.4d
+		}
+		{
+			id: "5DEBF8F5E9FF702E"
+			linked_quest: "076B9EB36E4A4AA2"
+			x: -4.9d
+			y: 3.5d
+		}
+		{
+			id: "1417F93044FEA44F"
+			linked_quest: "6978B89DAD9B2821"
+			x: -3.6d
+			y: 2.9d
+		}
+		{
+			id: "0CC37B8FC114AC92"
+			linked_quest: "0D75CD81FDC9F1EE"
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			id: "1DE388FFE16EFC9B"
+			linked_quest: "12D18DE1B6D73080"
+			x: -2.7d
+			y: 2.3d
+		}
+	]
+	quests: [
 		{
 			id: "058420AF3A29D4D9"
 			tasks: [{
@@ -207,8 +325,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_mindfog" }
 				type: "item"
 			}]
-			x: -6.2d
-			y: 7.8d
+			x: 1.1999999999999993d
+			y: -3.500000000000001d
 		}
 		{
 			id: "58384B247F1D5A7C"
@@ -218,8 +336,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_stupefy" }
 				type: "item"
 			}]
-			x: -4.9d
-			y: 7.1d
+			x: 2.499999999999999d
+			y: -4.200000000000001d
 		}
 		{
 			id: "38F0D70BBECC9D9E"
@@ -229,8 +347,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_nightvision" }
 				type: "item"
 			}]
-			x: -3.5d
-			y: 6.4d
+			x: 3.8999999999999995d
+			y: -4.9d
 		}
 		{
 			dependencies: ["604C8D7A76E664DB"]
@@ -241,8 +359,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_debuffremover" }
 				type: "item"
 			}]
-			x: -1.6d
-			y: 5.4d
+			x: 5.8d
+			y: -5.9d
 		}
 		{
 			id: "40E134AC271A6E68"
@@ -252,64 +370,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_noai" }
 				type: "item"
 			}]
-			x: -2.3d
-			y: 5.8d
-		}
-		{
-			id: "1458D32A7A2B0E1A"
-			shape: "rsquare"
-			tasks: [{
-				id: "692B1B82C092FAFC"
-				item: { count: 1, id: "justdirethings:ferricore_axe" }
-				type: "item"
-			}]
-			x: -8.0d
-			y: 10.7d
-		}
-		{
-			hide_dependent_lines: true
-			id: "54F0C05AA5947936"
-			shape: "rsquare"
-			tasks: [{
-				id: "75B54F9789C9EBAB"
-				item: { count: 1, id: "justdirethings:ferricore_pickaxe" }
-				type: "item"
-			}]
-			x: -8.8d
-			y: 9.2d
-		}
-		{
-			id: "5EBDC790BEE73624"
-			shape: "rsquare"
-			tasks: [{
-				id: "62E8D08D13663E77"
-				item: { count: 1, id: "justdirethings:ferricore_shovel" }
-				type: "item"
-			}]
-			x: -7.3d
-			y: 12.3d
-		}
-		{
-			id: "3B5B0960E35836B3"
-			shape: "rsquare"
-			tasks: [{
-				id: "50D49FB9D4B9A98C"
-				item: { count: 1, id: "justdirethings:ferricore_hoe" }
-				type: "item"
-			}]
-			x: -6.4d
-			y: 13.7d
-		}
-		{
-			id: "71CD4FECDEE30CD3"
-			shape: "rsquare"
-			tasks: [{
-				id: "62E091E29DB34413"
-				item: { count: 1, id: "justdirethings:bow_ferricore" }
-				type: "item"
-			}]
-			x: -5.4d
-			y: 15.2d
+			x: 5.1d
+			y: -5.500000000000001d
 		}
 		{
 			id: "5706CC605BC0B5F0"
@@ -318,8 +380,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_invulnerability" }
 				type: "item"
 			}]
-			x: -5.5d
-			y: 9.3d
+			x: 1.8999999999999995d
+			y: -2.0d
 		}
 		{
 			id: "374F0299EE94748E"
@@ -328,8 +390,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_extinguish" }
 				type: "item"
 			}]
-			x: -4.1d
-			y: 8.6d
+			x: 3.3d
+			y: -2.700000000000001d
 		}
 		{
 			id: "71855F5E232643E8"
@@ -338,8 +400,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_elytra" }
 				type: "item"
 			}]
-			x: -2.7d
-			y: 7.9d
+			x: 4.699999999999999d
+			y: -3.4000000000000004d
 		}
 		{
 			id: "6B6D192C3E4151B6"
@@ -348,8 +410,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_deathprotection" }
 				type: "item"
 			}]
-			x: -1.7d
-			y: 7.3d
+			x: 5.699999999999999d
+			y: -4.000000000000001d
 		}
 		{
 			id: "21BAE455A49103A5"
@@ -358,8 +420,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_flight" }
 				type: "item"
 			}]
-			x: -0.1d
-			y: 6.5d
+			x: 7.3d
+			y: -4.800000000000001d
 		}
 		{
 			id: "592E17C84F46B61F"
@@ -368,8 +430,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_lavaimmunity" }
 				type: "item"
 			}]
-			x: -0.9d
-			y: 6.9d
+			x: 6.499999999999999d
+			y: -4.4d
 		}
 		{
 			dependencies: ["199090A3A61DC2FC"]
@@ -379,8 +441,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_time_protection" }
 				type: "item"
 			}]
-			x: 0.7d
-			y: 6.1d
+			x: 8.099999999999998d
+			y: -5.200000000000001d
 		}
 		{
 			id: "1EFC1875152ECD07"
@@ -389,8 +451,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_walkspeed" }
 				type: "item"
 			}]
-			x: -4.1d
-			y: 12.5d
+			x: 3.3d
+			y: 1.1999999999999993d
 		}
 		{
 			id: "4E24E65FAC70203C"
@@ -399,8 +461,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_runspeed" }
 				type: "item"
 			}]
-			x: -3.4d
-			y: 12.1d
+			x: 3.999999999999999d
+			y: 0.7999999999999989d
 		}
 		{
 			id: "661D6326B7F23154"
@@ -409,8 +471,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_stepheight" }
 				type: "item"
 			}]
-			x: -4.9d
-			y: 11.0d
+			x: 2.499999999999999d
+			y: -0.3000000000000007d
 		}
 		{
 			id: "17F4CBC638535A83"
@@ -419,8 +481,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_jumpboost" }
 				type: "item"
 			}]
-			x: -4.2d
-			y: 10.6d
+			x: 3.1999999999999993d
+			y: -0.7000000000000011d
 		}
 		{
 			id: "31C53E138A1C2B5D"
@@ -429,8 +491,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_swimspeed" }
 				type: "item"
 			}]
-			x: -3.2d
-			y: 10.1d
+			x: 4.199999999999999d
+			y: -1.200000000000001d
 		}
 		{
 			id: "4490ACA2EF9CF850"
@@ -439,8 +501,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_groundstomp" }
 				type: "item"
 			}]
-			x: -2.4d
-			y: 11.6d
+			x: 4.999999999999999d
+			y: 0.29999999999999893d
 		}
 		{
 			hide_dependent_lines: true
@@ -451,8 +513,8 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(justdirethings:ferricore_helmet)item(justdirethings:blazegold_helmet)item(justdirethings:celestigem_helmet)item(justdirethings:eclipsealloy_helmet))", "minecraft:custom_name": "\"JDT Helmets\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -7.5d
-			y: 8.5d
+			x: -0.10000000000000053d
+			y: -2.8000000000000007d
 		}
 		{
 			hide_dependent_lines: true
@@ -463,8 +525,8 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(justdirethings:ferricore_chestplate)item(justdirethings:blazegold_chestplate)item(justdirethings:celestigem_chestplate)item(justdirethings:eclipsealloy_chestplate))", "minecraft:custom_name": "\"JDT Chestplate\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -6.7d
-			y: 10.0d
+			x: 0.6999999999999993d
+			y: -1.3000000000000007d
 		}
 		{
 			hide_dependent_lines: true
@@ -475,8 +537,8 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(justdirethings:ferricore_leggings)item(justdirethings:blazegold_leggings)item(justdirethings:celestigem_leggings)item(justdirethings:eclipsealloy_leggings))", "minecraft:custom_name": "\"JDT Leggings\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -5.9d
-			y: 11.5d
+			x: 1.4999999999999991d
+			y: 0.1999999999999993d
 		}
 		{
 			hide_dependent_lines: true
@@ -487,8 +549,8 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(justdirethings:ferricore_boots)item(justdirethings:blazegold_boots)item(justdirethings:celestigem_boots)item(justdirethings:eclipsealloy_boots))", "minecraft:custom_name": "\"JDT Boots\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -5.1d
-			y: 13.0d
+			x: 2.3d
+			y: 1.6999999999999993d
 		}
 		{
 			id: "26B737BB17F463AD"
@@ -497,8 +559,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_decoy" }
 				type: "item"
 			}]
-			x: -1.8d
-			y: 9.3d
+			x: 5.6d
+			y: -2.0d
 		}
 		{
 			dependencies: ["39090CE2C686D624"]
@@ -508,8 +570,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_phase" }
 				type: "item"
 			}]
-			x: -0.5d
-			y: 8.7d
+			x: 6.8999999999999995d
+			y: -2.6000000000000014d
 		}
 		{
 			id: "0F533E676FC638F7"
@@ -518,8 +580,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_negatefalldamage" }
 				type: "item"
 			}]
-			x: -1.1d
-			y: 10.9d
+			x: 6.3d
+			y: -0.40000000000000036d
 		}
 		{
 			dependencies: ["2285E0D408D557C9"]
@@ -529,8 +591,195 @@
 				item: { count: 1, id: "justdirethings:upgrade_earthquake" }
 				type: "item"
 			}]
-			x: 0.3d
-			y: 10.2d
+			x: 7.7d
+			y: -1.1000000000000014d
+		}
+		{
+			hide_dependent_lines: true
+			id: "3B24ABC6EEA3CD82"
+			shape: "rsquare"
+			tasks: [{
+				id: "76CA6B41CB4BA9E5"
+				item: { components: { "ftbfiltersystem:filter": "or(item(justdirethings:ferricore_pickaxe)item(justdirethings:blazegold_pickaxe)item(justdirethings:celestigem_pickaxe)item(justdirethings:eclipsealloy_pickaxe))", "minecraft:custom_name": "\"JDT Pickaxes\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -1.2d
+			y: -2.1d
+		}
+		{
+			hide_dependent_lines: true
+			id: "60EB9F0EFC157E87"
+			shape: "rsquare"
+			tasks: [{
+				id: "7FA20C94CD971DDE"
+				item: { components: { "ftbfiltersystem:filter": "or(item(justdirethings:ferricore_axe)item(justdirethings:blazegold_axe)item(justdirethings:celestigem_axe)item(justdirethings:eclipsealloy_axe))", "minecraft:custom_name": "\"JDT Axes\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -0.7d
+		}
+		{
+			hide_dependent_lines: true
+			id: "06403F8579180809"
+			shape: "rsquare"
+			tasks: [{
+				id: "4CF55D810A2C5EB7"
+				item: { components: { "ftbfiltersystem:filter": "or(item(justdirethings:ferricore_shovel)item(justdirethings:blazegold_shovel)item(justdirethings:celestigem_shovel)item(justdirethings:eclipsealloy_shovel))", "minecraft:custom_name": "\"JDT Shovels\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.4d
+			y: 0.8d
+		}
+		{
+			hide_dependent_lines: true
+			id: "25FB79A35341E817"
+			shape: "rsquare"
+			tasks: [{
+				id: "32A4237AAFD95B47"
+				item: { components: { "ftbfiltersystem:filter": "or(item(justdirethings:ferricore_hoe)item(justdirethings:blazegold_hoe)item(justdirethings:celestigem_hoe)item(justdirethings:eclipsealloy_hoe))", "minecraft:custom_name": "\"JDT Hoes\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.2d
+			y: 2.3d
+		}
+		{
+			id: "7AA47B6C9E4BBCB5"
+			shape: "rsquare"
+			tasks: [{
+				id: "65E7FAE097342F1F"
+				item: { components: { "ftbfiltersystem:filter": "or(item(justdirethings:ferricore_sword)item(justdirethings:blazegold_sword)item(justdirethings:celestigem_sword)item(justdirethings:eclipsealloy_sword))", "minecraft:custom_name": "\"JDT Swords\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -1.7d
+			y: -4.3d
+		}
+		{
+			id: "1902598AF34D8ED2"
+			shape: "rsquare"
+			tasks: [{
+				id: "6A10F4D7A04F6BD4"
+				item: { components: { "ftbfiltersystem:filter": "or(item(justdirethings:bow_ferricore)item(justdirethings:bow_blazegold)item(justdirethings:bow_celestigem)item(justdirethings:bow_eclipsealloy))", "minecraft:custom_name": "\"JDT Bows\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 2.7d
+			y: 3.4d
+		}
+		{
+			id: "099D40BE4EE3209E"
+			tasks: [{
+				id: "1482CBF5BC24DE32"
+				item: { count: 1, id: "justdirethings:upgrade_oreminer" }
+				type: "item"
+			}]
+			x: -2.8d
+			y: -1.2d
+		}
+		{
+			id: "040718C1CDCA717B"
+			tasks: [{
+				id: "29B2B16510815147"
+				item: { count: 1, id: "justdirethings:upgrade_orescanner" }
+				type: "item"
+			}]
+			x: -2.1d
+			y: -1.6d
+		}
+		{
+			id: "0D75CD81FDC9F1EE"
+			tasks: [{
+				id: "7D5C39AA35325C54"
+				item: { count: 1, id: "justdirethings:upgrade_smelter" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -0.8d
+		}
+		{
+			dependencies: [
+				"3B24ABC6EEA3CD82"
+				"60EB9F0EFC157E87"
+				"06403F8579180809"
+			]
+			dependency_requirement: "one_completed"
+			id: "076B9EB36E4A4AA2"
+			tasks: [{
+				id: "07675028F722698E"
+				item: { count: 1, id: "justdirethings:upgrade_instabreak" }
+				type: "item"
+			}]
+			x: -7.1d
+			y: 1.1d
+		}
+		{
+			id: "0C2A82258A31086B"
+			tasks: [{
+				id: "059D9ED2AD5447B5"
+				item: { count: 1, id: "justdirethings:upgrade_orexray" }
+				type: "item"
+			}]
+			x: -6.3d
+			y: 0.6d
+		}
+		{
+			dependencies: ["25FB79A35341E817"]
+			id: "6978B89DAD9B2821"
+			tasks: [{
+				id: "5D9BA4DB2374B0CF"
+				item: { count: 1, id: "justdirethings:upgrade_dropteleport" }
+				type: "item"
+			}]
+			x: -2.8d
+			y: 4.4d
+		}
+		{
+			id: "12D18DE1B6D73080"
+			tasks: [{
+				id: "1E5C7E3CBEE605FB"
+				item: { count: 1, id: "justdirethings:upgrade_hammer" }
+				type: "item"
+			}]
+			x: -4.2d
+			y: -0.5d
+		}
+		{
+			id: "2BED3D1D9008805F"
+			tasks: [{
+				id: "30C5118380F7B2D4"
+				item: { count: 1, id: "justdirethings:upgrade_treefeller" }
+				type: "item"
+			}]
+			x: -1.3d
+			y: -0.2d
+		}
+		{
+			id: "3281BFD1295EA3FB"
+			tasks: [{
+				id: "20306A2DCC3556A5"
+				item: { count: 1, id: "justdirethings:upgrade_leafbreaker" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.1d
+		}
+		{
+			id: "67B037AEF696B713"
+			tasks: [{
+				id: "45C8F6AD44E64F17"
+				item: { count: 1, id: "justdirethings:upgrade_lawnmower" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 1.3d
+		}
+		{
+			id: "3057FCA6BE8C2FA6"
+			tasks: [{
+				id: "51A08081F18D9CB3"
+				item: { count: 1, id: "justdirethings:upgrade_skysweeper" }
+				type: "item"
+			}]
+			x: -1.2d
+			y: 1.6d
 		}
 	]
 }
