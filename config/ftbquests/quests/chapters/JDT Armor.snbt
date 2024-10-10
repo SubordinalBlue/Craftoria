@@ -1,62 +1,18 @@
 {
 	default_hide_dependency_lines: false
-	default_quest_shape: "rsquare"
+	default_quest_shape: "circle"
 	filename: "JDT Armor"
 	group: "339B1A91ADDB30AC"
 	id: "1397FADB8589E9F0"
 	images: [
-		{
-			alpha: 192
-			color: 47527
-			height: 2.0d
-			image: "ftbquests:textures/shapes/square/shape.png"
-			order: 2
-			rotation: 22.5d
-			width: 25.0d
-			x: 1.0d
-			y: 4.5d
-		}
-		{
-			alpha: 128
-			color: 12124164
-			height: 2.0d
-			image: "ftbquests:textures/shapes/square/shape.png"
-			order: 2
-			rotation: 22.5d
-			width: 25.0d
-			x: 0.5d
-			y: 6.0d
-		}
 		{
 			height: 1.0d
 			image: "justdirethings:item/template_ferricore"
 			order: 10
 			rotation: 0.0d
 			width: 1.0d
-			x: -10.5d
-			y: 7.5d
-		}
-		{
-			alpha: 128
-			color: 43167
-			height: 2.0d
-			image: "ftbquests:textures/shapes/square/shape.png"
-			order: 2
-			rotation: 22.5d
-			width: 25.0d
-			x: 0.0d
-			y: 7.5d
-		}
-		{
-			alpha: 128
-			color: 10319
-			height: 2.0d
-			image: "ftbquests:textures/shapes/square/shape.png"
-			order: 2
-			rotation: 22.5d
-			width: 25.0d
-			x: 1.5d
-			y: 3.0d
+			x: -6.9d
+			y: 6.6d
 		}
 		{
 			height: 1.0d
@@ -64,40 +20,17 @@
 			order: 10
 			rotation: 0.0d
 			width: 1.0d
-			x: -10.5d
-			y: 5.5d
+			x: -5.6d
+			y: 5.9d
 		}
 		{
-			height: 4.0d
+			color: 5592405
+			height: 2.0d
 			image: "justdirethings:item/creaturecatcher_side_animation"
-			rotation: 0.0d
-			width: 28.0d
-			x: 8.0d
-			y: 17.0d
-		}
-		{
-			height: 4.0d
-			image: "justdirethings:item/creaturecatcher_side_animation"
-			rotation: 0.0d
-			width: 28.0d
-			x: 26.0d
-			y: 18.0d
-		}
-		{
-			height: 4.0d
-			image: "justdirethings:item/creaturecatcher_side_animation"
-			rotation: 0.0d
-			width: 28.0d
-			x: 14.5d
-			y: 12.0d
-		}
-		{
-			height: 4.0d
-			image: "justdirethings:item/creaturecatcher_side_animation"
-			rotation: 0.0d
-			width: 28.0d
-			x: 25.0d
-			y: -6.5d
+			rotation: 62.0d
+			width: 11.0d
+			x: -5.1d
+			y: 10.1d
 		}
 		{
 			height: 1.0d
@@ -115,71 +48,167 @@
 			x: 9.5d
 			y: 1.5d
 		}
+		{
+			alpha: 128
+			color: 0
+			height: 1.0d
+			image: "justdirethings:item/template_ferricore"
+			order: 9
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.8d
+			y: 6.7d
+		}
+		{
+			alpha: 128
+			color: 0
+			height: 1.0d
+			image: "minecraft:item/netherite_upgrade_smithing_template"
+			order: 9
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: 6.0d
+		}
+		{
+			alpha: 32
+			color: 12124164
+			dev: true
+			height: 2.0d
+			image: "ftbquests:textures/shapes/square/shape.png"
+			order: 2
+			rotation: -28.0d
+			width: 14.0d
+			x: -1.2d
+			y: 9.0d
+		}
+		{
+			alpha: 32
+			color: 12124164
+			dev: true
+			height: 2.0d
+			image: "ftbquests:textures/shapes/square/shape.png"
+			order: 2
+			rotation: -28.0d
+			width: 14.0d
+			x: -2.8d
+			y: 6.0d
+		}
+		{
+			alpha: 32
+			color: 12124164
+			dev: true
+			height: 2.0d
+			image: "ftbquests:textures/shapes/square/shape.png"
+			order: 2
+			rotation: -28.0d
+			width: 14.0d
+			x: -0.4d
+			y: 10.5d
+		}
+		{
+			alpha: 16
+			color: 12124164
+			dev: true
+			height: 2.0d
+			image: "ftbquests:textures/shapes/square/shape.png"
+			order: 2
+			rotation: -28.0d
+			width: 14.0d
+			x: -2.0d
+			y: 7.5d
+		}
+		{
+			color: 16711686
+			height: 2.0d
+			image: "justdirethings:item/creaturecatcher_side_animation"
+			rotation: 62.0d
+			width: 11.0d
+			x: -3.7d
+			y: 9.4d
+		}
+		{
+			color: 42403
+			height: 2.0d
+			image: "justdirethings:item/creaturecatcher_side_animation"
+			rotation: 62.0d
+			width: 11.0d
+			x: -2.3d
+			y: 8.6d
+		}
+		{
+			color: 19091
+			height: 4.0d
+			image: "justdirethings:item/creaturecatcher_side_animation"
+			rotation: 62.0d
+			width: 11.0d
+			x: -0.3d
+			y: 7.5d
+		}
+		{
+			height: 1.0d
+			image: "justdirethings:item/template_celestigem"
+			order: 4
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.2d
+			y: 5.1d
+		}
+		{
+			alpha: 128
+			color: 0
+			height: 1.0d
+			image: "justdirethings:item/template_celestigem"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.1d
+			y: 5.2d
+		}
+		{
+			height: 1.0d
+			image: "justdirethings:item/template_eclipsealloy"
+			order: 4
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.9d
+			y: 4.4d
+		}
+		{
+			alpha: 128
+			color: 0
+			height: 1.0d
+			image: "justdirethings:item/template_eclipsealloy"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.8d
+			y: 4.5d
+		}
 	]
 	order_index: 2
 	quest_links: [ ]
 	quests: [
 		{
-			id: "49D4AA08C141550C"
-			size: 1.0d
-			tasks: [{
-				id: "4CFB760CBA07BC07"
-				item: { count: 1, id: "justdirethings:ferricore_helmet" }
-				type: "item"
-			}]
-			x: -9.0d
-			y: 9.5d
-		}
-		{
 			id: "05E2511264A22A2E"
+			shape: "rsquare"
 			tasks: [{
 				id: "688C5F1347805C66"
 				item: { count: 1, id: "justdirethings:ferricore_sword" }
 				type: "item"
 			}]
-			x: -1.0d
-			y: 9.5d
-		}
-		{
-			id: "35FD65E721E8C0D2"
-			tasks: [{
-				id: "2F6D5D87F9813B23"
-				item: { count: 1, id: "justdirethings:blazegold_helmet" }
-				type: "item"
-			}]
-			x: -18.0d
-			y: -13.5d
-		}
-		{
-			id: "7770F68501C9BF4F"
-			tasks: [{
-				id: "72EC462A126A9267"
-				item: { count: 1, id: "justdirethings:celestigem_helmet" }
-				type: "item"
-			}]
-			x: -16.5d
-			y: -13.5d
-		}
-		{
-			id: "22E9424133C11B39"
-			tasks: [{
-				id: "79616BDF30028E44"
-				item: { count: 1, id: "justdirethings:eclipsealloy_helmet" }
-				type: "item"
-			}]
-			x: -14.5d
-			y: -13.5d
+			x: -9.7d
+			y: 7.5d
 		}
 		{
 			id: "058420AF3A29D4D9"
-			shape: "circle"
 			tasks: [{
 				id: "21D643206F33529E"
 				item: { count: 1, id: "justdirethings:upgrade_mindfog" }
 				type: "item"
 			}]
-			x: -9.0d
-			y: 7.5d
+			x: -6.2d
+			y: 7.8d
 		}
 		{
 			id: "58384B247F1D5A7C"
@@ -189,8 +218,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_stupefy" }
 				type: "item"
 			}]
-			x: -9.0d
-			y: 5.5d
+			x: -4.9d
+			y: 7.1d
 		}
 		{
 			id: "38F0D70BBECC9D9E"
@@ -200,10 +229,11 @@
 				item: { count: 1, id: "justdirethings:upgrade_nightvision" }
 				type: "item"
 			}]
-			x: -9.0d
-			y: 3.5d
+			x: -3.5d
+			y: 6.4d
 		}
 		{
+			dependencies: ["604C8D7A76E664DB"]
 			id: "309EB8F6C0E34309"
 			shape: "circle"
 			tasks: [{
@@ -211,8 +241,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_debuffremover" }
 				type: "item"
 			}]
-			x: -9.0d
-			y: 2.0d
+			x: -1.6d
+			y: 5.4d
 		}
 		{
 			id: "40E134AC271A6E68"
@@ -222,151 +252,64 @@
 				item: { count: 1, id: "justdirethings:upgrade_noai" }
 				type: "item"
 			}]
-			x: -9.0d
-			y: 1.0d
+			x: -2.3d
+			y: 5.8d
 		}
 		{
 			id: "1458D32A7A2B0E1A"
+			shape: "rsquare"
 			tasks: [{
 				id: "692B1B82C092FAFC"
 				item: { count: 1, id: "justdirethings:ferricore_axe" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: 9.5d
+			x: -8.0d
+			y: 10.7d
 		}
 		{
+			hide_dependent_lines: true
 			id: "54F0C05AA5947936"
+			shape: "rsquare"
 			tasks: [{
 				id: "75B54F9789C9EBAB"
 				item: { count: 1, id: "justdirethings:ferricore_pickaxe" }
 				type: "item"
 			}]
-			x: 1.0d
-			y: 9.5d
+			x: -8.8d
+			y: 9.2d
 		}
 		{
 			id: "5EBDC790BEE73624"
+			shape: "rsquare"
 			tasks: [{
 				id: "62E8D08D13663E77"
 				item: { count: 1, id: "justdirethings:ferricore_shovel" }
 				type: "item"
 			}]
-			x: 5.0d
-			y: 9.5d
+			x: -7.3d
+			y: 12.3d
 		}
 		{
 			id: "3B5B0960E35836B3"
+			shape: "rsquare"
 			tasks: [{
 				id: "50D49FB9D4B9A98C"
 				item: { count: 1, id: "justdirethings:ferricore_hoe" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: 9.5d
+			x: -6.4d
+			y: 13.7d
 		}
 		{
 			id: "71CD4FECDEE30CD3"
+			shape: "rsquare"
 			tasks: [{
 				id: "62E091E29DB34413"
 				item: { count: 1, id: "justdirethings:bow_ferricore" }
 				type: "item"
 			}]
-			x: 9.0d
-			y: 9.5d
-		}
-		{
-			id: "7EA79302DAC2C630"
-			tasks: [{
-				id: "5C8A6A1B41CFAEAD"
-				item: { count: 1, id: "justdirethings:ferricore_chestplate" }
-				type: "item"
-			}]
-			x: -7.0d
-			y: 9.5d
-		}
-		{
-			id: "2BD1EDED96F0006D"
-			tasks: [{
-				id: "7A64472B61EBC9F4"
-				item: { count: 1, id: "justdirethings:ferricore_leggings" }
-				type: "item"
-			}]
-			x: -5.0d
-			y: 9.5d
-		}
-		{
-			id: "015141569D2AB89D"
-			tasks: [{
-				id: "007C4CE468A27D4D"
-				item: { count: 1, id: "justdirethings:ferricore_boots" }
-				type: "item"
-			}]
-			x: -3.0d
-			y: 9.5d
-		}
-		{
-			id: "4DF6D1A24B60E656"
-			tasks: [{
-				id: "5F6C59075B2677F5"
-				item: { count: 1, id: "justdirethings:blazegold_chestplate" }
-				type: "item"
-			}]
-			x: -12.5d
-			y: 5.0d
-		}
-		{
-			id: "5BCF5180EB305CC9"
-			tasks: [{
-				id: "13EBEFE904F892EC"
-				item: { count: 1, id: "justdirethings:blazegold_leggings" }
-				type: "item"
-			}]
-			x: -17.0d
-			y: -11.5d
-		}
-		{
-			id: "37DE36745574043B"
-			shape: "rsquare"
-			size: 1.0d
-			tasks: [{
-				id: "6FB974CDDCA96188"
-				item: { count: 1, id: "justdirethings:template_ferricore" }
-				type: "item"
-			}]
-			x: -14.5d
-			y: -9.0d
-		}
-		{
-			id: "70C37670C61A2152"
-			size: 1.0d
-			tasks: [{
-				id: "0E66D3A12F494360"
-				item: { count: 1, id: "justdirethings:template_blazegold" }
-				type: "item"
-			}]
-			x: -15.0d
-			y: -16.0d
-		}
-		{
-			id: "5DE38E22578D5DB1"
-			tasks: [{
-				id: "1A1BA4745F77D20D"
-				item: { count: 1, id: "justdirethings:template_celestigem" }
-				type: "item"
-			}]
-			x: -10.5d
-			y: 3.5d
-		}
-		{
-			id: "0034844B9E1B7574"
-			tasks: [{
-				id: "3732503178C78223"
-				item: { count: 1, id: "justdirethings:template_eclipsealloy" }
-				type: "item"
-			}]
-			x: -10.5d
-			y: 1.5d
+			x: -5.4d
+			y: 15.2d
 		}
 		{
 			id: "5706CC605BC0B5F0"
@@ -375,8 +318,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_invulnerability" }
 				type: "item"
 			}]
-			x: -7.0d
-			y: 7.5d
+			x: -5.5d
+			y: 9.3d
 		}
 		{
 			id: "374F0299EE94748E"
@@ -385,8 +328,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_extinguish" }
 				type: "item"
 			}]
-			x: -7.0d
-			y: 5.5d
+			x: -4.1d
+			y: 8.6d
 		}
 		{
 			id: "71855F5E232643E8"
@@ -395,8 +338,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_elytra" }
 				type: "item"
 			}]
-			x: -7.0d
-			y: 3.5d
+			x: -2.7d
+			y: 7.9d
 		}
 		{
 			id: "6B6D192C3E4151B6"
@@ -405,8 +348,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_deathprotection" }
 				type: "item"
 			}]
-			x: -7.5d
-			y: 1.0d
+			x: -1.7d
+			y: 7.3d
 		}
 		{
 			id: "21BAE455A49103A5"
@@ -415,8 +358,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_flight" }
 				type: "item"
 			}]
-			x: -6.5d
-			y: 1.0d
+			x: -0.1d
+			y: 6.5d
 		}
 		{
 			id: "592E17C84F46B61F"
@@ -425,18 +368,19 @@
 				item: { count: 1, id: "justdirethings:upgrade_lavaimmunity" }
 				type: "item"
 			}]
-			x: -7.5d
-			y: 2.0d
+			x: -0.9d
+			y: 6.9d
 		}
 		{
+			dependencies: ["199090A3A61DC2FC"]
 			id: "495EB3CACA59F199"
 			tasks: [{
 				id: "1F28B78899E4ECAD"
 				item: { count: 1, id: "justdirethings:upgrade_time_protection" }
 				type: "item"
 			}]
-			x: -6.5d
-			y: 2.0d
+			x: 0.7d
+			y: 6.1d
 		}
 		{
 			id: "1EFC1875152ECD07"
@@ -445,8 +389,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_walkspeed" }
 				type: "item"
 			}]
-			x: -4.5d
-			y: 7.5d
+			x: -4.1d
+			y: 12.5d
 		}
 		{
 			id: "4E24E65FAC70203C"
@@ -455,8 +399,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_runspeed" }
 				type: "item"
 			}]
-			x: -5.5d
-			y: 7.5d
+			x: -3.4d
+			y: 12.1d
 		}
 		{
 			id: "661D6326B7F23154"
@@ -465,8 +409,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_stepheight" }
 				type: "item"
 			}]
-			x: -3.0d
-			y: 7.0d
+			x: -4.9d
+			y: 11.0d
 		}
 		{
 			id: "17F4CBC638535A83"
@@ -475,8 +419,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_jumpboost" }
 				type: "item"
 			}]
-			x: -3.0d
-			y: 8.0d
+			x: -4.2d
+			y: 10.6d
 		}
 		{
 			id: "31C53E138A1C2B5D"
@@ -485,8 +429,8 @@
 				item: { count: 1, id: "justdirethings:upgrade_swimspeed" }
 				type: "item"
 			}]
-			x: -3.0d
-			y: 6.0d
+			x: -3.2d
+			y: 10.1d
 		}
 		{
 			id: "4490ACA2EF9CF850"
@@ -495,8 +439,98 @@
 				item: { count: 1, id: "justdirethings:upgrade_groundstomp" }
 				type: "item"
 			}]
-			x: -3.0d
-			y: 5.0d
+			x: -2.4d
+			y: 11.6d
+		}
+		{
+			hide_dependent_lines: true
+			id: "604C8D7A76E664DB"
+			shape: "rsquare"
+			tasks: [{
+				id: "37CC2E54BC0F91A5"
+				item: { components: { "ftbfiltersystem:filter": "or(item(justdirethings:ferricore_helmet)item(justdirethings:blazegold_helmet)item(justdirethings:celestigem_helmet)item(justdirethings:eclipsealloy_helmet))", "minecraft:custom_name": "\"JDT Helmets\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: 8.5d
+		}
+		{
+			hide_dependent_lines: true
+			id: "199090A3A61DC2FC"
+			shape: "rsquare"
+			tasks: [{
+				id: "2F294414C726DDFA"
+				item: { components: { "ftbfiltersystem:filter": "or(item(justdirethings:ferricore_chestplate)item(justdirethings:blazegold_chestplate)item(justdirethings:celestigem_chestplate)item(justdirethings:eclipsealloy_chestplate))", "minecraft:custom_name": "\"JDT Chestplate\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -6.7d
+			y: 10.0d
+		}
+		{
+			hide_dependent_lines: true
+			id: "39090CE2C686D624"
+			shape: "rsquare"
+			tasks: [{
+				id: "1F2ED1E175CA3CEF"
+				item: { components: { "ftbfiltersystem:filter": "or(item(justdirethings:ferricore_leggings)item(justdirethings:blazegold_leggings)item(justdirethings:celestigem_leggings)item(justdirethings:eclipsealloy_leggings))", "minecraft:custom_name": "\"JDT Leggings\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -5.9d
+			y: 11.5d
+		}
+		{
+			hide_dependent_lines: true
+			id: "2285E0D408D557C9"
+			shape: "rsquare"
+			tasks: [{
+				id: "1D1D0F8B759CC2A1"
+				item: { components: { "ftbfiltersystem:filter": "or(item(justdirethings:ferricore_boots)item(justdirethings:blazegold_boots)item(justdirethings:celestigem_boots)item(justdirethings:eclipsealloy_boots))", "minecraft:custom_name": "\"JDT Boots\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -5.1d
+			y: 13.0d
+		}
+		{
+			id: "26B737BB17F463AD"
+			tasks: [{
+				id: "3E9FF462E5CE80DE"
+				item: { count: 1, id: "justdirethings:upgrade_decoy" }
+				type: "item"
+			}]
+			x: -1.8d
+			y: 9.3d
+		}
+		{
+			dependencies: ["39090CE2C686D624"]
+			id: "008D5F32CE5D2ECF"
+			tasks: [{
+				id: "28B44419F992E34D"
+				item: { count: 1, id: "justdirethings:upgrade_phase" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 8.7d
+		}
+		{
+			id: "0F533E676FC638F7"
+			tasks: [{
+				id: "4975079830F38B12"
+				item: { count: 1, id: "justdirethings:upgrade_negatefalldamage" }
+				type: "item"
+			}]
+			x: -1.1d
+			y: 10.9d
+		}
+		{
+			dependencies: ["2285E0D408D557C9"]
+			id: "335968587EC5CB7B"
+			tasks: [{
+				id: "0E9EC11E65F7EC14"
+				item: { count: 1, id: "justdirethings:upgrade_earthquake" }
+				type: "item"
+			}]
+			x: 0.3d
+			y: 10.2d
 		}
 	]
 }
