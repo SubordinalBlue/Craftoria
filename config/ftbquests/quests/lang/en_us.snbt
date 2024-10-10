@@ -1897,6 +1897,7 @@
 	quest.40915337B7E427F8.quest_subtitle: "I'm a Real Live Wire"
 	quest.40915337B7E427F8.title: "Superconductor Cable"
 	quest.40BFCCDFCFC19CBA.quest_desc: ["By &6throwing &bAndesite &finto the &bSpiritfire&f you will get &bOtherstone&f."]
+	quest.40E134AC271A6E68.quest_desc: [""]
 	quest.40EB78C0AF30096E.quest_desc: [
 		"The &bMetallurgic Infuser&r is the first machine you'll make and use. It allows you to &6infuse&r different &bmetals&r with different &7substances&r, including &bother metals&r."
 		""
@@ -3110,6 +3111,8 @@
 	quest.6DFA92E319E7DA77.quest_desc: ["To start &6Autocrafting&6 you must first make a &bPattern&f with a &bPattern Encoding Terminal&f, then &6place&f that &bpattern&f in the &bPattern Provider&f."]
 	quest.6DFA92E319E7DA77.title: "Pattern Provider"
 	quest.6E2932D7D8228910.title: "&7Pressure &cGauge"
+	quest.6E5D4AD4AA3AE8E4.quest_subtitle: "Bow Flex"
+	quest.6E5D4AD4AA3AE8E4.title: "Phase"
 	quest.6E60988E8F8C4FF2.title: "Sulfur Trioxide"
 	quest.6EA29403BF85B19C.quest_desc: [
 		"Your first &dQIO drive&r. "
