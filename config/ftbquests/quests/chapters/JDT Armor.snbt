@@ -147,6 +147,7 @@
 		}
 		{
 			color: 16733695
+			dev: true
 			height: 1.0d
 			image: "ftbquests:textures/shapes/circle/shape.png"
 			order: 199
@@ -159,7 +160,7 @@
 			color: 5592405
 			height: 2.0d
 			image: "justdirethings:item/creaturecatcher_side_animation"
-			order: 1
+			order: 2
 			rotation: -118.0d
 			width: 14.0d
 			x: -1.8000000000000007d
@@ -169,7 +170,7 @@
 			color: 16711686
 			height: 2.0d
 			image: "justdirethings:item/creaturecatcher_side_animation"
-			order: 1
+			order: 2
 			rotation: -118.0d
 			width: 14.0d
 			x: -3.1999999999999993d
@@ -179,7 +180,7 @@
 			color: 42403
 			height: 2.0d
 			image: "justdirethings:item/creaturecatcher_side_animation"
-			order: 1
+			order: 2
 			rotation: -118.0d
 			width: 14.0d
 			x: -4.599999999999998d
@@ -189,21 +190,20 @@
 			color: 19091
 			height: 4.0d
 			image: "justdirethings:item/creaturecatcher_side_animation"
-			order: 1
+			order: 2
 			rotation: -118.0d
 			width: 14.0d
 			x: -6.599999999999998d
 			y: 3.5000000000000018d
 		}
 		{
-			alpha: 128
 			color: 0
-			height: 16.0d
+			height: 14.0d
 			image: "ftbquests:textures/shapes/square/shape.png"
-			rotation: 0.0d
-			width: 28.0d
-			x: 26.6d
-			y: 0.7d
+			rotation: -28.0d
+			width: 26.0d
+			x: 0.0d
+			y: -0.1d
 		}
 		{
 			color: 16610125
@@ -229,7 +229,7 @@
 			color: 3158064
 			height: 1.5d
 			image: "justdirethings:item/creaturecatcher_side_animation"
-			order: 1
+			order: 2
 			rotation: -118.0d
 			width: 14.0d
 			x: -0.5999999999999996d
@@ -366,6 +366,16 @@
 			width: 12.0d
 			x: 2.4d
 			y: -6.6d
+		}
+		{
+			alpha: 128
+			color: 170
+			height: 16.0d
+			image: "ftbquests:textures/shapes/square/shape.png"
+			rotation: -28.0d
+			width: 28.0d
+			x: 40.1d
+			y: -1.4d
 		}
 	]
 	order_index: 2
