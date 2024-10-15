@@ -88,6 +88,10 @@ dependency_line_unselected_speed:   1
 dependency_line_thickness:          0.5
 dependency_line_uncompleted_color:  #FFccb400
 
+[1397FADB8589E9F0]
+background:                         ftbquests:textures/gui/background_black.png
+dependency_line_thickness:           0.8
+
 [26E59C8DBA7F6FE3]
 dependency_line_texture:            minecraft:textures/particle/heart.png
 #dependency_line_texture:            irons_spellbooks:textures/entity/flame_strike/flame_strike_2.png
