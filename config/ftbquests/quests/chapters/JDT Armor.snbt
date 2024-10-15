@@ -24,16 +24,6 @@
 			y: 2.5000000000000018d
 		}
 		{
-			color: 5592405
-			height: 2.0d
-			image: "justdirethings:item/creaturecatcher_side_animation"
-			order: 1
-			rotation: 62.0d
-			width: 14.0d
-			x: 1.8000000000000007d
-			y: -0.9000000000000004d
-		}
-		{
 			height: 1.0d
 			image: "mffs:fluid/fortron"
 			rotation: 0.0d
@@ -45,65 +35,12 @@
 			alpha: 128
 			color: 0
 			height: 1.0d
-			image: "justdirethings:item/template_ferricore"
-			order: 9
-			rotation: 0.0d
-			width: 1.0d
-			x: 4.199999999999999d
-			y: 3.3000000000000007d
-		}
-		{
-			alpha: 128
-			color: 0
-			height: 1.0d
 			image: "minecraft:item/netherite_upgrade_smithing_template"
 			order: 9
 			rotation: 0.0d
 			width: 1.0d
 			x: 5.5d
 			y: 2.5999999999999996d
-		}
-		{
-			alpha: 32
-			color: 12124164
-			dev: true
-			height: 2.0d
-			image: "ftbquests:textures/shapes/square/shape.png"
-			order: 2
-			rotation: -28.0d
-			width: 12.0d
-			x: -3.3d
-			y: 4.7d
-		}
-		{
-			color: 16711686
-			height: 2.0d
-			image: "justdirethings:item/creaturecatcher_side_animation"
-			order: 1
-			rotation: 62.0d
-			width: 14.0d
-			x: 3.1999999999999993d
-			y: -1.5999999999999996d
-		}
-		{
-			color: 42403
-			height: 2.0d
-			image: "justdirethings:item/creaturecatcher_side_animation"
-			order: 1
-			rotation: 62.0d
-			width: 14.0d
-			x: 4.6d
-			y: -2.4000000000000004d
-		}
-		{
-			color: 19091
-			height: 4.0d
-			image: "justdirethings:item/creaturecatcher_side_animation"
-			order: 1
-			rotation: 62.0d
-			width: 14.0d
-			x: 6.599999999999998d
-			y: -3.5d
 		}
 		{
 			height: 1.0d
@@ -158,43 +95,43 @@
 		}
 		{
 			color: 5592405
-			height: 2.0d
+			height: 2.5d
 			image: "justdirethings:item/creaturecatcher_side_animation"
 			order: 2
-			rotation: -118.0d
+			rotation: -119.36d
 			width: 14.0d
-			x: -1.8000000000000007d
-			y: 1.0000000000000018d
+			x: -1.9d
+			y: 1.0d
 		}
 		{
 			color: 16711686
-			height: 2.0d
+			height: 2.5d
 			image: "justdirethings:item/creaturecatcher_side_animation"
 			order: 2
-			rotation: -118.0d
+			rotation: -119.36d
 			width: 14.0d
-			x: -3.1999999999999993d
-			y: 1.700000000000001d
+			x: -3.6d
+			y: 2.0d
 		}
 		{
 			color: 42403
-			height: 2.0d
+			height: 2.5d
 			image: "justdirethings:item/creaturecatcher_side_animation"
 			order: 2
-			rotation: -118.0d
+			rotation: -119.36d
 			width: 14.0d
-			x: -4.599999999999998d
-			y: 2.4000000000000004d
+			x: -5.4d
+			y: 3.0d
 		}
 		{
 			color: 19091
 			height: 4.0d
 			image: "justdirethings:item/creaturecatcher_side_animation"
 			order: 2
-			rotation: -118.0d
+			rotation: -119.36d
 			width: 14.0d
-			x: -6.599999999999998d
-			y: 3.5000000000000018d
+			x: -7.6d
+			y: 4.2d
 		}
 		{
 			color: 0
@@ -202,180 +139,98 @@
 			image: "ftbquests:textures/shapes/square/shape.png"
 			rotation: -28.0d
 			width: 26.0d
-			x: 0.0d
-			y: -0.1d
-		}
-		{
-			color: 16610125
-			height: 5.5d
-			image: "ftbquests:textures/gui/title_jdt2.png"
-			order: 14
-			rotation: 62.0d
-			width: 5.5d
-			x: 8.4d
-			y: -2.4d
-		}
-		{
-			color: 3158064
-			height: 1.5d
-			image: "justdirethings:item/creaturecatcher_side_animation"
-			order: 1
-			rotation: 62.0d
-			width: 14.0d
-			x: 0.5999999999999996d
-			y: -0.29999999999999893d
+			x: -19.5d
+			y: -6.5d
 		}
 		{
 			color: 3158064
 			height: 1.5d
 			image: "justdirethings:item/creaturecatcher_side_animation"
 			order: 2
-			rotation: -118.0d
+			rotation: -119.36d
 			width: 14.0d
-			x: -0.5999999999999996d
-			y: 0.3000000000000007d
-		}
-		{
-			alpha: 32
-			color: 12124164
-			dev: true
-			height: 2.0d
-			image: "ftbquests:textures/shapes/square/shape.png"
-			order: 2
-			rotation: -28.0d
-			width: 12.0d
-			x: -2.5d
-			y: 6.2d
-		}
-		{
-			alpha: 32
-			color: 12124164
-			dev: true
-			height: 2.0d
-			image: "ftbquests:textures/shapes/square/shape.png"
-			order: 2
-			rotation: -28.0d
-			width: 12.0d
-			x: -4.1d
-			y: 3.2d
-		}
-		{
-			alpha: 32
-			color: 12124164
-			dev: true
-			height: 2.0d
-			image: "ftbquests:textures/shapes/square/shape.png"
-			order: 2
-			rotation: -28.0d
-			width: 12.0d
-			x: -4.9d
-			y: 1.7d
-		}
-		{
-			alpha: 32
-			color: 12124164
-			dev: true
-			height: 2.0d
-			image: "ftbquests:textures/shapes/square/shape.png"
-			order: 2
-			rotation: -28.0d
-			width: 12.0d
-			x: -5.7d
-			y: 0.2d
-		}
-		{
-			alpha: 32
-			color: 12124164
-			dev: true
-			height: 2.0d
-			image: "ftbquests:textures/shapes/square/shape.png"
-			order: 2
-			rotation: -28.0d
-			width: 12.0d
-			x: -6.5d
-			y: -1.3d
-		}
-		{
-			alpha: 32
-			color: 12124164
-			dev: true
-			height: 2.5d
-			image: "ftbquests:textures/shapes/square/shape.png"
-			order: 2
-			rotation: -28.0d
-			width: 12.0d
-			x: 6.1d
-			y: 0.4d
-		}
-		{
-			alpha: 32
-			color: 12124164
-			dev: true
-			height: 1.0d
-			image: "ftbquests:textures/shapes/square/shape.png"
-			order: 2
-			rotation: -28.0d
-			width: 12.0d
-			x: 6.7d
-			y: 1.8d
-		}
-		{
-			alpha: 32
-			color: 12124164
-			dev: true
-			height: 2.5d
-			image: "ftbquests:textures/shapes/square/shape.png"
-			order: 2
-			rotation: -28.0d
-			width: 12.0d
-			x: 5.1d
-			y: -1.5d
-		}
-		{
-			alpha: 32
-			color: 12124164
-			dev: true
-			height: 2.5d
-			image: "ftbquests:textures/shapes/square/shape.png"
-			order: 2
-			rotation: -28.0d
-			width: 12.0d
-			x: 4.1d
-			y: -3.4d
-		}
-		{
-			alpha: 32
-			color: 12124164
-			dev: true
-			height: 2.5d
-			image: "ftbquests:textures/shapes/square/shape.png"
-			order: 2
-			rotation: -28.0d
-			width: 12.0d
-			x: 3.1d
-			y: -5.3d
-		}
-		{
-			alpha: 32
-			color: 12124164
-			dev: true
-			height: 1.0d
-			image: "ftbquests:textures/shapes/square/shape.png"
-			order: 2
-			rotation: -28.0d
-			width: 12.0d
-			x: 2.4d
-			y: -6.6d
+			x: -0.5d
+			y: 0.3d
 		}
 		{
 			alpha: 128
 			color: 170
 			height: 16.0d
 			image: "ftbquests:textures/shapes/square/shape.png"
-			rotation: -28.0d
+			rotation: -29.36d
 			width: 28.0d
-			x: 40.1d
-			y: -1.4d
+			x: 26.5d
+			y: 9.5d
+		}
+		{
+			color: 3158064
+			height: 1.5d
+			image: "justdirethings:item/creaturecatcher_side_animation"
+			order: 2
+			rotation: 60.64d
+			width: 14.0d
+			x: 0.5d
+			y: -0.2d
+		}
+		{
+			alpha: 32
+			color: 12124164
+			dev: true
+			height: 2.5d
+			image: "ftbquests:textures/shapes/square/shape.png"
+			order: 90
+			rotation: -29.36d
+			width: 24.0d
+			x: 1.0999999999999992d
+			y: 1.9000000000000012d
+		}
+		{
+			alpha: 32
+			color: 12124164
+			dev: true
+			height: 2.5d
+			image: "ftbquests:textures/shapes/square/shape.png"
+			order: 90
+			rotation: -29.36d
+			width: 24.0d
+			x: -4.440892098500626E-16d
+			y: -8.881784197001252E-16d
+		}
+		{
+			alpha: 32
+			color: 12124164
+			dev: true
+			height: 2.5d
+			image: "ftbquests:textures/shapes/square/shape.png"
+			order: 90
+			rotation: -29.36d
+			width: 24.0d
+			x: -1.0000000000000004d
+			y: -1.8999999999999995d
+		}
+		{
+			alpha: 32
+			color: 12124164
+			dev: true
+			height: 2.5d
+			image: "ftbquests:textures/shapes/square/shape.png"
+			order: 90
+			rotation: -29.36d
+			width: 24.0d
+			x: 2.199999999999999d
+			y: 3.8d
+		}
+		{
+			alpha: 32
+			color: 12124164
+			dev: true
+			height: 2.5d
+			image: "ftbquests:textures/shapes/square/shape.png"
+			order: 90
+			rotation: -29.36d
+			width: 24.0d
+			x: -2.1d
+			y: -3.8d
 		}
 	]
 	order_index: 2
@@ -637,8 +492,8 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(justdirethings:ferricore_helmet)item(justdirethings:blazegold_helmet)item(justdirethings:celestigem_helmet)item(justdirethings:eclipsealloy_helmet))", "minecraft:custom_name": "\"JDT Helmets\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -0.9d
-			y: -3.0d
+			x: -0.5d
+			y: -2.2d
 		}
 		{
 			hide_dependent_lines: true
@@ -649,8 +504,8 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(justdirethings:ferricore_chestplate)item(justdirethings:blazegold_chestplate)item(justdirethings:celestigem_chestplate)item(justdirethings:eclipsealloy_chestplate))", "minecraft:custom_name": "\"JDT Chestplate\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 0.1d
-			y: -1.2000000000000002d
+			x: 0.5d
+			y: -0.3d
 		}
 		{
 			hide_dependent_lines: true
@@ -661,8 +516,8 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(justdirethings:ferricore_leggings)item(justdirethings:blazegold_leggings)item(justdirethings:celestigem_leggings)item(justdirethings:eclipsealloy_leggings))", "minecraft:custom_name": "\"JDT Leggings\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 1.1d
-			y: 0.7000000000000011d
+			x: 1.6d
+			y: 1.6d
 		}
 		{
 			hide_dependent_lines: true
@@ -673,8 +528,8 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(justdirethings:ferricore_boots)item(justdirethings:blazegold_boots)item(justdirethings:celestigem_boots)item(justdirethings:eclipsealloy_boots))", "minecraft:custom_name": "\"JDT Boots\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 2.1d
-			y: 2.500000000000001d
+			x: 2.7d
+			y: 3.5d
 		}
 		{
 			id: "26B737BB17F463AD"
@@ -728,8 +583,8 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(justdirethings:ferricore_pickaxe)item(justdirethings:blazegold_pickaxe)item(justdirethings:celestigem_pickaxe)item(justdirethings:eclipsealloy_pickaxe))", "minecraft:custom_name": "\"JDT Pickaxes\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -0.9000000000000004d
-			y: -0.40000000000000036d
+			x: -1.6d
+			y: -1.5d
 		}
 		{
 			hide_dependent_lines: true
@@ -740,8 +595,8 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(justdirethings:ferricore_axe)item(justdirethings:blazegold_axe)item(justdirethings:celestigem_axe)item(justdirethings:eclipsealloy_axe))", "minecraft:custom_name": "\"JDT Axes\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -0.09999999999999964d
-			y: 1.0999999999999996d
+			x: -0.5d
+			y: 0.4d
 		}
 		{
 			hide_dependent_lines: true
@@ -752,8 +607,8 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(justdirethings:ferricore_shovel)item(justdirethings:blazegold_shovel)item(justdirethings:celestigem_shovel)item(justdirethings:eclipsealloy_shovel))", "minecraft:custom_name": "\"JDT Shovels\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 0.6999999999999993d
-			y: 2.5999999999999996d
+			x: 0.6d
+			y: 2.2d
 		}
 		{
 			hide_dependent_lines: true
@@ -764,8 +619,8 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(justdirethings:ferricore_hoe)item(justdirethings:blazegold_hoe)item(justdirethings:celestigem_hoe)item(justdirethings:eclipsealloy_hoe))", "minecraft:custom_name": "\"JDT Hoes\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 1.5d
-			y: 4.1d
+			x: 1.6d
+			y: 4.2d
 		}
 		{
 			hide_dependent_lines: true
@@ -776,8 +631,8 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(justdirethings:ferricore_sword)item(justdirethings:blazegold_sword)item(justdirethings:celestigem_sword)item(justdirethings:eclipsealloy_sword))", "minecraft:custom_name": "\"JDT Swords\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -1.6999999999999993d
-			y: -1.9000000000000004d
+			x: -2.6d
+			y: -3.4d
 		}
 		{
 			hide_dependent_lines: true
@@ -788,8 +643,8 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(justdirethings:bow_ferricore)item(justdirethings:bow_blazegold)item(justdirethings:bow_celestigem)item(justdirethings:bow_eclipsealloy))", "minecraft:custom_name": "\"JDT Bows\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -2.5d
-			y: -3.299999999999999d
+			x: -1.6d
+			y: -4.0d
 		}
 		{
 			id: "099D40BE4EE3209E"
