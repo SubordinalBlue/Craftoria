@@ -6,14 +6,6 @@
 	id: "74AB828BB8D10AFC"
 	images: [
 		{
-			height: 3.0d
-			image: "ftbquests:textures/shapes/hexagon/background.png"
-			rotation: 0.0d
-			width: 3.0d
-			x: 20.5d
-			y: -3.0d
-		}
-		{
 			height: 5.0d
 			image: "justdirethings:item/creaturecatcher_side_animation"
 			rotation: 45.0d
@@ -1074,8 +1066,8 @@
 				item: { count: 1, id: "justdirethings:raw_blazegold" }
 				type: "item"
 			}]
-			x: -13.0d
-			y: 2.5d
+			x: -12.5d
+			y: 4.5d
 		}
 		{
 			id: "6CEE3BEA4401A307"
@@ -1137,8 +1129,8 @@
 				item: { count: 1, id: "justdirethings:gooblock_tier4" }
 				type: "item"
 			}]
-			x: -6.0d
-			y: 9.5d
+			x: -9.5d
+			y: 11.5d
 		}
 		{
 			dependencies: ["27C7F199672588F7"]
@@ -1248,6 +1240,26 @@
 			}]
 			x: -13.0d
 			y: 14.0d
+		}
+		{
+			id: "4AA6F03EBEF19551"
+			tasks: [{
+				id: "0283FA662F3E2C2F"
+				item: { count: 1, id: "justdirethings:gooblock_tier1" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 10.0d
+		}
+		{
+			id: "315387BACA4C3577"
+			tasks: [{
+				id: "4E0342872A5523B2"
+				item: { count: 1, id: "justdirethings:gooblock_tier2" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 10.5d
 		}
 	]
 }
