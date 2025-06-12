@@ -1,0 +1,116 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "The Bumblezone"
+	group: "07A79347BA55DCA4"
+	id: "51597F3213DD32E6"
+	images: [
+		{
+			height: 3.0d
+			image: "ftbquests:textures/shapes/hexagon/shape.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: -4.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "factory_blocks:block/ctm/hex/1"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "factory_blocks:block/ctm/hex/2"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -1.0d
+		}
+		{
+			height: 3.0d
+			image: "the_bumblezone:block/honeycomb_brood_block/item_empty_honeycomb_brood_block"
+			rotation: 0.0d
+			width: 3.0d
+			x: 2.15d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "the_bumblezone:block/porous_honeycomb_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			height: 3.0d
+			image: "the_bumblezone:block/honey_fluid/still"
+			rotation: 0.0d
+			width: 3.0d
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:textures/shapes/hexagon/outline.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: -0.05d
+			y: 3.1d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:textures/shapes/hexagon/outline.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: -1.15d
+			y: 0.95d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:textures/shapes/hexagon/outline.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: -2.3d
+			y: 3.0d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:textures/shapes/hexagon/outline.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: 1.15d
+			y: 1.0d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:textures/shapes/hexagon/outline.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: 2.25d
+			y: 3.1d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:textures/shapes/hexagon/outline.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: -1.2d
+			y: 5.15d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:textures/shapes/hexagon/outline.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: 1.1d
+			y: 5.2d
+		}
+	]
+	order_index: 4
+	quest_links: [ ]
+	quests: [ ]
+}
