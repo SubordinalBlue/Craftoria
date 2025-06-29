@@ -1,8 +1,12 @@
 {
 	default_hide_dependency_lines: false
-	default_quest_shape: ""
+	default_quest_shape: "hexagon"
+	default_quest_size: 4.0d
 	filename: "The Bumblezone"
 	group: "07A79347BA55DCA4"
+	icon: {
+		id: "the_bumblezone:bee_queen_spawn_egg"
+	}
 	id: "51597F3213DD32E6"
 	images: [
 		{
@@ -34,8 +38,8 @@
 			image: "the_bumblezone:block/honeycomb_brood_block/item_empty_honeycomb_brood_block"
 			rotation: 0.0d
 			width: 3.0d
-			x: 2.15d
-			y: 3.0d
+			x: -0.5d
+			y: 2.5d
 		}
 		{
 			height: 1.0d
@@ -50,67 +54,258 @@
 			image: "the_bumblezone:block/honey_fluid/still"
 			rotation: 0.0d
 			width: 3.0d
-			x: 0.0d
-			y: 3.0d
+			x: -3.5d
+			y: 2.5d
 		}
 		{
 			height: 3.0d
 			image: "ftbquests:textures/shapes/hexagon/outline.png"
 			rotation: 0.0d
 			width: 3.0d
-			x: -0.05d
-			y: 3.1d
+			x: -0.5d
+			y: 2.5d
 		}
 		{
 			height: 3.0d
 			image: "ftbquests:textures/shapes/hexagon/outline.png"
 			rotation: 0.0d
 			width: 3.0d
-			x: -1.15d
-			y: 0.95d
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			height: 4.0d
+			image: "ftbquests:textures/shapes/hexagon/outline.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: -3.5d
+			y: 2.5d
 		}
 		{
 			height: 3.0d
 			image: "ftbquests:textures/shapes/hexagon/outline.png"
 			rotation: 0.0d
 			width: 3.0d
-			x: -2.3d
-			y: 3.0d
+			x: 1.0d
+			y: 0.0d
 		}
 		{
 			height: 3.0d
 			image: "ftbquests:textures/shapes/hexagon/outline.png"
 			rotation: 0.0d
 			width: 3.0d
-			x: 1.15d
-			y: 1.0d
+			x: 2.5d
+			y: 2.5d
 		}
 		{
 			height: 3.0d
 			image: "ftbquests:textures/shapes/hexagon/outline.png"
 			rotation: 0.0d
 			width: 3.0d
-			x: 2.25d
-			y: 3.1d
+			x: -2.0d
+			y: 5.0d
 		}
 		{
 			height: 3.0d
 			image: "ftbquests:textures/shapes/hexagon/outline.png"
 			rotation: 0.0d
 			width: 3.0d
-			x: -1.2d
-			y: 5.15d
+			x: 1.0d
+			y: 5.0d
 		}
 		{
 			height: 3.0d
-			image: "ftbquests:textures/shapes/hexagon/outline.png"
+			image: "ftbquests:textures/shapes/hex2vert/outline.png"
 			rotation: 0.0d
 			width: 3.0d
-			x: 1.1d
-			y: 5.2d
+			x: -10.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/shapes/hex2horiz/outline.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.5d
+			y: 6.0d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:textures/shapes/hex2vert/outline.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: -12.0d
+			y: 4.0d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:textures/shapes/hex2vert/outline.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: -13.5d
+			y: 1.5d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:textures/shapes/hex2vert/outline.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: -12.0d
+			y: -1.0d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:textures/shapes/hex2vert/outline.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: -9.05d
+			y: 3.85d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:textures/shapes/hex2vert/outline.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: -7.5d
+			y: 1.5d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:textures/shapes/hex2vert/outline.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: -9.0d
+			y: -1.0d
+		}
+		{
+			height: 4.0d
+			image: "ftbquests:textures/shapes/hexagon/outline.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 12.5d
+			y: -3.5d
+		}
+		{
+			height: 4.0d
+			image: "ftbquests:textures/shapes/hexagon/outline.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 16.0d
+			y: -3.5d
+		}
+		{
+			height: 4.0d
+			image: "ftbquests:textures/shapes/hexagon/outline.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 19.5d
+			y: -3.5d
+		}
+		{
+			height: 4.0d
+			image: "ftbquests:textures/shapes/hexagon/outline.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 14.25d
+			y: -0.5d
+		}
+		{
+			height: 4.0d
+			image: "ftbquests:textures/shapes/hexagon/outline.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 12.5d
+			y: 2.5d
+		}
+		{
+			height: 4.0d
+			image: "ftbquests:textures/shapes/hexagon/outline.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 10.75d
+			y: 5.5d
+		}
+		{
+			height: 4.0d
+			image: "ftbquests:textures/shapes/hexagon/outline.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 14.25d
+			y: 5.5d
+		}
+		{
+			height: 4.0d
+			image: "ftbquests:textures/shapes/hexagon/outline.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 10.75d
+			y: -0.5d
+		}
+		{
+			height: 4.0d
+			image: "ftbquests:textures/shapes/hexagon/outline.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 16.0d
+			y: 2.5d
+		}
+		{
+			height: 4.0d
+			image: "ftbquests:textures/shapes/hexagon/outline.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 17.75d
+			y: -0.5d
+		}
+		{
+			height: 4.0d
+			image: "ftbquests:textures/shapes/hexagon/outline.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 19.25d
+			y: 2.5d
+		}
+		{
+			height: 4.0d
+			image: "ftbquests:textures/shapes/hexagon/outline.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 21.0d
+			y: -0.5d
+		}
+		{
+			height: 4.0d
+			image: "ftbquests:textures/shapes/hexagon/outline.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 9.25d
+			y: 2.5d
 		}
 	]
 	order_index: 4
 	quest_links: [ ]
-	quests: [ ]
+	quests: [
+		{
+			id: "1AE27C2F69646D90"
+			shape: "hexagon"
+			tasks: [{
+				id: "506B70AFA0F49E82"
+				item: { count: 1, id: "the_bumblezone:super_candle_light_blue" }
+				type: "item"
+			}]
+			x: 10.75d
+			y: -0.5d
+		}
+		{
+			dependencies: ["1AE27C2F69646D90"]
+			id: "70697FF6586F2D8E"
+			tasks: [{
+				id: "3125F95CD94B6A41"
+				item: { count: 1, id: "the_bumblezone:stingless_bee_helmet_1" }
+				type: "item"
+			}]
+			x: 16.0d
+			y: 2.5d
+		}
+	]
 }
