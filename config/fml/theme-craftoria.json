@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "extends": "default",
+  "colorScheme": {
+    "screenBackground": "#322426",
+    "text": "#ec9a61"
+  },
+  "loadingScreen": {
+    "mojangLogo": {
+      "visible": false
+    },
+    "decoration": {
+    	"craftoriaLogo": {
+    		"type": "image",
+    		"texture": {
+    			"resource": "craftoriaLogo.png",
+    		  "scaling": {
+            "type": "stretch",
+            "width": 808,
+            "height": 166,
+            "linearScaling": false
+          }
+        },
+        "visible": true,
+        "maintainAspectRatio": true,
+        "top": 80.0,
+        "centerHorizontally": true,
+        "centerVertically": false
+    	}
+    }
+  }
+}
