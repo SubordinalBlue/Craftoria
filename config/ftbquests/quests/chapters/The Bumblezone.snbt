@@ -78,8 +78,8 @@
 			image: "ftbquests:textures/shapes/hexagon/outline.png"
 			rotation: 0.0d
 			width: 4.0d
-			x: -3.5d
-			y: 2.5d
+			x: -6.0d
+			y: 5.5d
 		}
 		{
 			height: 3.0d
@@ -276,6 +276,23 @@
 		{
 			height: 4.0d
 			image: "ftbquests:textures/shapes/hexagon/outline.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 9.25d
+			y: 2.5d
+		}
+		{
+			height: 4.0d
+			image: "ftbquests:textures/gui/hex_mask.png"
+			order: 10
+			rotation: 0.0d
+			width: 4.0d
+			x: 9.25d
+			y: 2.5d
+		}
+		{
+			height: 4.0d
+			image: "the_bumblezone:block/honey_fluid/still"
 			rotation: 0.0d
 			width: 4.0d
 			x: 9.25d
