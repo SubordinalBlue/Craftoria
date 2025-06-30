@@ -159,6 +159,11 @@ dependency_line_unavailable_color:  #88C8C8C8
 dependency_line_selected_speed:     1.0
 dependency_line_unselected_speed:   0.5
 
+# The Bumblezone
+[51597F3213DD32E6]
+dependency_line_texture:            the_bumblezone:textures/item/honey_crystal_shards.png
+dependency_line_thickness:          0.8
+
 # Theurgy
 [5A3894BACC5E8994]
 background:                         ftbquests:textures/gui/background_white.png; color=#110a1a; tile_size=64

@@ -42,12 +42,12 @@
 			y: 2.5d
 		}
 		{
-			height: 1.0d
+			height: 4.0d
 			image: "the_bumblezone:block/porous_honeycomb_block"
 			rotation: 0.0d
-			width: 1.0d
-			x: 1.0d
-			y: -2.0d
+			width: 4.0d
+			x: 10.75d
+			y: 5.5d
 		}
 		{
 			height: 3.0d
@@ -297,6 +297,31 @@
 			width: 4.0d
 			x: 9.25d
 			y: 2.5d
+		}
+		{
+			height: 4.0d
+			image: "ftbquests:textures/gui/hex_mask.png"
+			order: 10
+			rotation: 0.0d
+			width: 4.0d
+			x: 10.75d
+			y: 5.5d
+		}
+		{
+			height: 4.0d
+			image: "the_bumblezone:textures/entity_icon/bee_variants/blue_bee/bee.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 6.0d
+			y: 5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/honeycomb"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 7.0d
 		}
 	]
 	order_index: 4
