@@ -1,7 +1,6 @@
 {
 	default_hide_dependency_lines: false
 	default_quest_shape: "hexagon"
-	default_quest_size: 4.0d
 	filename: "The Bumblezone"
 	group: "07A79347BA55DCA4"
 	icon: {
@@ -90,10 +89,10 @@
 			y: 0.0d
 		}
 		{
-			height: 3.0d
+			height: 2.0d
 			image: "ftbquests:textures/shapes/hexagon/outline.png"
 			rotation: 0.0d
-			width: 3.0d
+			width: 2.0d
 			x: 2.5d
 			y: 2.5d
 		}
@@ -282,6 +281,7 @@
 			y: 2.5d
 		}
 		{
+			color: 16690689
 			height: 4.0d
 			image: "ftbquests:textures/gui/hex_mask.png"
 			order: 10
@@ -323,6 +323,51 @@
 			x: 4.5d
 			y: 7.0d
 		}
+		{
+			color: 0
+			height: 4.0d
+			image: "ftbquests:textures/shapes/hexagon/shape.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 12.6d
+			y: -3.5d
+		}
+		{
+			color: 0
+			height: 4.0d
+			image: "ftbquests:textures/shapes/hexagon/shape.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 16.0d
+			y: -3.5d
+		}
+		{
+			color: 0
+			height: 4.0d
+			image: "ftbquests:textures/shapes/hexagon/shape.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 19.4d
+			y: -3.5d
+		}
+		{
+			color: 0
+			height: 4.0d
+			image: "ftbquests:textures/shapes/hexagon/shape.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 14.3d
+			y: -0.4d
+		}
+		{
+			color: 0
+			height: 4.0d
+			image: "ftbquests:textures/shapes/hexagon/shape.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 17.8d
+			y: -0.6d
+		}
 	]
 	order_index: 4
 	quest_links: [ ]
@@ -348,6 +393,86 @@
 			}]
 			x: 16.0d
 			y: 2.5d
+		}
+		{
+			id: "178BC981938275FA"
+			tasks: [{
+				biome: "the_bumblezone:crystal_canyon"
+				id: "38788DB00D079952"
+				type: "biome"
+			}]
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			id: "4E80FEA94055FB15"
+			tasks: [{
+				id: "0BF24104483FBBFC"
+				item: { count: 1, id: "the_bumblezone:super_candle_light_blue" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: -2.4d
+		}
+		{
+			id: "717A5C7C99B77A25"
+			tasks: [{
+				id: "53F0F2A8050BDFD2"
+				item: { count: 1, id: "the_bumblezone:honeycomb_brood_block" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: -4.6d
+		}
+		{
+			id: "3AC7198E7F13EC71"
+			tasks: [{
+				id: "47652F5E4D167E45"
+				item: { count: 1, id: "the_bumblezone:royal_jelly_bottle" }
+				type: "item"
+			}]
+			x: 16.1d
+			y: -3.7d
+		}
+		{
+			id: "05625728404B9EF9"
+			tasks: [{
+				id: "5908C82DF18F8CE7"
+				item: { count: 1, id: "the_bumblezone:super_candle_yellow" }
+				type: "item"
+			}]
+			x: 13.4d
+			y: -4.1d
+		}
+		{
+			id: "1828697A813261D2"
+			tasks: [{
+				id: "62970B548E37F551"
+				item: { count: 1, id: "the_bumblezone:honey_compass" }
+				type: "item"
+			}]
+			x: 11.6d
+			y: -2.9d
+		}
+		{
+			id: "23862B4CCA4B5E8C"
+			tasks: [{
+				id: "6964E7826A2DD8BA"
+				item: { count: 1, id: "the_bumblezone:buzzing_briefcase" }
+				type: "item"
+			}]
+			x: 11.6d
+			y: -4.1d
+		}
+		{
+			id: "60F8F9431C65B258"
+			tasks: [{
+				id: "3AAD3BD139F8D6E8"
+				item: { count: 1, id: "the_bumblezone:honey_crystal" }
+				type: "item"
+			}]
+			x: 13.5d
+			y: -2.9d
 		}
 	]
 }
