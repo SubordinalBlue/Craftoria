@@ -185,12 +185,13 @@
 			y: -3.5d
 		}
 		{
+			color: 0
 			height: 4.0d
 			image: "ftbquests:textures/shapes/hexagon/outline.png"
 			rotation: 0.0d
 			width: 4.0d
 			x: 16.0d
-			y: -3.5d
+			y: -3.6d
 		}
 		{
 			height: 4.0d
@@ -201,8 +202,10 @@
 			y: -3.5d
 		}
 		{
+			color: 0
 			height: 4.0d
 			image: "ftbquests:textures/shapes/hexagon/outline.png"
+			order: 3
 			rotation: 0.0d
 			width: 4.0d
 			x: 14.25d
@@ -249,19 +252,21 @@
 			y: 2.5d
 		}
 		{
+			color: 0
 			height: 4.0d
 			image: "ftbquests:textures/shapes/hexagon/outline.png"
 			rotation: 0.0d
 			width: 4.0d
-			x: 17.75d
+			x: 27.6d
 			y: -0.5d
 		}
 		{
+			color: 0
 			height: 4.0d
 			image: "ftbquests:textures/shapes/hexagon/outline.png"
 			rotation: 0.0d
 			width: 4.0d
-			x: 19.25d
+			x: 19.4d
 			y: 2.5d
 		}
 		{
@@ -287,16 +292,17 @@
 			order: 10
 			rotation: 0.0d
 			width: 4.0d
-			x: 9.25d
-			y: 2.5d
+			x: 24.35d
+			y: 5.2d
 		}
 		{
+			dependency: "1AE27C2F69646D90"
 			height: 4.0d
 			image: "the_bumblezone:block/honey_fluid/still"
 			rotation: 0.0d
 			width: 4.0d
-			x: 9.25d
-			y: 2.5d
+			x: 18.45d
+			y: 5.95d
 		}
 		{
 			height: 4.0d
@@ -338,8 +344,8 @@
 			image: "ftbquests:textures/shapes/hexagon/shape.png"
 			rotation: 0.0d
 			width: 4.0d
-			x: 16.0d
-			y: -3.5d
+			x: 12.5d
+			y: -6.8d
 		}
 		{
 			color: 0
@@ -356,17 +362,44 @@
 			image: "ftbquests:textures/shapes/hexagon/shape.png"
 			rotation: 0.0d
 			width: 4.0d
-			x: 14.3d
+			x: 17.7d
 			y: -0.4d
 		}
 		{
 			color: 0
+			dependency: "4E80FEA94055FB15"
 			height: 4.0d
 			image: "ftbquests:textures/shapes/hexagon/shape.png"
 			rotation: 0.0d
 			width: 4.0d
-			x: 17.8d
-			y: -0.6d
+			x: 24.0d
+			y: -4.2d
+		}
+		{
+			color: 0
+			height: 4.0d
+			image: "ftbquests:textures/shapes/hexagon/outline.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 24.3d
+			y: -0.5d
+		}
+		{
+			color: 0
+			height: 4.0d
+			image: "ftbquests:textures/shapes/hexagon/outline.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 27.1d
+			y: 3.5d
+		}
+		{
+			height: 4.0d
+			image: "ftbquests:block/flow_diagonal"
+			rotation: 90.0d
+			width: 4.0d
+			x: 14.3d
+			y: -0.5d
 		}
 	]
 	order_index: 4
@@ -411,8 +444,8 @@
 				item: { count: 1, id: "the_bumblezone:super_candle_light_blue" }
 				type: "item"
 			}]
-			x: 12.5d
-			y: -2.4d
+			x: 16.5d
+			y: -2.8d
 		}
 		{
 			id: "717A5C7C99B77A25"
@@ -421,8 +454,8 @@
 				item: { count: 1, id: "the_bumblezone:honeycomb_brood_block" }
 				type: "item"
 			}]
-			x: 12.5d
-			y: -4.6d
+			x: 15.6d
+			y: -2.8d
 		}
 		{
 			id: "3AC7198E7F13EC71"
@@ -431,8 +464,8 @@
 				item: { count: 1, id: "the_bumblezone:royal_jelly_bottle" }
 				type: "item"
 			}]
-			x: 16.1d
-			y: -3.7d
+			x: 16.0d
+			y: -3.6d
 		}
 		{
 			id: "05625728404B9EF9"
@@ -441,8 +474,8 @@
 				item: { count: 1, id: "the_bumblezone:super_candle_yellow" }
 				type: "item"
 			}]
-			x: 13.4d
-			y: -4.1d
+			x: 15.1d
+			y: -3.6d
 		}
 		{
 			id: "1828697A813261D2"
@@ -451,8 +484,8 @@
 				item: { count: 1, id: "the_bumblezone:honey_compass" }
 				type: "item"
 			}]
-			x: 11.6d
-			y: -2.9d
+			x: 15.5d
+			y: -4.4d
 		}
 		{
 			id: "23862B4CCA4B5E8C"
@@ -461,8 +494,8 @@
 				item: { count: 1, id: "the_bumblezone:buzzing_briefcase" }
 				type: "item"
 			}]
-			x: 11.6d
-			y: -4.1d
+			x: 16.9d
+			y: -3.6d
 		}
 		{
 			id: "60F8F9431C65B258"
@@ -471,8 +504,8 @@
 				item: { count: 1, id: "the_bumblezone:honey_crystal" }
 				type: "item"
 			}]
-			x: 13.5d
-			y: -2.9d
+			x: 16.5d
+			y: -4.4d
 		}
 	]
 }

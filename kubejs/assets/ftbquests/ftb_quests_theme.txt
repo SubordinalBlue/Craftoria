@@ -161,7 +161,7 @@ dependency_line_unselected_speed:   0.5
 
 # The Bumblezone
 [51597F3213DD32E6]
-background:                         ftbquests:textures/gui/background_white.png; color=#f0feae01; tile_size=64
+background:                         ftbquests:textures/gui/background_white.png; color=#fffeae01; tile_size=64
 dependency_line_texture:            the_bumblezone:textures/item/honey_crystal_shards.png
 dependency_line_thickness:          0.8
 
