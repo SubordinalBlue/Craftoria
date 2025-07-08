@@ -1,6 +1,6 @@
 [*]
 background:          ftbquests:textures/gui/background_warm_black.png; color=#F8ffffff; tile_size=64
-extra_quest_shapes:  diamond, pentagon, hexagon, octagon, heart, gear
+extra_quest_shapes:  diamond, pentagon, hexagon, flattophex, octagon, heart, gear
 
 text_color:          #FFFFFF
 hover_text_color:    #FFFFA0
@@ -164,6 +164,14 @@ dependency_line_unselected_speed:   0.5
 background:                         ftbquests:textures/gui/background_white.png; color=#fffeae01; tile_size=64
 dependency_line_texture:            the_bumblezone:textures/item/honey_crystal_shards.png
 dependency_line_thickness:          0.8
+widget_border:                      #feae01
+context_menu:                       hollow_rectangle:#feae01; round_edges + {{background}}; color=#feae01; padding=1
+quest_view_background:              hollow_rectangle:#feae01; round_edges + {{background}}; color=#feae01; padding=1
+quest_view_border:                  #feae01
+quest_view_title:                   #feae01
+quest_completed_color:              #fffeae01
+quest_started_color:                #C873B6AC
+quest_not_started_color:            #ff000000
 
 # Theurgy
 [5A3894BACC5E8994]
