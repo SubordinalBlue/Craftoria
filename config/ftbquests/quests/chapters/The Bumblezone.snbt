@@ -187,24 +187,25 @@
 		{
 			color: 0
 			height: 4.0d
-			image: "ftbquests:textures/shapes/hexagon/outline.png"
+			image: "ftbquests:textures/shapes/thicchex/outline.png"
 			rotation: 0.0d
 			width: 4.0d
 			x: 16.0d
 			y: -3.6d
 		}
 		{
+			color: 0
 			height: 4.0d
 			image: "ftbquests:textures/shapes/hexagon/outline.png"
 			rotation: 0.0d
 			width: 4.0d
-			x: 19.5d
-			y: -3.5d
+			x: 22.9d
+			y: -7.2d
 		}
 		{
 			color: 0
 			height: 4.0d
-			image: "ftbquests:textures/shapes/hexagon/outline.png"
+			image: "ftbquests:textures/shapes/thicchex/outline.png"
 			order: 3
 			rotation: 0.0d
 			width: 4.0d
@@ -350,11 +351,11 @@
 		{
 			color: 0
 			height: 4.0d
-			image: "ftbquests:textures/shapes/hexagon/shape.png"
+			image: "ftbquests:textures/shapes/thicchex/shape.png"
 			rotation: 0.0d
 			width: 4.0d
 			x: 19.4d
-			y: -3.5d
+			y: -3.55d
 		}
 		{
 			color: 0
@@ -400,6 +401,15 @@
 			width: 4.0d
 			x: 14.3d
 			y: -0.5d
+		}
+		{
+			color: 0
+			height: 4.0d
+			image: "ftbquests:textures/shapes/thicchex/outline.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 19.35d
+			y: -3.55d
 		}
 	]
 	order_index: 4
@@ -506,6 +516,83 @@
 			}]
 			x: 16.5d
 			y: -4.4d
+		}
+		{
+			id: "6A8194D4F52CFB83"
+			shape: "flattophex"
+			tasks: [{
+				id: "139B5D8DB83628BE"
+				item: { count: 1, id: "the_bumblezone:royal_jelly_bottle" }
+				type: "item"
+			}]
+			x: 19.35d
+			y: -3.5d
+		}
+		{
+			id: "4C597161C7138EBF"
+			shape: "flattophex"
+			tasks: [{
+				id: "300015797CA7F532"
+				item: { count: 1, id: "the_bumblezone:honey_crystal" }
+				type: "item"
+			}]
+			x: 19.35d
+			y: -4.45d
+		}
+		{
+			id: "1E51A39EA0947F23"
+			shape: "flattophex"
+			tasks: [{
+				id: "270729B77C5446C4"
+				item: { count: 1, id: "the_bumblezone:honeycomb_brood_block" }
+				type: "item"
+			}]
+			x: 19.35d
+			y: -2.65d
+		}
+		{
+			id: "2565196DEF52689F"
+			shape: "flattophex"
+			tasks: [{
+				id: "2A318E5B0BBBFA0D"
+				item: { count: 1, id: "the_bumblezone:buzzing_briefcase" }
+				type: "item"
+			}]
+			x: 20.15d
+			y: -3.9d
+		}
+		{
+			id: "065B0F9478405F5C"
+			shape: "flattophex"
+			tasks: [{
+				id: "5300233F76A7E9BA"
+				item: { count: 1, id: "the_bumblezone:honey_compass" }
+				type: "item"
+			}]
+			x: 18.6d
+			y: -3.95d
+		}
+		{
+			id: "38CC36CC8AC0D08A"
+			shape: "flattophex"
+			tasks: [{
+				id: "0AC46FC17A74F4F8"
+				item: { count: 1, id: "the_bumblezone:super_candle_yellow" }
+				type: "item"
+			}]
+			x: 18.55d
+			y: -3.05d
+		}
+		{
+			id: "59E6158FCD47A5B0"
+			shape: "flattophex"
+			tasks: [{
+				id: "290F6FF1874A019B"
+				item: { count: 1, id: "the_bumblezone:super_candle_light_blue" }
+				type: "item"
+			}]
+			x: 20.15d
+			y: -3.05d
 		}
 	]
 }
