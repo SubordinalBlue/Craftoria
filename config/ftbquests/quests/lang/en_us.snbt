@@ -1329,7 +1329,7 @@
 		"  This process is called&6 Electrolysis&r and it works by using electric current to split ||ionic compounds|| into their elements."
 	]
 	quest.1CA2825FFA775BBE.title: "Electrolyzer"
-	quest.1CACDF56CB395997.quest_desc: ["You can have my extendogrip... when you pry it out of my cold, dead, fingers. xD"]
+	quest.1CACDF56CB395997.quest_desc: ["You can have my &bExtendo Grip&r... when you &6pry&r it out of my cold, dead, fingers. xD"]
 	quest.1CACDF56CB395997.quest_subtitle: "Reach for the sky!"
 	quest.1CC910880728D896.quest_desc: [
 		"  Did you have fun with &bNuclear Fission&r? Well, it's time for &bNuclear Fusion&r!"
@@ -1523,7 +1523,7 @@
 	quest.1FAB4634116B6EC8.title: "The Backbone of this Operation"
 	quest.1FD59C1147BCE34F.quest_desc: ["The spawner ignores spawn conditions."]
 	quest.1FD59C1147BCE34F.quest_subtitle: "+ Ignores Conditions"
-	quest.1FDE63D5EA5DA3CB.quest_desc: ["Like TCP or UDP have ports: &bFrog Ports&r are a part of CCP: Chain Conveyor Protocol."]
+	quest.1FDE63D5EA5DA3CB.quest_desc: ["If Internet Protocol has ports, than &bPackage Frogports&r must be part of CCP: Chain Conveyor Protocol."]
 	quest.1FDE63D5EA5DA3CB.quest_subtitle: "Not where frogs land and take off from."
 	quest.1FF9FB01DBE735FC.quest_desc: [
 		"The nature of a &bSulfur&r is able to be &6changed&r. This is the basis for transmutation."
@@ -2994,9 +2994,7 @@
 	quest.3F0097CCBA02804C.quest_desc: ["The &bLarge Steam Furnace&r can &6smelt&r recipes in batches of up to 8 at a &a25%&r deduction of &eEU&r cost. Keep in mind, it &cwont&r do a mix of recipes, they &omust&r be the same type. If not, each type of recipe will be &6split&r into their batch of a max of 8."]
 	quest.3F0097CCBA02804C.quest_subtitle: "The Bigger, The Better!"
 	quest.3F0B58522B009779.quest_desc: [
-		"Can be dual-wielded"
-		""
-		"Can be enchanted"
+		"Can be &6dual-wielded&r and &6enchanted&r."
 		""
 		"Different food ammo has different effects"
 	]
@@ -4023,7 +4021,7 @@
 		""
 		"To view all available &8fuels&r, open the ‘&9Available Fuels&r’ tab, which is sorted from &amost&r to &cleast&r effective. "
 	]
-	quest.52575C93CD6DD5D5.quest_desc: ["For creating and unwrapping packages."]
+	quest.52575C93CD6DD5D5.quest_desc: ["For &6packing&r and &6unpacking&r packages."]
 	quest.525D3BBD78692516.title: "Soul Fruit"
 	quest.5299134A1144826F.quest_desc: [
 		"Can be &6(dis)charged&r using a &bCharging Station&r. "
@@ -4243,7 +4241,7 @@
 		"{image:justdirethings:block/coalblock_t3 width:100 height:100 align:center fit:true}"
 	]
 	quest.573FAED7B35F6C86.quest_desc: ["For the more seasoned mage the Enchated Spellbook has ten slots."]
-	quest.5773319EE8B3D45C.quest_desc: ["Adds some speed control to chain drives."]
+	quest.5773319EE8B3D45C.quest_desc: ["Adds some &6speed control&r to &bChain Drives&r."]
 	quest.578394EC869C10AB.quest_desc: ["Simple point-to-point item transportation, power transmission, or low-key ski lift for players—you decide!"]
 	quest.57852C27FD0C29AA.title: "Upgrades"
 	quest.57A8D67858693F4A.quest_desc: ["The &bBasic Injecting Factory&r allows you to process &a3&r injection recipes at once."]
@@ -5122,7 +5120,7 @@
 	quest.6B022CC9A87E6329.quest_desc: [
 		"A handy (heh!) way to move things from A to B."
 		""
-		"With brass funnels, you can even filter a mechanical arm's targets."
+		"With &bBrass Funnels&r, you can even &6filter&r a &bMechanical Arm&r's targets."
 	]
 	quest.6B0418E2AC06FF09.quest_desc: [
 		"  Like &bferricore tools \\& weapons&r, but are &6repaired when in lava&r."
@@ -5239,7 +5237,7 @@
 		""
 		"The data packet for comunication networks."
 		""
-		"And now… the humble &bCardboard Box&r packet-izes item &6transfer&r, underpinning Create’s new item &6requesting&r and &6delivery&r abilities"
+		"And now… the humble &bCardboard Package&r packet-izes item &6transfer&r, underpinning Create’s new item &6requesting&r and &6delivery&r abilities"
 	]
 	quest.6DED76B2F4AFD02F.quest_desc: ["&bDry ice &fis extremely rare to find underground, but you can make it if you have enough &bpower and ice."]
 	quest.6DED76B2F4AFD02F.quest_subtitle: "A little cold to the touch"
@@ -5741,7 +5739,7 @@
 	]
 	quest.79288A7251986136.quest_subtitle: "Contraptions on Minecraft Carts? Yes!"
 	quest.7931987BD172464D.title: "Fennel"
-	quest.7938CF0A65011F0B.quest_desc: ["Vacuum tube, thermionic valve, electron tube—by any name it’s a cool looking item and a key ingredient for Create components that have “smarts”."]
+	quest.7938CF0A65011F0B.quest_desc: ["Vacuum tube, thermionic valve, &bElectron Tube&r—by any name it’s a cool looking item and a key ingredient for Create components that have “smarts”."]
 	quest.7946DBB127444E4D.title: "Cucumber"
 	quest.7948BA211BD790C8.quest_desc: ["Can hold an &ainfinite&r amount of a single fluid."]
 	quest.79515634992D02A3.quest_desc: [
