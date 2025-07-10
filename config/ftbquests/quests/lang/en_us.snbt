@@ -177,7 +177,8 @@
 	]
 	quest.045942C709C63044.quest_subtitle: "Does What it Says on the Tin"
 	quest.045D5406A58CA1A9.quest_subtitle: "Congratulations! You've completed MI!"
-	quest.047A5CFAEBBE7E4E.quest_desc: ["Shopification for Create"]
+	quest.047A5CFAEBBE7E4E.quest_desc: [""]
+	quest.047A5CFAEBBE7E4E.quest_subtitle: "Shopification for Create"
 	quest.048328EEBEEC9C94.quest_desc: [
 		"The &bHazmat Suit&r will protect you from accidental &2radiation leakage&r. "
 		""
@@ -447,13 +448,13 @@
 	quest.0C18429AFD83973C.quest_desc: [
 		"I love these! With them you can..."
 		""
-		"- Drive close, parallel shafts* with the same rotation, or"
+		"- &6Drive&r close, parallel &bShafts&r* with the same rotation, or"
 		""
-		"- Have any of them turned 90° to the others, and..."
+		"- Have any of them &6turned 90°&r to the others, and..."
 		""
-		"- Speed doubling, or halving, with a chain gearshift and a touch of redstone!"
+		"- &6Speed doubling&r, or &6halving,&r with a &bChain Gearshift&r and a touch of &bredstone&r!"
 		""
-		"(* or fans, etc)"
+		"(* or &bEncased Fans&r, etc)"
 	]
 	quest.0C1C61B4554B38E5.quest_desc: [
 		"The &bCombiner&r allows you to &6combine items&r together like a &dgem&r and &7stone&r to receive &8ore&r, &ewax&r and &ccopper&r to protect it from the elements, mixing dyes, and more. "
@@ -1304,7 +1305,7 @@
 	quest.1C699E7F615D68A7.quest_desc: [
 		"The terminal in Create’s new build-your-own-storage-system kit."
 		""
-		"It can link to multiple inventories, via stock links, and is operated by the mob of your choice."
+		"It can &6link&r to multiple inventories, via &bStock Links&r, and is &boperated&r by the mob of your choice."
 	]
 	quest.1C69AE9775DDC0AD.quest_desc: [
 		"  Simple."
@@ -1522,7 +1523,8 @@
 	quest.1FAB4634116B6EC8.title: "The Backbone of this Operation"
 	quest.1FD59C1147BCE34F.quest_desc: ["The spawner ignores spawn conditions."]
 	quest.1FD59C1147BCE34F.quest_subtitle: "+ Ignores Conditions"
-	quest.1FDE63D5EA5DA3CB.quest_desc: ["No, silly—not where frogs land and take off from."]
+	quest.1FDE63D5EA5DA3CB.quest_desc: ["Like TCP or UDP have ports: &bFrog Ports&r are a part of CCP: Chain Conveyor Protocol."]
+	quest.1FDE63D5EA5DA3CB.quest_subtitle: "Not where frogs land and take off from."
 	quest.1FF9FB01DBE735FC.quest_desc: [
 		"The nature of a &bSulfur&r is able to be &6changed&r. This is the basis for transmutation."
 		""
@@ -2343,7 +2345,8 @@
 	]
 	quest.305C258D68DA8E96.quest_desc: ["The &bInduction Casing&r will house the cells and providers that will allow you to &6store&r ungodly amounts of &eraw energy&r."]
 	quest.305C258D68DA8E96.title: "Induction Casing"
-	quest.305EDA1DA23E9BDF.quest_desc: ["Guardians of order in an unpredicatble world of chains, belts, and boxes."]
+	quest.305EDA1DA23E9BDF.quest_desc: ["Guardians of order in an unpredicatble world of &bChains,&r &bBelts,&r and &bBoxes&r."]
+	quest.305EDA1DA23E9BDF.quest_subtitle: "Package them again, Sam."
 	quest.3068A4024A893DF9.quest_desc: ["If you can find your way to a Pale Bog Biome, you may discover these eery gourds..."]
 	quest.3068A4024A893DF9.title: "Pale Pumpkin"
 	quest.306E118494E0FA08.title: "Blue Glowcane"
@@ -3002,7 +3005,7 @@
 	quest.3F3600B6701641E0.quest_desc: [
 		"&bAndesite Alloy&r is key to starting out with Create, and so are the blocks in the &c\"Mechanical Basics\"&r wing of this gallery."
 		""
-		"  When you start out &6mining&c in the early game, grab as much &bAndesite&r as possible and don't forget to gather &bZinc&r too, to save your &bIron&r for other uses than making &bAndesite Alloy&r."
+		"  When you start out &6mining&r in the early game, grab as much &bAndesite&r as possible and don't forget to gather &bZinc&r too, to save your &bIron&r for other uses than &6making&r &bAndesite Alloy&r."
 	]
 	quest.3F581374C4DDD0A9.quest_desc: [
 		"The &bUnbreakable Upgrade&f does what it says on the tin, your &bConstruction Stick&f will &6never&f break!"
@@ -3981,11 +3984,11 @@
 	quest.51E386BC7692D06C.title: "Mercurial Connections"
 	quest.51ECF72F223BDB3A.title: "Coffee"
 	quest.51F5C6D60D719DC4.quest_desc: [
-		"Brass—a simple alloy of copper and zinc, but you will need to visit the nether to equip yourself to make it."
+		"&bBrass&r—a simple alloy of &bCopper&r and &bZinc,&r but you will need to &6visit&r the Nether to &6equip&r yourself to make it."
 		""
-		"&6Bring&r several empty &bBlaze Burners&r when you go... you can spam them on a &bBlaze Spawner&r to capture as many blazes as you have &bBlaze Burners&r."
+		"&6Bring&r several empty &bBlaze Burners&r when you go... you can spam them on a &bBlaze Spawner&r to &6capture&r as many blazes as you have &bBlaze Burners&r."
 		""
-		"Once you do have &bBrass&r, you'll be able to &6craft&r the items in the &c\"Brass\"&r wing: the &bDeployer&r for &cperforming what are normally player actions&r, smarter versions of more basic Create blocks, and nice choices for decor too. We've placed the blaze burner itself there too, though of course you'll already have made one."
+		"Once you do have &bBrass&r, you'll be able to &6craft&r the items in the &c\"Brass\"&r wing: the &bDeployer&r for &cperforming what are normally player actions&r, smarter versions of more basic Create blocks, and nice choices for decor too. We've placed the &bBlaze Burner&r itself there too, though of course you'll already have made one."
 	]
 	quest.5221657F939FE63B.quest_desc: ["Use the Scroll Forge and a Bottle O' Lightning to craft a lightning Scrolls."]
 	quest.5253D3AA5B45369E.quest_desc: [
