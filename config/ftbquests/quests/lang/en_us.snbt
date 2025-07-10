@@ -135,9 +135,9 @@
 	]
 	quest.038773FFAF3C8817.title: "Ore Processing with Mekanism"
 	quest.038AAFBA1E0DEF7E.quest_desc: [
-		"Goggles allow you to see more information about placed Create components."
+		"&bGoggles&r allow you to see more information about placed Create components."
 		""
-		"You will likely find everything in the “Tools” wing also useful, even indispensable for many tasks in Create."
+		"You will likely find everything in the &c“Tools”&r wing also useful, even indispensable for many tasks in Create."
 	]
 	quest.038AAFBA1E0DEF7E.quest_subtitle: "Essential for the working Create-or"
 	quest.03CF6D6277D93A4A.quest_desc: [
@@ -952,7 +952,7 @@
 	quest.168AB4DADB1CA2D9.quest_subtitle: "First Foundation"
 	quest.16AAEB122CDC1A46.quest_desc: [
 		"{image:modern_industrialization:block/machines/mixer/overlay_top_active width:32 height:32 align:center}"
-		"  A sleek bronze casing with a shining metal bowl where mixing blades are lowered into to &6mix&r up a plethora of different things! You can &6mix dusts&r with a higher output since you wont be spilling any anymore."
+		"  A sleek bronze Casing with a shining metal bowl where mixing blades are lowered into to &6mix&r up a plethora of different things! You can &6mix dusts&r with a higher output since you wont be spilling any anymore."
 		""
 		"  It doesn't only mix dusts, but also fluids. Example: &eLubricant&r!"
 	]
@@ -1769,7 +1769,7 @@
 	]
 	quest.247E497BC6DE25CE.title: "Robit"
 	quest.248175A1E0825C2F.quest_desc: ["This Rod can locate &dPrecious&r materials."]
-	quest.248CD41AE2A92573.quest_desc: ["What it says on the tin: the way to link inventories to other specific Create compontents."]
+	quest.248CD41AE2A92573.quest_desc: ["What it says on the tin: the way to &6link&r inventories to other specific Create compontents."]
 	quest.24A4F1AA0BFFE867.quest_desc: [
 		"  This is the electric version of the &bSteam Blast Furnace&r. The &bElectric Blast Furnace (aka EBF)&r uses induction heating to produce extreme temperatures, unlocking a plethora of new recipes. Plus, it's &6overclock is bounded to 128 EU/t by default&r, just like other multi-block electric machines."
 		""
@@ -3000,9 +3000,9 @@
 	quest.3F0B58522B009779.quest_subtitle: "Food Fighter!"
 	quest.3F146A658E5A01F3.quest_subtitle: "Dropped within the Trials of Awaken gateway. "
 	quest.3F3600B6701641E0.quest_desc: [
-		" Andesite Alloy is key to starting out with Create, and so are the blocks in the \"Mechanical Basics\" wing of this gallery."
+		"&bAndesite Alloy&r is key to starting out with Create, and so are the blocks in the &c\"Mechanical Basics\"&r wing of this gallery."
 		""
-		"  When you start out mining in the early game, grab as much andesite as possible and don't forget to gather zinc too, to save your iron for other uses than making andesite alloy."
+		"  When you start out &6mining&c in the early game, grab as much &bAndesite&r as possible and don't forget to gather &bZinc&r too, to save your &bIron&r for other uses than making &bAndesite Alloy&r."
 	]
 	quest.3F581374C4DDD0A9.quest_desc: [
 		"The &bUnbreakable Upgrade&f does what it says on the tin, your &bConstruction Stick&f will &6never&f break!"
@@ -3772,7 +3772,7 @@
 	quest.4E3578FC24ACF39B.quest_desc: [
 		"You probably met this unassuming little guy while pressing your first plates in Create."
 		""
-		"The Depot holds items in place for many other Create things to interact with them."
+		"The &bDepot&r &6holds&r items in place for many other Create things to interact with them."
 	]
 	quest.4E3578FC24ACF39B.quest_subtitle: "Items... Hold Still!"
 	quest.4E56C9A5F225A883.quest_subtitle: "A way to tick accelerate blocks."
@@ -3983,9 +3983,9 @@
 	quest.51F5C6D60D719DC4.quest_desc: [
 		"Brass—a simple alloy of copper and zinc, but you will need to visit the nether to equip yourself to make it."
 		""
-		"Bring several empty blaze burners when you go... you can spam a blaze spawner to capture as many blazes as you have burners."
+		"&6Bring&r several empty &bBlaze Burners&r when you go... you can spam them on a &bBlaze Spawner&r to capture as many blazes as you have &bBlaze Burners&r."
 		""
-		"Once you do have brass, you'll be able to craft the items in the \"Brass\" wing: the deployer for performing what are normally player actions, smarter versions of more basic Create blocks, and nice choices for decor too. We've placed the blaze burner itself there too, though of course you'll already have made one."
+		"Once you do have &bBrass&r, you'll be able to &6craft&r the items in the &c\"Brass\"&r wing: the &bDeployer&r for &cperforming what are normally player actions&r, smarter versions of more basic Create blocks, and nice choices for decor too. We've placed the blaze burner itself there too, though of course you'll already have made one."
 	]
 	quest.5221657F939FE63B.quest_desc: ["Use the Scroll Forge and a Bottle O' Lightning to craft a lightning Scrolls."]
 	quest.5253D3AA5B45369E.quest_desc: [
@@ -4077,7 +4077,7 @@
 		""
 		"- Good for self-powered small contraptions (often for farming)"
 		""
-		"- The common step between waterwheels and steam engines, in the Create-or's quest for MOAR POWAH."
+		"- The common step between &bWater Wheels&r and &bSteam Engines&r, in the Create-or's quest for MOAR POWAH."
 	]
 	quest.53ECE17FBD95392C.quest_subtitle: "Tilt at this, Don Quixote"
 	quest.5401B18217772D6C.quest_desc: [
@@ -4159,16 +4159,16 @@
 	quest.55696F71CC09E588.quest_desc: [
 		"This chapter is a offered as a gallery of Create—a mod of many talents:"
 		""
-		"- Mechanize parts, resources, farming, energy production, and more."
-		"- Add mechanical movement to your builds"
-		"- Build and schedule trains, including a mail delivery network."
-		"- Move and store items and fluids"
-		"- Build a smart factory"
-		"- Copy-and-paste builds, or import them."
-		"- Fill, drain, or explore bodies of water or lava"
+		"- &6Mechanize&r parts, resources, farming, energy production, and more."
+		"- &6Add&r mechanical movement to your builds"
+		"- &6Build&r and &6schedule&r trains, including a mail delivery network."
+		"- &6Move&r and &6store items and fluids"
+		"- &6Build&r a smart factory"
+		"- &6Copy-and-paste&r builds, or &6import&r them."
+		"- &6Fill&r, &6drain&r, or &6explore&r bodies of water or lava"
 		""
 		"This chapter is not a set of paths through the mod."
-		"Create itself provides excellent information about its componets with extended hover info and in it’s ground-breaking Ponder system."
+		"Create itself provides excellent information about its componets with extended hover info and ground-breaking &6Ponder&r system."
 	]
 	quest.5570CFF754032FDB.quest_desc: [
 		"A variety of icy creatures dwell within the tower, while the &9Snow Queen&r awaits in a frost-covered room near the top. "
@@ -4190,7 +4190,7 @@
 	]
 	quest.55A5C20E17BD3038.title: "Meka-Tool"
 	quest.55AEBE2068711237.quest_desc: [
-		"Ah, the humble water wheel."
+		"Ah, the humble &bWater Wheel&r."
 		""
 		"It's the simplest first step to generating free power for Create, while also embodying rotational motion, an essential feature of Create."
 	]
@@ -4298,7 +4298,7 @@
 		"It’s every tool in one and can inflict &4a lot of damage&r."
 	]
 	quest.59451B5DAD78C46F.title: "Atomic Disassembler"
-	quest.594BC97607EEE341.quest_desc: ["A key piece of most Create builds: interchanges axis of rotational motion between one plane and another"]
+	quest.594BC97607EEE341.quest_desc: ["A key piece of most Create builds: &6interchanges&r axis of rotational motion between one plane and another"]
 	quest.596057832C440706.title: "Dielectric"
 	quest.59EC9D8641CF67B8.quest_desc: ["The Oh The Biomes We've Gone mod also has its selection of crops... if you know where to find them!"]
 	quest.59EE97EF70F6F962.quest_desc: ["You can sometimes find flax growing by bodies of water in the wild! Pick some!"]
@@ -4401,8 +4401,8 @@
 	quest.5CEFB3C551971327.quest_desc: [""]
 	quest.5D584858B61E534B.quest_desc: ["This &bCatalyst &fslowly turns &bMercury &finto &dMercury Flux&r, a source of &6Energy&r for alchemical devices."]
 	quest.5D584858B61E534B.quest_subtitle: "Mercury = Flux"
-	quest.5D5FC5420738FDE8.quest_desc: ["Plain ol' &bcardboard.&r So basic, and yet... the gateway to &oCreate's&r latest set of capabilities, represented in the &c\"Factory Smarts\"&r wing of this gallery."]
-	quest.5D852AA1930E1019.quest_desc: ["Captured blazes enjoy eggs, like their distant forbear, Calcifer"]
+	quest.5D5FC5420738FDE8.quest_desc: ["Plain ol' &bCardboard.&r So basic, and yet... the gateway to &oCreate's&r latest set of capabilities, represented in the &c\"Factory Smarts\"&r wing of this gallery."]
+	quest.5D852AA1930E1019.quest_desc: ["Captured blazes &6enjoy&r &beggs&r, like their distant forbear, Calcifer"]
 	quest.5D92326B02E9DC0F.title: "Belts"
 	quest.5DBFD3F917C4E49C.quest_subtitle: "Found by using the Eye of Mech"
 	quest.5DBFD3F917C4E49C.title: "&4Harbinger"
@@ -4552,7 +4552,7 @@
 		"\"Unidirectional powered rail with variable speed controlled by the signal strength supplied to it.\""
 	]
 	quest.61A7F8B1C6ECEEA5.quest_desc: [
-		"The unassuming encased fan... the not-so-secret weapon of Create."
+		"The unassuming &bEncased Fan&r... the not-so-secret weapon of Create."
 		""
 		"Check out bulk-blasting (omg!) and pushing stuff around."
 	]
@@ -4746,6 +4746,7 @@
 	quest.668453E081A6C57B.title: "Titanium"
 	quest.66855DBE37DB5CD1.quest_desc: ["Relays rotating motion along a straight path: job done."]
 	quest.66855DBE37DB5CD1.quest_subtitle: "You Spin Me Right Round"
+	quest.66A4DD110F0E66D1.quest_subtitle: "Nice to Cu"
 	quest.66AE27B8C8DADDA5.quest_desc: [
 		"The &bPigment Mixer&r is a sturdy machine with the &6ability to mix&r &dliquid pigments&r. "
 		""
@@ -5235,7 +5236,7 @@
 		""
 		"The data packet for comunication networks."
 		""
-		"And now… the humble cardboard box packet-izes item transfer, underpinning Create’s new item requesting and delivery abilities"
+		"And now… the humble &bCardboard Box&r packet-izes item &6transfer&r, underpinning Create’s new item &6requesting&r and &6delivery&r abilities"
 	]
 	quest.6DED76B2F4AFD02F.quest_desc: ["&bDry ice &fis extremely rare to find underground, but you can make it if you have enough &bpower and ice."]
 	quest.6DED76B2F4AFD02F.quest_subtitle: "A little cold to the touch"
@@ -5608,7 +5609,7 @@
 		""
 		"Get things in and out with &bChutes&r, &bHatches&r, &bFunnels&r, and &bPackagers&r."
 		""
-		"[ tip: see the Inventory Ticker for Create's great take on a storage terminal ]"
+		"[ tip: see the &bInventory Ticker&r for Create's great take on a storage terminal ]"
 	]
 	quest.754EC4FE62F454E8.quest_subtitle: "It's all your Vault!"
 	quest.755B63C1841819D4.quest_desc: ["Made by dropping Charged Certus Quartz, Iron, and Sky Stone into water. The Sky Stone Ingot can be used for all Storage Components from MEGA Cells."]
