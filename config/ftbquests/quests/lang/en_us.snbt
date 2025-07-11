@@ -216,7 +216,7 @@
 		""
 		"The &bDynamo&r also &6produces&r &4heat&r, which needs to be managed to prevent a &closs&r in &aefficiency&r."
 	]
-	quest.0541F90AD95B4B5E.quest_desc: ["Pay attention: it might do one thing on a depot, and another in a basin."]
+	quest.0541F90AD95B4B5E.quest_desc: ["Pay attention: it might &6make&r one thing on a &bDepot&r, and another in a &bBasin&r."]
 	quest.0541F90AD95B4B5E.quest_subtitle: "May I press you to a cucumber sandwich?"
 	quest.0547229FF5334CF5.quest_desc: ["The &bInterface&f acts like a chest, you can &aset an item or fluid &finside the &bInterface&f and it will pull that item from the&5 network &fto keep stock."]
 	quest.0578945AE9664476.quest_subtitle: "Dropped within the Trials of Awaken gateway. "
@@ -291,7 +291,7 @@
 	]
 	quest.077658D04D0D4AB3.quest_subtitle: "Is it poisonous?"
 	quest.077658D04D0D4AB3.title: "Sal Ammoniac Accumulator"
-	quest.07821D28021BB440.quest_desc: ["Breaks blocks, 'nuff said."]
+	quest.07821D28021BB440.quest_desc: ["&6Breaks&r &bblocks,&r 'nuff said."]
 	quest.07821D28021BB440.quest_subtitle: "Drill, Baby. Drill!"
 	quest.07D88A0ABF82A39A.quest_desc: ["Harvested from &6Animals&f while using a &bKnife&f."]
 	quest.07D88A0ABF82A39A.quest_subtitle: "Perfect candle material"
@@ -483,7 +483,7 @@
 	quest.0C2DFB4A8DF29B1D.quest_subtitle: "Structure Compass"
 	quest.0C34B97F1EA88415.quest_subtitle: "A way to easily teleport your way out of caves."
 	quest.0C37E9D8A7823264.quest_desc: ["Artificer's Cane helps with walking for all you old folks-againjust kidding, This staff will give a cooldown and cast time reduction and boost your spell power. This is a bit more pricey then the Graybeard staff however is wirth it for casting larger spells (Make these staffs their own thing)."]
-	quest.0C53E42899D3D271.quest_desc: ["Simple redstone control for drive shafts or cog wheels."]
+	quest.0C53E42899D3D271.quest_desc: ["Simple &bredstone&r &6control&r for drive &bShafts&r or &bCogwheels&r."]
 	quest.0C6D0B1C1AF75292.quest_desc: [
 		"  Winston? You're god damn right."
 		""
@@ -1695,7 +1695,7 @@
 	quest.21EDEEE1A1B82B53.title: "Raw Iridium"
 	quest.21EE3862F6DA8E09.quest_desc: ["The &bPrecision Sawmill&r is a machine used to process &9logs&r and other wood-based materials with &eextreme efficiency&r, with a byproduct of &9sawdust&r."]
 	quest.21EE3862F6DA8E09.title: "Precision Sawmill"
-	quest.220163965130D8C7.quest_desc: ["Breaks blocks without solid colision blocks... like tracks, levers, buttons, etc."]
+	quest.220163965130D8C7.quest_desc: ["&6Breaks&r &bblocks without solid colision boxes&r... like &btracks&r, &blevers&r, &bbuttons&r, etc."]
 	quest.2209DC294580BF3D.quest_desc: [
 		"There are four natural entrances. "
 		""
@@ -1950,9 +1950,9 @@
 	quest.299CBEA2571FD97A.quest_subtitle: "&bBlue Crystals"
 	quest.299CBEA2571FD97A.title: "&bNiotic Crystal"
 	quest.29A942B4C3E9A502.quest_desc: [
-		"Cuts down even the tallest trees, or cuts many things into... many more things."
+		"&6Cuts&r down even the tallest &btrees&r, or &6cuts&r many &bthings&r into... many more &bthings&r."
 		""
-		"So many recipes apply for many possible inputs to the saw, that you'll want to lock in the recipe by hitting the top of it with an example of the desired output."
+		"So many recipes apply for many possible inputs to the &bMechanical Saw&r, that you'll want to &6lock in&r the recipe by &6hitting&r the top of it with an example of the desired output."
 	]
 	quest.29A942B4C3E9A502.quest_subtitle: "Not Stock, Aitken, and Waterman"
 	quest.29AC06B27D6A53C5.quest_desc: [
@@ -3036,7 +3036,7 @@
 	quest.4047F3E2AD081915.quest_desc: ["The &bNetwork Tool &fis an upgraded &bWrench&f that shows &6Network Diagnostic Information&f as well as store upgrade cards.&6 Right-Clicking&f any part of a &bNetwork&f will show diagnostics the same way the &bME Controller&f does. It also temporarily makes &bFacades&f transparent so you can find hidden cables."]
 	quest.4047F3E2AD081915.title: "Network Tool"
 	quest.404A9FFCA3DF600D.quest_desc: [
-		"Simple redstone control for reversing rotational motion."
+		"Simple &bredstone&r &6control&r for &6reversing&r rotational motion."
 		""
 		"Very handy when your build needs one."
 	]
@@ -4193,7 +4193,7 @@
 	quest.55AEBE2068711237.quest_desc: [
 		"Ah, the humble &bWater Wheel&r."
 		""
-		"It's the simplest first step to generating free power for Create, while also embodying rotational motion, an essential feature of Create."
+		"It's the simplest first step to &6generating&r free power for Create, while also embodying rotational motion, an essential feature of Create."
 	]
 	quest.55AEBE2068711237.quest_subtitle: "Water flows, the wheel spins, and so it all begins."
 	quest.55B4497680B48819.title: "Peaches"
@@ -4555,7 +4555,7 @@
 	quest.61A7F8B1C6ECEEA5.quest_desc: [
 		"The unassuming &bEncased Fan&r... the not-so-secret weapon of Create."
 		""
-		"Check out bulk-blasting (omg!) and pushing stuff around."
+		"Check out&6 bulk-blasting&r (omg!) and &6pushing&r stuff around."
 	]
 	quest.6201E6DF709C29D0.quest_desc: [
 		"  &bFerricore armor&r is as strong and durable as &biron armor&r."
@@ -4633,9 +4633,9 @@
 	]
 	quest.6353B0AB7EFFA163.quest_subtitle: "add this here"
 	quest.63756443B3FFDB48.quest_desc: [
-		"Ah, the humble but reliable millstone."
+		"Ah, the humble but reliable &bMillstone&r."
 		""
-		"The crushing wheels may be faster, but the millstone fits better in many builds... and you don't fit in it, so there's that."
+		"The &bCrushing Wheels&r may be faster, but the millstone &6fits&r better in many builds... and &dyou&r don't &6fit&r in &bit&r, so there's that."
 	]
 	quest.63756443B3FFDB48.quest_subtitle: "Mill-itary Operations"
 	quest.6385DB0FFD411ECB.quest_desc: ["The &bIron Stick&f does the same things, but with a block &6place&f maximum of 27 blocks."]
@@ -5247,7 +5247,7 @@
 	quest.6DFA92E319E7DA77.quest_desc: ["To start &6Autocrafting&6 you must first make a &bPattern&f with a &bPattern Encoding Terminal&f, then &6place&f that &bpattern&f in the &bPattern Provider&f."]
 	quest.6DFA92E319E7DA77.title: "Pattern Provider"
 	quest.6E2932D7D8228910.title: "&7Pressure &cGauge"
-	quest.6E3F0C072B55467B.quest_desc: ["Simple: harvests and resets mature crops."]
+	quest.6E3F0C072B55467B.quest_desc: ["Simple: &6harvests&r and &6resets&r &bmature crops&r."]
 	quest.6E60988E8F8C4FF2.title: "Sulfur Trioxide"
 	quest.6EA29403BF85B19C.quest_desc: [
 		"Your first &dQIO drive&r. "

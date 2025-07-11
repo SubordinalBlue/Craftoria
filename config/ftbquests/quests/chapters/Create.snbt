@@ -1911,6 +1911,7 @@
 		{
 			dependencies: ["3F3600B6701641E0"]
 			id: "6E3F0C072B55467B"
+			min_width: 240
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "35CFB13FECEB66F6"
