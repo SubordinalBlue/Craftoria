@@ -3236,7 +3236,7 @@
 		"&4NOTE&r: blocks will be &4consumed&r, you will need to re-place those sand/gravel."
 	]
 	quest.431FA8EF8194D39B.quest_subtitle: "🦀 with hat 🦀 | Archeology"
-	quest.434D7EDCDD954B40.quest_desc: ["In addtion to being a crafting ingredient, casing can be used to encase shafts and belts, and also large and small cogwheels. The later use is handy for keeping compact as possible a gear train meant to raise the rpms from early power sources."]
+	quest.434D7EDCDD954B40.quest_desc: ["In addtion to being a crafting ingredient, &bAndesite Casing&r can be used to &6encase&r &bShafts&r and &bBelts,&r and also &bLarge&r and &bSmall Cogwheels&r. The later use is handy for keeping compact as possible a gear train meant to raise the rpms from early power sources."]
 	quest.434D7EDCDD954B40.quest_subtitle: "Basic yet Functional"
 	quest.4351715A36CA0DA6.quest_desc: [
 		"The &bNutritious Liquifier&r allows you to &6grind down&r almost any food item and turn it into a &dNutritional Paste&r that can be consumed and stored in bulk. "
@@ -3898,11 +3898,11 @@
 	quest.4F987C54768D8E3D.quest_desc: [
 		"Remember this:"
 		""
-		"- big cog wheel drives small = higher rpm"
+		"- &bLarge Cogwheel&r &6drives&r small = higher rpm"
 		""
-		"- small drives big = lower rpm"
+		"- &bSmall&r &6drives&r big = lower rpm"
 		""
-		"- big and small sharing a shaft = no rpm change"
+		"- &bLarge&r and &bSmall&r &6sharing&r a shaft = no rpm change"
 	]
 	quest.4F987C54768D8E3D.quest_subtitle: "Cognitive Machinations"
 	quest.4FBA0ECAC8AEBCD8.quest_desc: [
@@ -4745,7 +4745,7 @@
 		"  Its pink color comes from something?"
 	]
 	quest.668453E081A6C57B.title: "Titanium"
-	quest.66855DBE37DB5CD1.quest_desc: ["Relays rotating motion along a straight path: job done."]
+	quest.66855DBE37DB5CD1.quest_desc: ["&6Relays&r rotating motion along a straight path: job done."]
 	quest.66855DBE37DB5CD1.quest_subtitle: "You Spin Me Right Round"
 	quest.66A4DD110F0E66D1.quest_desc: ["Time to &6plumb&r the depths of Create's... plumbing."]
 	quest.66A4DD110F0E66D1.quest_subtitle: "Nice to Cu"
