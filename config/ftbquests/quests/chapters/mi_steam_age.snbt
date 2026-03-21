@@ -8,7 +8,219 @@
 		id: "modern_industrialization:coke_oven"
 	}
 	id: "2D12E0E71DEC99E9"
-	order_index: 4
+	images: [
+		{
+			height: 4.0d
+			image: "modern_industrialization:fluid/steam_still"
+			rotation: 0.0d
+			width: 4.0d
+			x: 4.45d
+			y: -5.95d
+		}
+		{
+			height: 10.0d
+			image: "modern_industrialization:fluid/steam_still"
+			rotation: 0.0d
+			width: 10.0d
+			x: 31.2d
+			y: -5.35d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/8"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.95d
+			y: 6.15d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.8d
+			y: 6.15d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/6"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.95d
+			y: -0.6499999999999999d
+		}
+		{
+			alpha: 128
+			height: 10.0d
+			image: "mekanism:liquid/steam_flow"
+			rotation: -90.0d
+			width: 10.0d
+			x: -21.45d
+			y: -16.2d
+		}
+		{
+			height: 10.0d
+			image: "modern_industrialization:fluid/steam_still"
+			rotation: 0.0d
+			width: 10.0d
+			x: 31.2d
+			y: 3.1999999999999993d
+		}
+		{
+			height: 10.0d
+			image: "modern_industrialization:fluid/steam_still"
+			rotation: 0.0d
+			width: 10.0d
+			x: 19.65d
+			y: 14.55d
+		}
+		{
+			height: 10.0d
+			image: "modern_industrialization:fluid/steam_still"
+			rotation: 0.0d
+			width: 10.0d
+			x: 39.7d
+			y: 3.2d
+		}
+		{
+			height: 10.0d
+			image: "modern_industrialization:fluid/steam_still"
+			rotation: 0.0d
+			width: 10.0d
+			x: 39.8d
+			y: -5.35d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.25d
+			y: 6.15d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.4d
+			y: 6.15d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.1d
+			y: 6.15d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/6"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.95d
+			y: 0.20000000000000018d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/6"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.95d
+			y: 1.0499999999999998d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/6"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.95d
+			y: -2.3499999999999996d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/6"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.95d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/6"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.95d
+			y: 2.75d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/6"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.95d
+			y: 1.9000000000000004d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/6"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.95d
+			y: 5.3d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/6"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.95d
+			y: 4.45d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/6"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.95d
+			y: 3.6000000000000005d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/6"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.95d
+			y: -4.05d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/6"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.95d
+			y: -3.1999999999999997d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/6"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.95d
+			y: 7.0d
+		}
+		{
+			height: 2.0d
+			image: "modern_industrialization:textures/gui/milogo.png"
+			order: 100
+			rotation: 0.0d
+			width: 2.0d
+			x: -10.9d
+			y: 3.6d
+		}
+	]
+	order_index: 2
 	quest_links: [ ]
 	quests: [
 		{
@@ -55,7 +267,7 @@
 				item: { count: 1, id: "modern_industrialization:bronze_compressor" }
 				type: "item"
 			}]
-			x: 1.5499999999999998d
+			x: 1.2d
 			y: 3.3d
 		}
 		{
@@ -95,8 +307,8 @@
 				item: { count: 1, id: "modern_industrialization:bronze_cutting_machine" }
 				type: "item"
 			}]
-			x: 1.5499999999999998d
-			y: -4.2d
+			x: 0.4d
+			y: -4.0d
 		}
 		{
 			dependencies: ["0B2FF8169FD3812D"]
@@ -211,8 +423,8 @@
 				item: { count: 1, id: "modern_industrialization:bronze_macerator" }
 				type: "item"
 			}]
-			x: 1.5499999999999998d
-			y: 4.8d
+			x: 0.9d
+			y: 4.6d
 		}
 		{
 			dependencies: ["164F4710E109F7F2"]
@@ -230,7 +442,7 @@
 				item: { count: 1, id: "modern_industrialization:bronze_mixer" }
 				type: "item"
 			}]
-			x: 1.5499999999999998d
+			x: 1.1d
 			y: -2.7d
 		}
 		{
@@ -554,20 +766,21 @@
 			icon: {
 				id: "modern_industrialization:guidebook"
 			}
+			icon_scale: 1.25d
 			id: "469641436BC858D3"
 			rewards: [{
 				id: "645FB541626DEA6C"
 				type: "xp"
 				xp: 0
 			}]
-			shape: "diamond"
+			shape: "circle"
 			size: 2.0d
 			tasks: [{
 				id: "03781EFD22CB018C"
 				type: "checkmark"
 			}]
-			x: -6.95d
-			y: 0.2999999999999998d
+			x: -6.9d
+			y: 0.3d
 		}
 		{
 			dependencies: ["50BFFEAF92B72965"]
@@ -942,8 +1155,8 @@
 					type: "item"
 				}
 			]
-			x: 3.55d
-			y: 4.8d
+			x: 2.5d
+			y: 4.6d
 		}
 		{
 			dependencies: ["164F4710E109F7F2"]
@@ -962,8 +1175,8 @@
 				item: { count: 1, id: "extended_industrialization:bronze_bending_machine" }
 				type: "item"
 			}]
-			x: 1.5499999999999998d
-			y: -5.7d
+			x: -0.9d
+			y: -4.3d
 		}
 		{
 			dependencies: ["164F4710E109F7F2"]
@@ -978,8 +1191,8 @@
 				item: { count: 1, id: "extended_industrialization:bronze_composter" }
 				type: "item"
 			}]
-			x: 1.5499999999999998d
-			y: 6.3d
+			x: -0.95d
+			y: 4.5d
 		}
 		{
 			dependencies: ["4A5466E364B85AEF"]
