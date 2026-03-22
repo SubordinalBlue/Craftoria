@@ -22,8 +22,8 @@
 			image: "modern_industrialization:block/machines/electric_quarry/overlay_front_active"
 			rotation: 0.0d
 			width: 10.0d
-			x: -13.9d
-			y: 0.9d
+			x: -9.35d
+			y: 14.75d
 		}
 		{
 			height: 10.0d
@@ -73,6 +73,16 @@
 			width: 16.0d
 			x: -1.35d
 			y: -19.65d
+		}
+		{
+			color: 16755200
+			height: 1.75d
+			image: "modern_industrialization:textures/gui/milogo.png"
+			order: 100
+			rotation: 0.0d
+			width: 1.75d
+			x: -8.9d
+			y: 0.8d
 		}
 	]
 	order_index: 3

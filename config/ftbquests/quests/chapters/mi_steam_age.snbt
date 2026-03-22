@@ -10,28 +10,12 @@
 	id: "2D12E0E71DEC99E9"
 	images: [
 		{
-			height: 4.0d
-			image: "modern_industrialization:fluid/steam_still"
-			rotation: 0.0d
-			width: 4.0d
-			x: 4.45d
-			y: -5.95d
-		}
-		{
-			height: 10.0d
-			image: "modern_industrialization:fluid/steam_still"
-			rotation: 0.0d
-			width: 10.0d
-			x: 31.2d
-			y: -5.35d
-		}
-		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/8"
 			rotation: 0.0d
 			width: 1.0d
 			x: -6.95d
-			y: 6.15d
+			y: -5.699999999999999d
 		}
 		{
 			height: 1.0d
@@ -39,7 +23,7 @@
 			rotation: 0.0d
 			width: 1.0d
 			x: -7.8d
-			y: 6.15d
+			y: -5.699999999999999d
 		}
 		{
 			height: 1.0d
@@ -50,69 +34,37 @@
 			y: -0.6499999999999999d
 		}
 		{
-			alpha: 128
+			color: 8495553
 			height: 10.0d
 			image: "mekanism:liquid/steam_flow"
-			rotation: -90.0d
+			rotation: -45.0d
 			width: 10.0d
-			x: -21.45d
-			y: -16.2d
-		}
-		{
-			height: 10.0d
-			image: "modern_industrialization:fluid/steam_still"
-			rotation: 0.0d
-			width: 10.0d
-			x: 31.2d
-			y: 3.1999999999999993d
-		}
-		{
-			height: 10.0d
-			image: "modern_industrialization:fluid/steam_still"
-			rotation: 0.0d
-			width: 10.0d
-			x: 19.65d
-			y: 14.55d
-		}
-		{
-			height: 10.0d
-			image: "modern_industrialization:fluid/steam_still"
-			rotation: 0.0d
-			width: 10.0d
-			x: 39.7d
-			y: 3.2d
-		}
-		{
-			height: 10.0d
-			image: "modern_industrialization:fluid/steam_still"
-			rotation: 0.0d
-			width: 10.0d
-			x: 39.8d
-			y: -5.35d
+			x: -26.4d
+			y: -4.65d
 		}
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/7"
 			rotation: 0.0d
 			width: 1.0d
-			x: -5.25d
-			y: 6.15d
+			x: -5.249999999999999d
+			y: -5.699999999999999d
 		}
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/7"
 			rotation: 0.0d
 			width: 1.0d
-			x: -4.4d
-			y: 6.15d
+			x: -4.400000000000001d
+			y: -5.699999999999999d
 		}
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/7"
 			rotation: 0.0d
 			width: 1.0d
-			x: -6.1d
-			y: 6.15d
+			x: -6.1000000000000005d
+			y: -5.699999999999999d
 		}
 		{
 			height: 1.0d
@@ -168,7 +120,7 @@
 			rotation: 0.0d
 			width: 1.0d
 			x: -6.95d
-			y: 5.3d
+			y: -6.55d
 		}
 		{
 			height: 1.0d
@@ -208,32 +160,381 @@
 			rotation: 0.0d
 			width: 1.0d
 			x: -6.95d
-			y: 7.0d
+			y: -4.85d
 		}
 		{
-			height: 2.0d
+			height: 1.75d
 			image: "modern_industrialization:textures/gui/milogo.png"
 			order: 100
 			rotation: 0.0d
-			width: 2.0d
-			x: -10.9d
-			y: 3.6d
-		}
-		{
-			height: 10.0d
-			image: "modern_industrialization:block/machines/electric_quarry/overlay_front_active"
-			rotation: 0.0d
-			width: 10.0d
-			x: -15.75d
-			y: 12.85d
+			width: 1.75d
+			x: -14.15d
+			y: -4.35d
 		}
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/electrum_tesla/8"
 			rotation: 0.0d
 			width: 1.0d
-			x: 4.4d
-			y: 11.0d
+			x: -14.3d
+			y: 4.05d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/6"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.95d
+			y: 5.3d
+		}
+		{
+			color: 16755200
+			height: 1.75d
+			image: "modern_industrialization:textures/gui/milogo.png"
+			order: 100
+			rotation: 0.0d
+			width: 1.75d
+			x: -14.15d
+			y: -2.15d
+		}
+		{
+			color: 16733695
+			height: 1.75d
+			image: "modern_industrialization:textures/gui/milogo.png"
+			order: 100
+			rotation: 0.0d
+			width: 1.75d
+			x: -14.15d
+			y: 0.09999999999999964d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.55d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.7d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.85d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.15d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.7d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.55d
+			y: -5.7d
+		}
+		{
+			color: 8495553
+			height: 8.0d
+			image: "modern_industrialization:fluid/steam_still"
+			rotation: 0.0d
+			width: 8.0d
+			x: -22.15d
+			y: 25.2d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.4d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.25d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.1d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.95d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.8d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.65d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.35d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.2d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.05d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.9d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.75d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.6d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.45d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.3d
+			y: -5.7d
+		}
+		{
+			color: 8495553
+			height: 8.0d
+			image: "modern_industrialization:fluid/steam_still"
+			rotation: 0.0d
+			width: 8.0d
+			x: -29.0d
+			y: 25.2d
+		}
+		{
+			color: 8495553
+			height: 8.0d
+			image: "modern_industrialization:fluid/steam_still"
+			rotation: 0.0d
+			width: 8.0d
+			x: -22.15d
+			y: 18.35d
+		}
+		{
+			color: 8495553
+			height: 8.0d
+			image: "modern_industrialization:fluid/steam_still"
+			rotation: 0.0d
+			width: 8.0d
+			x: -29.0d
+			y: 18.35d
+		}
+		{
+			color: 8495553
+			height: 8.0d
+			image: "modern_industrialization:fluid/steam_still"
+			rotation: 135.0d
+			width: 8.0d
+			x: 28.300000000000004d
+			y: 20.05d
+		}
+		{
+			color: 8495553
+			height: 8.0d
+			image: "modern_industrialization:fluid/steam_still"
+			rotation: 135.0d
+			width: 8.0d
+			x: 33.15d
+			y: 15.2d
+		}
+		{
+			color: 8495553
+			height: 8.0d
+			image: "modern_industrialization:fluid/steam_still"
+			rotation: 135.0d
+			width: 8.0d
+			x: 38.0d
+			y: 20.05d
+		}
+		{
+			color: 8495553
+			height: 8.0d
+			image: "modern_industrialization:fluid/steam_still"
+			rotation: 135.0d
+			width: 8.0d
+			x: 33.15d
+			y: 24.900000000000002d
+		}
+		{
+			color: 8495553
+			height: 8.0d
+			image: "modern_industrialization:fluid/steam_still"
+			rotation: 135.0d
+			width: 8.0d
+			x: 23.450000000000003d
+			y: 24.900000000000002d
+		}
+		{
+			color: 8495553
+			height: 8.0d
+			image: "modern_industrialization:fluid/steam_still"
+			rotation: 135.0d
+			width: 8.0d
+			x: 18.6d
+			y: 20.05d
+		}
+		{
+			color: 8495553
+			height: 8.0d
+			image: "modern_industrialization:fluid/steam_still"
+			rotation: 135.0d
+			width: 8.0d
+			x: 23.450000000000003d
+			y: 15.2d
+		}
+		{
+			color: 8495553
+			height: 8.0d
+			image: "modern_industrialization:fluid/steam_still"
+			rotation: 135.0d
+			width: 8.0d
+			x: 29.5d
+			y: 33.5d
+		}
+		{
+			color: 8495553
+			height: 8.0d
+			image: "modern_industrialization:fluid/steam_still"
+			rotation: 135.0d
+			width: 8.0d
+			x: 29.95d
+			y: 5.35d
+		}
+		{
+			color: 8495553
+			height: 8.0d
+			image: "modern_industrialization:fluid/steam_still"
+			rotation: 135.0d
+			width: 8.0d
+			x: 8.95d
+			y: 13.65d
+		}
+		{
+			color: 8495553
+			height: 8.0d
+			image: "modern_industrialization:fluid/steam_still"
+			rotation: 135.0d
+			width: 8.0d
+			x: 44.2d
+			y: 10.75d
+		}
+		{
+			color: 8495553
+			height: 8.0d
+			image: "modern_industrialization:fluid/steam_still"
+			rotation: 135.0d
+			width: 8.0d
+			x: 46.2d
+			y: 28.75d
+		}
+		{
+			color: 8495553
+			height: 8.0d
+			image: "modern_industrialization:fluid/steam_still"
+			rotation: 135.0d
+			width: 8.0d
+			x: 7.2d
+			y: 31.65d
 		}
 	]
 	order_index: 2
@@ -1312,6 +1613,24 @@
 			}]
 			x: 13.05d
 			y: 0.2999999999999998d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "modern_industrialization:textures/gui/milogo.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.25d
+			id: "2FF9595633E0F4AB"
+			shape: "square"
+			size: 2.0d
+			tasks: [{
+				id: "481C7A220F753AFC"
+				type: "checkmark"
+			}]
+			x: -6.9d
+			y: -5.7d
 		}
 	]
 }
