@@ -219,6 +219,22 @@
 			x: -10.9d
 			y: 3.6d
 		}
+		{
+			height: 10.0d
+			image: "modern_industrialization:block/machines/electric_quarry/overlay_front_active"
+			rotation: 0.0d
+			width: 10.0d
+			x: -15.75d
+			y: 12.85d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/electrum_tesla/8"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.4d
+			y: 11.0d
+		}
 	]
 	order_index: 2
 	quest_links: [ ]

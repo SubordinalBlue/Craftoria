@@ -8,14 +8,73 @@
 		id: "modern_industrialization:motor"
 	}
 	id: "53A9F74C4BFE02D2"
-	images: [{
-		height: 2.25d
-		image: "modern_industrialization:block/machines/steam_turbine/overlay_front_active"
-		rotation: 0.0d
-		width: 2.25d
-		x: -3.1999999999999993d
-		y: 1.5999999999999996d
-	}]
+	images: [
+		{
+			height: 2.25d
+			image: "modern_industrialization:block/machines/steam_turbine/overlay_front_active"
+			rotation: 0.0d
+			width: 2.25d
+			x: -3.1999999999999993d
+			y: 1.5999999999999996d
+		}
+		{
+			height: 10.0d
+			image: "modern_industrialization:block/machines/electric_quarry/overlay_front_active"
+			rotation: 0.0d
+			width: 10.0d
+			x: -13.9d
+			y: 0.9d
+		}
+		{
+			height: 10.0d
+			image: "extended_industrialization:item/tesla_particle_generator"
+			order: 100
+			rotation: 0.0d
+			width: 10.0d
+			x: -16.75d
+			y: -12.2d
+		}
+		{
+			height: 10.0d
+			image: "modern_industrialization:block/machines/steam_turbine/overlay_front_active_large"
+			rotation: 0.0d
+			width: 10.0d
+			x: -20.2d
+			y: 11.1d
+		}
+		{
+			height: 4.0d
+			image: "modern_industrialization:textures/gradient_maps/aluminum.png"
+			rotation: 0.0d
+			width: 16.0d
+			x: -1.35d
+			y: -10.8d
+		}
+		{
+			height: 4.0d
+			image: "modern_industrialization:textures/gradient_maps/copper.png"
+			rotation: 0.0d
+			width: 16.0d
+			x: -1.05d
+			y: -15.2d
+		}
+		{
+			height: 4.0d
+			image: "modern_industrialization:textures/gradient_maps/silver.png"
+			rotation: 0.0d
+			width: 16.0d
+			x: -35.9d
+			y: -13.05d
+		}
+		{
+			height: 4.0d
+			image: "modern_industrialization:textures/gradient_maps/annealed_copper.png"
+			rotation: 0.0d
+			width: 16.0d
+			x: -1.35d
+			y: -19.65d
+		}
+	]
 	order_index: 3
 	quest_links: [ ]
 	quests: [

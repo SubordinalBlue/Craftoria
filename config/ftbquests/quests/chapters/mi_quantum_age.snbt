@@ -8,6 +8,32 @@
 		id: "modern_industrialization:singularity"
 	}
 	id: "587D73D979FA9D28"
+	images: [
+		{
+			height: 4.0d
+			image: "modern_industrialization:block/quantum_machine_hull"
+			rotation: 0.0d
+			width: 4.0d
+			x: -8.35d
+			y: 8.8d
+		}
+		{
+			height: 4.0d
+			image: "modern_industrialization:block/quantum_machine_hull_bottom"
+			rotation: 0.0d
+			width: 4.0d
+			x: -4.25d
+			y: 8.75d
+		}
+		{
+			height: 4.0d
+			image: "modern_industrialization:block/quantum_machine_hull_top"
+			rotation: 0.0d
+			width: 4.0d
+			x: -7.9d
+			y: 5.3d
+		}
+	]
 	order_index: 4
 	quest_links: [ ]
 	quests: [
