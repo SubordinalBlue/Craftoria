@@ -385,13 +385,13 @@
 		}
 		{
 			color: 16733695
-			height: 1.75d
+			height: 1.8d
 			image: "modern_industrialization:textures/gui/milogo.png"
-			order: 100
+			order: 200
 			rotation: 0.0d
-			width: 1.75d
+			width: 1.8d
 			x: -10.35d
-			y: -5.2d
+			y: -5.9d
 		}
 		{
 			height: 1.0d
@@ -432,6 +432,38 @@
 			width: 1.0d
 			x: -15.2d
 			y: -2.1d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/superconductor_tesla/6"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.95d
+			y: -0.65d
+		}
+		{
+			height: 2.0d
+			image: "ftbquests:textures/shapes/square/background.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -10.35d
+			y: -5.9d
+		}
+		{
+			height: 2.0d
+			image: "ftbquests:textures/shapes/square/outline.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -10.35d
+			y: -5.9d
+		}
+		{
+			height: 2.0d
+			image: "ftbchunks:textures/square_mask.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -8.15d
+			y: -4.95d
 		}
 	]
 	order_index: 4
