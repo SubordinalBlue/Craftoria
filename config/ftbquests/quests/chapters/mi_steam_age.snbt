@@ -20,14 +20,16 @@
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/7"
+			order: 200
 			rotation: 0.0d
 			width: 1.0d
 			x: -11.2d
-			y: -6.049999999999999d
+			y: -6.05d
 		}
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/6"
+			order: 200
 			rotation: 0.0d
 			width: 1.0d
 			x: -10.349999999999998d
@@ -63,6 +65,7 @@
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/6"
+			order: 200
 			rotation: 0.0d
 			width: 1.0d
 			x: -10.349999999999998d
@@ -71,6 +74,7 @@
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/6"
+			order: 200
 			rotation: 0.0d
 			width: 1.0d
 			x: -10.349999999999998d
@@ -79,6 +83,7 @@
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/6"
+			order: 200
 			rotation: 0.0d
 			width: 1.0d
 			x: -10.349999999999998d
@@ -87,6 +92,7 @@
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/6"
+			order: 200
 			rotation: 0.0d
 			width: 1.0d
 			x: -10.349999999999998d
@@ -95,6 +101,7 @@
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/6"
+			order: 200
 			rotation: 0.0d
 			width: 1.0d
 			x: -10.349999999999998d
@@ -103,6 +110,7 @@
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/6"
+			order: 200
 			rotation: 0.0d
 			width: 1.0d
 			x: -10.349999999999998d
@@ -111,6 +119,7 @@
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/6"
+			order: 200
 			rotation: 0.0d
 			width: 1.0d
 			x: -10.349999999999998d
@@ -119,6 +128,7 @@
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/6"
+			order: 200
 			rotation: 0.0d
 			width: 1.0d
 			x: -10.349999999999998d
@@ -127,6 +137,7 @@
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/6"
+			order: 200
 			rotation: 0.0d
 			width: 1.0d
 			x: -10.349999999999998d
@@ -135,6 +146,7 @@
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/6"
+			order: 200
 			rotation: 0.0d
 			width: 1.0d
 			x: -10.349999999999998d
@@ -143,6 +155,7 @@
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/6"
+			order: 200
 			rotation: 0.0d
 			width: 1.0d
 			x: -10.349999999999998d
@@ -151,6 +164,7 @@
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/6"
+			order: 200
 			rotation: 0.0d
 			width: 1.0d
 			x: -10.349999999999998d
@@ -168,6 +182,7 @@
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/6"
+			order: 200
 			rotation: 0.0d
 			width: 1.0d
 			x: -10.349999999999998d
@@ -186,6 +201,7 @@
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/7"
+			order: 200
 			rotation: 0.0d
 			width: 1.0d
 			x: -6.949999999999999d
@@ -194,6 +210,7 @@
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/7"
+			order: 200
 			rotation: 0.0d
 			width: 1.0d
 			x: -6.099999999999998d
@@ -202,6 +219,7 @@
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/7"
+			order: 200
 			rotation: 0.0d
 			width: 1.0d
 			x: -5.25d
@@ -210,6 +228,7 @@
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/7"
+			order: 200
 			rotation: 0.0d
 			width: 1.0d
 			x: -4.399999999999999d
@@ -218,6 +237,7 @@
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/7"
+			order: 200
 			rotation: 0.0d
 			width: 1.0d
 			x: -3.5500000000000007d
@@ -226,6 +246,7 @@
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/7"
+			order: 200
 			rotation: 0.0d
 			width: 1.0d
 			x: -2.6999999999999993d
@@ -234,6 +255,7 @@
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/7"
+			order: 200
 			rotation: 0.0d
 			width: 1.0d
 			x: -1.8499999999999979d
@@ -242,6 +264,7 @@
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/7"
+			order: 200
 			rotation: 0.0d
 			width: 1.0d
 			x: -1.0d
@@ -250,6 +273,7 @@
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/7"
+			order: 200
 			rotation: 0.0d
 			width: 1.0d
 			x: -0.14999999999999858d
@@ -258,6 +282,7 @@
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/7"
+			order: 200
 			rotation: 0.0d
 			width: 1.0d
 			x: 0.6999999999999993d
@@ -266,6 +291,7 @@
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/7"
+			order: 200
 			rotation: 0.0d
 			width: 1.0d
 			x: 1.5500000000000007d
@@ -274,6 +300,7 @@
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/7"
+			order: 200
 			rotation: 0.0d
 			width: 1.0d
 			x: 2.400000000000002d
@@ -282,6 +309,7 @@
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/7"
+			order: 200
 			rotation: 0.0d
 			width: 1.0d
 			x: 3.2499999999999964d
@@ -290,6 +318,7 @@
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/7"
+			order: 200
 			rotation: 0.0d
 			width: 1.0d
 			x: 4.100000000000005d
@@ -298,6 +327,7 @@
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/7"
+			order: 200
 			rotation: 0.0d
 			width: 1.0d
 			x: 4.949999999999999d
@@ -306,6 +336,7 @@
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/7"
+			order: 200
 			rotation: 0.0d
 			width: 1.0d
 			x: 5.800000000000001d
@@ -314,6 +345,7 @@
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/7"
+			order: 200
 			rotation: 0.0d
 			width: 1.0d
 			x: 6.650000000000002d
@@ -322,6 +354,7 @@
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/7"
+			order: 200
 			rotation: 0.0d
 			width: 1.0d
 			x: 7.4999999999999964d
@@ -330,6 +363,7 @@
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/7"
+			order: 200
 			rotation: 0.0d
 			width: 1.0d
 			x: 8.350000000000005d
@@ -338,6 +372,7 @@
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/7"
+			order: 200
 			rotation: 0.0d
 			width: 1.0d
 			x: 9.2d
@@ -346,6 +381,7 @@
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/7"
+			order: 200
 			rotation: 0.0d
 			width: 1.0d
 			x: 10.05d
@@ -354,6 +390,7 @@
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/7"
+			order: 200
 			rotation: 0.0d
 			width: 1.0d
 			x: 10.900000000000002d
@@ -362,6 +399,7 @@
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/7"
+			order: 200
 			rotation: 0.0d
 			width: 1.0d
 			x: -8.649999999999999d
@@ -370,6 +408,7 @@
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/7"
+			order: 200
 			rotation: 0.0d
 			width: 1.0d
 			x: -7.800000000000001d
@@ -378,6 +417,7 @@
 		{
 			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/7"
+			order: 200
 			rotation: 0.0d
 			width: 1.0d
 			x: -9.5d
@@ -389,17 +429,17 @@
 			image: "modern_industrialization:fluid/steam_still"
 			rotation: 0.0d
 			width: 8.0d
-			x: -13.45d
-			y: 16.4d
+			x: 7.15d
+			y: 18.15d
 		}
 		{
-			color: 8495553
-			height: 8.0d
+			color: 10860493
+			height: 4.0d
 			image: "modern_industrialization:fluid/steam_still"
 			rotation: 0.0d
-			width: 8.0d
-			x: 5.55d
-			y: 10.8d
+			width: 4.0d
+			x: -9.9d
+			y: -5.6d
 		}
 		{
 			color: 8495553
@@ -412,12 +452,12 @@
 		}
 		{
 			color: 8495553
-			height: 8.0d
+			height: 7.0d
 			image: "modern_industrialization:fluid/steam_still"
 			rotation: 0.0d
-			width: 8.0d
-			x: -6.6d
-			y: -15.05d
+			width: 7.0d
+			x: -17.1d
+			y: -3.5d
 		}
 		{
 			color: 8495553
@@ -543,8 +583,8 @@
 			image: "modern_industrialization:fluid/steam_still"
 			rotation: 0.0d
 			width: 8.0d
-			x: 0.8d
-			y: 17.65d
+			x: -1.35d
+			y: 2.95d
 		}
 		{
 			color: 8495553
@@ -572,6 +612,51 @@
 			width: 8.0d
 			x: 29.1d
 			y: -8.05d
+		}
+		{
+			color: 10860493
+			height: 7.0d
+			image: "modern_industrialization:fluid/steam_still"
+			rotation: 0.0d
+			width: 7.0d
+			x: 11.6d
+			y: -1.8d
+		}
+		{
+			color: 10860493
+			height: 8.0d
+			image: "modern_industrialization:fluid/steam_still"
+			rotation: 0.0d
+			width: 8.0d
+			x: -16.05d
+			y: 5.05d
+		}
+		{
+			color: 10860493
+			height: 4.0d
+			image: "modern_industrialization:fluid/steam_still"
+			rotation: 0.0d
+			width: 4.0d
+			x: -9.9d
+			y: -2.2d
+		}
+		{
+			color: 10860493
+			height: 4.0d
+			image: "modern_industrialization:fluid/steam_still"
+			rotation: 0.0d
+			width: 4.0d
+			x: -9.9d
+			y: 1.2d
+		}
+		{
+			color: 10860493
+			height: 4.0d
+			image: "modern_industrialization:fluid/steam_still"
+			rotation: 0.0d
+			width: 4.0d
+			x: -9.9d
+			y: 4.6d
 		}
 	]
 	order_index: 2
@@ -1666,8 +1751,8 @@
 				id: "481C7A220F753AFC"
 				type: "checkmark"
 			}]
-			x: -10.3d
-			y: -6.049999999999999d
+			x: -10.4d
+			y: -6.0d
 		}
 	]
 }
