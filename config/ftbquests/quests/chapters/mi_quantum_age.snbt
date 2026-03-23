@@ -10,6 +10,339 @@
 	id: "587D73D979FA9D28"
 	images: [
 		{
+			color: 16755200
+			height: 1.75d
+			image: "modern_industrialization:textures/gui/milogo.png"
+			order: 100
+			rotation: 0.0d
+			width: 1.75d
+			x: -14.15d
+			y: -2.15d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/6"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.95d
+			y: 0.20000000000000018d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/6"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.95d
+			y: 1.0499999999999998d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/6"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.95d
+			y: -2.3499999999999996d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/6"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.95d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/6"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.95d
+			y: 2.75d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/6"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.95d
+			y: 1.9000000000000004d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/6"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.95d
+			y: -6.55d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/6"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.95d
+			y: 4.45d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/6"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.95d
+			y: 3.6000000000000005d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/6"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.95d
+			y: -4.05d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/6"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.95d
+			y: -3.1999999999999997d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/6"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.95d
+			y: -4.85d
+		}
+		{
+			height: 1.75d
+			image: "modern_industrialization:textures/gui/milogo.png"
+			order: 100
+			rotation: 0.0d
+			width: 1.75d
+			x: -14.15d
+			y: -4.35d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/6"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.95d
+			y: 5.3d
+		}
+		{
+			color: 16733695
+			height: 1.75d
+			image: "modern_industrialization:textures/gui/milogo.png"
+			order: 100
+			rotation: 0.0d
+			width: 1.75d
+			x: -14.15d
+			y: 0.09999999999999964d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.55d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.7d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.85d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.15d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.7d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.55d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.4d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.25d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.1d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.95d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.8d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.65d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.35d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.2d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.05d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.9d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.75d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.6d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.45d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.3d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.249999999999999d
+			y: -5.699999999999999d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.400000000000001d
+			y: -5.699999999999999d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.1000000000000005d
+			y: -5.699999999999999d
+		}
+		{
 			height: 4.0d
 			image: "modern_industrialization:block/quantum_machine_hull"
 			rotation: 0.0d
