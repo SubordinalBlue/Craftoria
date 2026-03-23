@@ -44,27 +44,21 @@
 		}
 		{
 			height: 1.0d
-			image: "extended_industrialization:block/casings/copper_tesla/7"
+			image: "extended_industrialization:block/casings/electrum_tesla/8"
 			rotation: 0.0d
 			width: 1.0d
-			x: -5.249999999999999d
-			y: -5.699999999999999d
+			x: -14.3d
+			y: 4.05d
 		}
 		{
-			height: 1.0d
-			image: "extended_industrialization:block/casings/copper_tesla/7"
+			color: 16755200
+			height: 1.75d
+			image: "modern_industrialization:textures/gui/milogo.png"
+			order: 100
 			rotation: 0.0d
-			width: 1.0d
-			x: -4.400000000000001d
-			y: -5.699999999999999d
-		}
-		{
-			height: 1.0d
-			image: "extended_industrialization:block/casings/copper_tesla/7"
-			rotation: 0.0d
-			width: 1.0d
-			x: -6.1000000000000005d
-			y: -5.699999999999999d
+			width: 1.75d
+			x: -14.15d
+			y: -2.15d
 		}
 		{
 			height: 1.0d
@@ -173,29 +167,11 @@
 		}
 		{
 			height: 1.0d
-			image: "extended_industrialization:block/casings/electrum_tesla/8"
-			rotation: 0.0d
-			width: 1.0d
-			x: -14.3d
-			y: 4.05d
-		}
-		{
-			height: 1.0d
 			image: "extended_industrialization:block/casings/copper_tesla/6"
 			rotation: 0.0d
 			width: 1.0d
 			x: -6.95d
 			y: 5.3d
-		}
-		{
-			color: 16755200
-			height: 1.75d
-			image: "modern_industrialization:textures/gui/milogo.png"
-			order: 100
-			rotation: 0.0d
-			width: 1.75d
-			x: -14.15d
-			y: -2.15d
 		}
 		{
 			color: 16733695
@@ -262,15 +238,6 @@
 			width: 1.0d
 			x: 1.55d
 			y: -5.7d
-		}
-		{
-			color: 8495553
-			height: 8.0d
-			image: "modern_industrialization:fluid/steam_still"
-			rotation: 0.0d
-			width: 8.0d
-			x: -22.15d
-			y: 25.2d
 		}
 		{
 			height: 1.0d
@@ -391,6 +358,39 @@
 			width: 1.0d
 			x: 14.3d
 			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.249999999999999d
+			y: -5.699999999999999d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.400000000000001d
+			y: -5.699999999999999d
+		}
+		{
+			height: 1.0d
+			image: "extended_industrialization:block/casings/copper_tesla/7"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.1000000000000005d
+			y: -5.699999999999999d
+		}
+		{
+			color: 8495553
+			height: 8.0d
+			image: "modern_industrialization:fluid/steam_still"
+			rotation: 0.0d
+			width: 8.0d
+			x: -22.15d
+			y: 25.2d
 		}
 		{
 			color: 8495553

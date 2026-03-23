@@ -14,8 +14,8 @@
 			image: "modern_industrialization:block/quantum_machine_hull"
 			rotation: 0.0d
 			width: 4.0d
-			x: -8.35d
-			y: 8.8d
+			x: -22.05d
+			y: 4.5d
 		}
 		{
 			color: 11184810
@@ -23,16 +23,16 @@
 			image: "modern_industrialization:block/quantum_machine_hull_bottom"
 			rotation: 0.0d
 			width: 4.0d
-			x: -4.25d
-			y: 8.75d
+			x: -22.9d
+			y: 8.8d
 		}
 		{
 			height: 4.0d
 			image: "modern_industrialization:block/quantum_machine_hull_top"
 			rotation: 0.0d
 			width: 4.0d
-			x: -7.9d
-			y: 5.3d
+			x: -22.5d
+			y: -1.5d
 		}
 		{
 			height: 1.0d
@@ -47,16 +47,16 @@
 			image: "modern_industrialization:block/casings/superconductor/ctm/12"
 			rotation: 0.0d
 			width: 1.0d
-			x: -9.65d
-			y: 0.1d
+			x: -15.75d
+			y: -2.6d
 		}
 		{
 			height: 1.0d
 			image: "modern_industrialization:block/casings/superconductor/ctm/12"
 			rotation: 0.0d
 			width: 1.0d
-			x: -8.8d
-			y: 0.1d
+			x: -14.05d
+			y: -2.2d
 		}
 		{
 			height: 1.0d
