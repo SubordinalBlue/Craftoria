@@ -393,15 +393,6 @@
 			order: 200
 			rotation: 0.0d
 			width: 1.0d
-			x: 10.900000000000002d
-			y: -6.049999999999999d
-		}
-		{
-			height: 1.0d
-			image: "extended_industrialization:block/casings/copper_tesla/7"
-			order: 200
-			rotation: 0.0d
-			width: 1.0d
 			x: -8.649999999999999d
 			y: -6.049999999999999d
 		}
@@ -424,40 +415,13 @@
 			y: -6.049999999999999d
 		}
 		{
-			color: 8495553
-			height: 8.0d
-			image: "modern_industrialization:fluid/steam_still"
-			rotation: 0.0d
-			width: 8.0d
-			x: 7.15d
-			y: 18.15d
-		}
-		{
 			color: 10860493
 			height: 4.0d
 			image: "modern_industrialization:fluid/steam_still"
 			rotation: 0.0d
 			width: 4.0d
-			x: -9.9d
-			y: -5.6d
-		}
-		{
-			color: 8495553
-			height: 8.0d
-			image: "modern_industrialization:fluid/steam_still"
-			rotation: 0.0d
-			width: 8.0d
-			x: 0.4d
-			y: -15.6d
-		}
-		{
-			color: 8495553
-			height: 7.0d
-			image: "modern_industrialization:fluid/steam_still"
-			rotation: 0.0d
-			width: 7.0d
-			x: -17.1d
-			y: -3.5d
+			x: 22.8d
+			y: -18.0d
 		}
 		{
 			color: 8495553
@@ -528,15 +492,6 @@
 			image: "modern_industrialization:fluid/steam_still"
 			rotation: 135.0d
 			width: 8.0d
-			x: 29.5d
-			y: 33.5d
-		}
-		{
-			color: 8495553
-			height: 8.0d
-			image: "modern_industrialization:fluid/steam_still"
-			rotation: 135.0d
-			width: 8.0d
 			x: 33.1d
 			y: 5.25d
 		}
@@ -559,16 +514,8 @@
 			y: 19.8d
 		}
 		{
-			color: 8495553
-			height: 8.0d
-			image: "modern_industrialization:fluid/steam_still"
-			rotation: 135.0d
-			width: 8.0d
-			x: 46.2d
-			y: 28.75d
-		}
-		{
 			color: 16733695
+			dev: true
 			height: 1.0d
 			image: "ftbquests:textures/shapes/circle/background.png"
 			order: 999
@@ -578,58 +525,340 @@
 			y: 0.0d
 		}
 		{
-			color: 8495553
-			height: 8.0d
+			color: 10860493
+			height: 7.0d
 			image: "modern_industrialization:fluid/steam_still"
+			order: 10
 			rotation: 0.0d
-			width: 8.0d
-			x: -1.35d
-			y: 2.95d
+			width: 7.0d
+			x: 1.299999999999999d
+			y: -3.799999999999999d
 		}
 		{
-			color: 8495553
+			color: 10860493
 			height: 8.0d
 			image: "modern_industrialization:fluid/steam_still"
+			order: 50
 			rotation: 0.0d
 			width: 8.0d
-			x: 10.55d
-			y: -15.75d
+			x: -22.2d
+			y: 23.099999999999998d
 		}
 		{
-			color: 8495553
-			height: 8.0d
+			color: 10860493
+			height: 4.0d
 			image: "modern_industrialization:fluid/steam_still"
 			rotation: 0.0d
-			width: 8.0d
-			x: 21.95d
-			y: 10.25d
+			width: 4.0d
+			x: 22.8d
+			y: -14.600000000000001d
 		}
 		{
-			color: 8495553
-			height: 8.0d
+			color: 10860493
+			height: 4.0d
 			image: "modern_industrialization:fluid/steam_still"
 			rotation: 0.0d
+			width: 4.0d
+			x: 22.8d
+			y: -11.2d
+		}
+		{
+			color: 1908772
+			height: 8.0d
+			image: "modern_industrialization:fluid/steam_still"
+			order: 40
+			rotation: 0.0d
 			width: 8.0d
-			x: 29.1d
-			y: -8.05d
+			x: -22.049999999999997d
+			y: 23.349999999999998d
+		}
+		{
+			color: 10860493
+			height: 8.0d
+			image: "modern_industrialization:fluid/steam_still"
+			order: 30
+			rotation: 0.0d
+			width: 4.0d
+			x: -19.2d
+			y: 21.349999999999998d
+		}
+		{
+			color: 10860493
+			height: 4.0d
+			image: "modern_industrialization:fluid/steam_still"
+			order: 60
+			rotation: 0.0d
+			width: 8.0d
+			x: -26.2d
+			y: 20.849999999999998d
+		}
+		{
+			color: 1908772
+			height: 4.0d
+			image: "modern_industrialization:fluid/steam_still"
+			order: 55
+			rotation: 0.0d
+			width: 8.0d
+			x: -26.049999999999997d
+			y: 21.049999999999997d
+		}
+		{
+			color: 10860493
+			height: 4.0d
+			image: "modern_industrialization:fluid/steam_still"
+			order: 70
+			rotation: 0.0d
+			width: 4.0d
+			x: -22.45d
+			y: 18.2d
+		}
+		{
+			color: 1908772
+			height: 4.0d
+			image: "modern_industrialization:fluid/steam_still"
+			order: 65
+			rotation: 0.0d
+			width: 4.0d
+			x: -22.299999999999997d
+			y: 18.349999999999998d
+		}
+		{
+			color: 10860493
+			height: 4.0d
+			image: "modern_industrialization:fluid/steam_still"
+			rotation: 0.0d
+			width: 4.0d
+			x: 22.8d
+			y: -7.800000000000001d
 		}
 		{
 			color: 10860493
 			height: 7.0d
 			image: "modern_industrialization:fluid/steam_still"
+			order: 110
 			rotation: 0.0d
 			width: 7.0d
-			x: 11.6d
-			y: -1.8d
+			x: -2.700000000000001d
+			y: 0.20000000000000107d
 		}
 		{
 			color: 10860493
-			height: 8.0d
+			height: 7.0d
+			image: "modern_industrialization:fluid/steam_still"
+			order: 90
+			rotation: 0.0d
+			width: 7.0d
+			x: 2.549999999999999d
+			y: 1.5000000000000018d
+		}
+		{
+			color: 10860493
+			height: 7.0d
+			image: "modern_industrialization:fluid/steam_still"
+			order: 120
+			rotation: 0.0d
+			width: 7.0d
+			x: -4.15d
+			y: -4.899999999999999d
+		}
+		{
+			color: 10860493
+			height: 7.0d
+			image: "modern_industrialization:fluid/steam_still"
+			order: 30
+			rotation: 0.0d
+			width: 7.0d
+			x: -6.8500000000000005d
+			y: 2.6500000000000004d
+		}
+		{
+			color: 118042
+			height: 16.0d
 			image: "modern_industrialization:fluid/steam_still"
 			rotation: 0.0d
-			width: 8.0d
-			x: -16.05d
-			y: 5.05d
+			width: 27.0d
+			x: -31.2d
+			y: 12.95d
+		}
+		{
+			color: 10860493
+			height: 7.0d
+			image: "modern_industrialization:fluid/steam_still"
+			order: 20
+			rotation: 0.0d
+			width: 7.0d
+			x: -1.5500000000000007d
+			y: 4.500000000000002d
+		}
+		{
+			color: 10860493
+			height: 7.0d
+			image: "modern_industrialization:fluid/steam_still"
+			order: 130
+			rotation: 0.0d
+			width: 7.0d
+			x: -10.15d
+			y: -5.649999999999999d
+		}
+		{
+			color: 10860493
+			height: 7.0d
+			image: "modern_industrialization:fluid/steam_still"
+			order: 45
+			rotation: 0.0d
+			width: 7.0d
+			x: 6.700000000000001d
+			y: -5.499999999999998d
+		}
+		{
+			color: 10860493
+			height: 7.0d
+			image: "modern_industrialization:fluid/steam_still"
+			order: 10
+			rotation: 0.0d
+			width: 7.0d
+			x: -10.55d
+			y: 3.6500000000000004d
+		}
+		{
+			color: 10860493
+			height: 7.0d
+			image: "modern_industrialization:fluid/steam_still"
+			order: 100
+			rotation: 0.0d
+			width: 7.0d
+			x: -7.9d
+			y: -1.1500000000000004d
+		}
+		{
+			color: 10860493
+			height: 7.0d
+			image: "modern_industrialization:fluid/steam_still"
+			order: 10
+			rotation: 0.0d
+			width: 7.0d
+			x: -11.9d
+			y: -1.049999999999999d
+		}
+		{
+			color: 10860493
+			height: 7.0d
+			image: "modern_industrialization:fluid/steam_still"
+			order: 10
+			rotation: 0.0d
+			width: 7.0d
+			x: 3.950000000000001d
+			y: 4.250000000000002d
+		}
+		{
+			color: 10860493
+			height: 7.0d
+			image: "modern_industrialization:fluid/steam_still"
+			order: 10
+			rotation: 0.0d
+			width: 7.0d
+			x: 6.950000000000001d
+			y: -0.4499999999999975d
+		}
+		{
+			color: 10860493
+			height: 7.0d
+			image: "modern_industrialization:fluid/steam_still"
+			order: 50
+			rotation: 0.0d
+			width: 7.0d
+			x: 8.250000000000002d
+			y: 3.5500000000000025d
+		}
+		{
+			color: 10860493
+			height: 7.0d
+			image: "modern_industrialization:fluid/steam_still"
+			order: 10
+			rotation: 0.0d
+			width: 7.0d
+			x: 8.950000000000001d
+			y: -2.049999999999999d
+		}
+		{
+			color: 10860493
+			height: 7.0d
+			image: "modern_industrialization:fluid/steam_still"
+			order: 10
+			rotation: 0.0d
+			width: 7.0d
+			x: 8.549999999999999d
+			y: -6.299999999999999d
+		}
+		{
+			color: 10860493
+			height: 7.0d
+			image: "modern_industrialization:fluid/steam_still"
+			order: 80
+			rotation: 0.0d
+			width: 7.0d
+			x: 1.0999999999999996d
+			y: -6.6d
+		}
+		{
+			color: 2106408
+			height: 7.0d
+			image: "modern_industrialization:fluid/steam_still"
+			order: 5
+			rotation: 0.0d
+			width: 7.0d
+			x: -10.4d
+			y: 3.9000000000000004d
+		}
+		{
+			color: 2106408
+			height: 7.0d
+			image: "modern_industrialization:fluid/steam_still"
+			order: 15
+			rotation: 0.0d
+			width: 7.0d
+			x: -1.450000000000001d
+			y: 4.65d
+		}
+		{
+			color: 2106408
+			height: 7.0d
+			image: "modern_industrialization:fluid/steam_still"
+			order: 25
+			rotation: 0.0d
+			width: 7.0d
+			x: -6.700000000000001d
+			y: 2.8000000000000025d
+		}
+		{
+			color: 2106408
+			height: 7.0d
+			image: "modern_industrialization:fluid/steam_still"
+			order: 35
+			rotation: 0.0d
+			width: 7.0d
+			x: 6.799999999999999d
+			y: -5.35d
+		}
+		{
+			color: 2106408
+			height: 7.0d
+			image: "modern_industrialization:fluid/steam_still"
+			order: 45
+			rotation: 0.0d
+			width: 7.0d
+			x: 8.4d
+			y: 3.700000000000001d
+		}
+		{
+			color: 2106408
+			height: 7.0d
+			image: "modern_industrialization:fluid/steam_still"
+			order: 125
+			rotation: 0.0d
+			width: 7.0d
+			x: -10.0d
+			y: -5.499999999999998d
 		}
 		{
 			color: 10860493
@@ -637,26 +866,58 @@
 			image: "modern_industrialization:fluid/steam_still"
 			rotation: 0.0d
 			width: 4.0d
-			x: -9.9d
-			y: -2.2d
+			x: 26.2d
+			y: -7.8d
 		}
 		{
-			color: 10860493
-			height: 4.0d
+			color: 2106408
+			height: 7.0d
 			image: "modern_industrialization:fluid/steam_still"
+			order: 75
 			rotation: 0.0d
-			width: 4.0d
-			x: -9.9d
-			y: 1.2d
+			width: 7.0d
+			x: 1.200000000000001d
+			y: -6.499999999999998d
 		}
 		{
-			color: 10860493
-			height: 4.0d
+			color: 2106408
+			height: 7.0d
 			image: "modern_industrialization:fluid/steam_still"
+			order: 85
 			rotation: 0.0d
-			width: 4.0d
-			x: -9.9d
-			y: 4.6d
+			width: 7.0d
+			x: 2.5999999999999996d
+			y: 1.5500000000000025d
+		}
+		{
+			color: 2106408
+			height: 7.0d
+			image: "modern_industrialization:fluid/steam_still"
+			order: 95
+			rotation: 0.0d
+			width: 7.0d
+			x: -7.750000000000001d
+			y: -0.9000000000000004d
+		}
+		{
+			color: 2106408
+			height: 7.0d
+			image: "modern_industrialization:fluid/steam_still"
+			order: 105
+			rotation: 0.0d
+			width: 7.0d
+			x: -2.5500000000000007d
+			y: 0.34999999999999964d
+		}
+		{
+			color: 2106408
+			height: 7.0d
+			image: "modern_industrialization:fluid/steam_still"
+			order: 115
+			rotation: 0.0d
+			width: 7.0d
+			x: -4.050000000000001d
+			y: -4.749999999999998d
 		}
 	]
 	order_index: 2
