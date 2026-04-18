@@ -32,8 +32,8 @@
 			order: 200
 			rotation: 0.0d
 			width: 25.0d
-			x: 10.5d
-			y: -15.1d
+			x: 22.15d
+			y: 7.55d
 		}
 		{
 			alpha: 32
@@ -43,8 +43,8 @@
 			order: 500
 			rotation: 0.0d
 			width: 25.0d
-			x: -24.3d
-			y: 12.7d
+			x: -5.3d
+			y: 15.25d
 		}
 		{
 			height: 1.0d
@@ -1199,6 +1199,807 @@
 			width: 1.0d
 			x: 1.7d
 			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -24.3d
+			y: 12.7d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -20.5d
+			y: -2.85d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.85d
+			y: -5.65d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.7d
+			y: -5.05d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.649999999999999d
+			y: -6.15d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.049999999999999d
+			y: -7.25d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.899999999999999d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: -4.95d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.399999999999999d
+			y: -5.7d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -8.25d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.2d
+			y: -7.45d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.099999999999998d
+			y: -6.85d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.349999999999999d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: -0.9d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: -1.75d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: -1.8d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: -2.6d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4d
+			y: -0.9d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4d
+			y: -1.75d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4d
+			y: -1.8d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4d
+			y: -2.6d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: -0.050000000000000044d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: -0.05d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: -0.8999999999999999d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: -1.75d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: -2.6d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: 0.8d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.7d
+			y: -0.05d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.7d
+			y: -2.6d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.7d
+			y: 0.8d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.7d
+			y: 1.65d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.7d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.7d
+			y: 3.35d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.6999999999999997d
+			y: -0.050000000000000044d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.6999999999999997d
+			y: -0.8999999999999999d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.6999999999999997d
+			y: -1.75d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.85d
+			y: -0.050000000000000155d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.85d
+			y: -0.9d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.85d
+			y: -1.75d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.85d
+			y: -2.6d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.85d
+			y: 0.7999999999999999d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.85d
+			y: 1.65d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.85d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.85d
+			y: 3.35d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.85d
+			y: 4.2d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -0.05d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -0.9d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -1.75d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -2.6d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 0.8d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 1.65d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 3.3499999999999996d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 3.35d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 4.2d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.05d
+			y: -0.05d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.05d
+			y: 0.8d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.8499999999999993d
+			y: -0.9d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.85d
+			y: -0.05d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.85d
+			y: -1.75d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.85d
+			y: -2.6d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.85d
+			y: 0.8d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.85d
+			y: 1.65d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.85d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.85d
+			y: 3.35d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.85d
+			y: 4.2d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.7d
+			y: -0.050000000000000044d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.7d
+			y: -0.8999999999999999d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.7d
+			y: -1.75d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.7d
+			y: -2.6d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.7d
+			y: 0.7999999999999998d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.7d
+			y: 0.8d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.7d
+			y: 1.65d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.7d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.7d
+			y: 3.35d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.55d
+			y: -0.05d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.55d
+			y: -0.9d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.55d
+			y: -1.75d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.55d
+			y: -2.6d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.55d
+			y: 0.8d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.4d
+			y: -0.9d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.4d
+			y: -1.75d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.4d
+			y: -2.6d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.2d
+			y: -0.9d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.25d
+			y: -0.9d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.25d
+			y: -1.75d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.25d
+			y: -2.6d
+		}
+		{
+			height: 1.0d
+			image: "ftbquests:textures/gui/3d_lit.png"
+			order: 400
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: -15.1d
 		}
 		{
 			height: 1.0d
