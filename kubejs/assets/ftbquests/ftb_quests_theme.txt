@@ -160,13 +160,23 @@ dependency_line_unselected_speed:   0.25
 dependency_line_uncompleted_color:  #FF808080
 dependency_line_unavailable_color:  #8F808080
 
-# Mekanism
+# Mekanism: Industry
 [40CEA39FE5F5225D]
-dependency_line_texture:            ftbquests:textures/gui/flowing_mekanism.png
-dependency_line_uncompleted_color:  #F8C8C8C8
-dependency_line_unavailable_color:  #88C8C8C8
-dependency_line_selected_speed:     1.0
-dependency_line_unselected_speed:   0.5
+background:                         ftbquests:textures/gui/background_white.png; color=#eea324e1; tile_size=64
+dependency_line_texture:            ftbquests:textures/gui/flowing_mekanism_industry.png
+dependency_line_uncompleted_color:  #ffffff
+
+# Mekanism: Logistics
+[58ABCA8D818937AA]
+background:                         ftbquests:textures/gui/background_white.png; color=#cc03765b; tile_size=64
+dependency_line_texture:            ftbquests:textures/gui/flowing_mekanism_logistics.png
+dependency_line_uncompleted_color:  #ffffff
+
+# Mekanism: Power
+[09343C303E49C46F]
+background:                         ftbquests:textures/gui/background_white.png; color=#ccf47500; tile_size=64
+dependency_line_texture:            ftbquests:textures/gui/flowing_mekanism_power.png
+dependency_line_uncompleted_color:  #ffffffff
 
 # Theurgy
 [5A3894BACC5E8994]

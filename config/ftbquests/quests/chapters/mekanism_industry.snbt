@@ -2,7 +2,7 @@
 	autofocus_id: "44D8D30BCD48C4C9"
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
-	filename: "mekanism"
+	filename: "mekanism_industry"
 	group: "066C799B2F5452CD"
 	icon: {
 		id: "mekanism:electrolytic_separator"
